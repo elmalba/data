@@ -1087,7 +1087,10 @@
             "code": "",
             "section": "",
             "course": "QUÍMICA",
-            "place": "",
+            "place": "E326.2.S204",
+            "start": "9:00:00",
+            "finish": "17:00:00",
+            "day": "2",
             "teacher": "Manuel Gacitúa"
           }
         }
