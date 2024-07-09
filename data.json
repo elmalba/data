@@ -1081,6 +1081,15 @@
             "day": "3",
             "teacher": "Karol Suchan"
           }
+        },
+        {
+          "node": {
+            "code": "",
+            "section": "",
+            "course": "QUÍMICA",
+            "place": "",
+            "teacher": "Manuel Gacitúa"
+          }
         }
       ]
     }
