@@ -1081,18 +1081,6 @@
             "day": "3",
             "teacher": "Karol Suchan"
           }
-        },
-        {
-          "node": {
-            "code": "",
-            "section": "",
-            "course": "QUÍMICA",
-            "place": "E326.-1.Hall",
-            "start": "9:00:00",
-            "finish": "17:00:00",
-            "day": "2",
-            "teacher": "Manuel Gacitúa"
-          }
         }
       ]
     }
