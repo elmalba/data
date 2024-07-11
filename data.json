@@ -913,6 +913,222 @@
             "day": "1",
             "teacher": "Luis Yáñez"
           }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "1",
+            "course": "CÁLCULO III",
+            "place": "E441.1.S101",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Bruno Aguiló"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "2 Y 3",
+            "course": "CÁLCULO III",
+            "place": "E441.1.S106",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Juan Muñoz"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "5 Y 7",
+            "course": "CÁLCULO III",
+            "place": "E441.2.S201",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Emilio Marti"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "8",
+            "course": "CÁLCULO III",
+            "place": "E441.2.S202",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Carlos Landeros"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756",
+            "section": "2 Y 3",
+            "course": "ECONOMETRÍA",
+            "place": "E441.2.S205 Y E441.2.206",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Paulina Quilodrán"
+          }
+        },
+        {
+          "node": {
+            "code": "EIT",
+            "section": "1",
+            "course": "ELECTIVO PROFESIONAL",
+            "place": "E441.2.S207",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Sin definir"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "4 Y 6",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S402",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Jamie Contreras"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3611",
+            "section": "1",
+            "course": "ÉTICA EMPRESARIAL",
+            "place": "V432.3.AU",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "José Antonio Díaz"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756",
+            "section": "1",
+            "course": "ECONOMETRÍA",
+            "place": "V432.3.S312",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Paula Fariña"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3000",
+            "section": "1",
+            "course": "INGENIERÍA DE COSTOS",
+            "place": "V432.3.S313",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Juan Acuña"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "9",
+            "course": "CÁLCULO III",
+            "place": "V432.4.S412",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Juan Rossel"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "1 Y 3",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.1.S106 Y E441.1.S101",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Mitsuo Tanida"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "1",
+            "course": "LOGÍSTICA",
+            "place": "E441.2.S201",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Raúl Pezoa"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "5, 7 Y 8",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.2.S205, E441.2.S206 y E441.2.S207",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Álvaro Zúñiga"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3619",
+            "section": "1",
+            "course": "DISEÑO EN MADERA",
+            "place": "E441.4.S402",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Jose Tramon"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "4 Y 6",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.3.AU",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Renny Márquez"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "2",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.3.S312",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Francisco Jara"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "2",
+            "course": "LOGÍSTICA",
+            "place": "V432.4.S412",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Luis Yáñez"
+          }
         }
       ]
     }
