@@ -181,6 +181,294 @@
             "day": "5",
             "teacher": "Natalia Manríquez"
           }
+        },
+        {
+          "node": {
+            "code": "CII2253",
+            "section": "2 y 3",
+            "course": "PRODUCCIÓN",
+            "place": "E441.2.S201 y E441.2.S202",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Nicolás Tapia"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253",
+            "section": "1",
+            "course": "PRODUCCIÓN",
+            "place": "E441.2.S205",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Renny Márquez"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3710",
+            "section": "1",
+            "course": "FINTECH",
+            "place": "E441.2.S206",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Hernán Alvarado"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2202",
+            "section": "1",
+            "course": "EDIFICACIÓN",
+            "place": "E441.4.S402",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Carmen Gloria Morales"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "1",
+            "course": "ELECTIVO PROFESIONAL",
+            "place": "E441.4.S403",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Sin definir"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "5",
+            "course": "REDES DE DATOS",
+            "place": "V432.3.AU",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Rodrigo Muñoz"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "4",
+            "course": "REDES DE DATOS",
+            "place": "V432.3.AU",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Carlos García"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "2",
+            "course": "REDES DE DATOS",
+            "place": "V432.3.S312",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Nicolás Hidalgo"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3615",
+            "section": "1",
+            "course": "MICROECONOMETRÍA",
+            "place": "V432.3.S315",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Louis de Grange"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3600",
+            "section": "1",
+            "course": "TÓPICOS EN FINANZAS",
+            "place": "E441.1.S106",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Roberto Ortiz"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204",
+            "section": "1 y 2",
+            "course": "PROBABILIDADES Y ESTADÍSTICAS (EIT)",
+            "place": "E441.2.S201",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Nicolás Araya y Nicolás Tapia"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "1",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "E441.2.S206",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Verónica Patiño"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011",
+            "section": "1 y 2",
+            "course": "SISTEMAS DISTRIBUIDOS",
+            "place": "E441.2.S205",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Nicolás Hidalgo"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.4.L.D",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Eduardo Faivovich"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "2",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.4.L.U",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Eduardo Faivovich"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "2 Y 3",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "E441.4.S402",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Esteban Zamora"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "2",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.1.S106",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Rosa San Martín"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "3",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.2.S201",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Ema Cortéz"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "5",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.2.S202",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Ema Cortéz"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3612",
+            "section": "1",
+            "course": "TÓPICOS EN MACROECONOMÍA",
+            "place": "E441.2.S205",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Jaime Calcagno"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3625",
+            "section": "1",
+            "course": "MANEJO DEL RIESGO Y APOYO DE LA TOMA DE",
+            "place": "E441.2.S206",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Raúl Pérez"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "4 y 6",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.4.S402",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Roberto Ortiz"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "7",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "V432.3.S312",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Yessica Arismendi"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2102",
+            "section": "1",
+            "course": "ANÁLISIS ESTRUCTURAL",
+            "place": "V432.3.AU",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Jose Colombo"
+          }
         }
       ]
     }
