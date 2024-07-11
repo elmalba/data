@@ -469,6 +469,306 @@
             "day": "5",
             "teacher": "Jose Colombo"
           }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "1",
+            "course": "CÁLCULO I",
+            "place": "E441.1.S101",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Gabriela López"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "2",
+            "course": "ESTÁTICA",
+            "place": "E441.1.S105",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Amaru González"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2106",
+            "section": "1",
+            "course": "FUNDACIONES",
+            "place": "E441.1.S106",
+            "start": "8:30:00",
+            "finish": "13:00:00",
+            "day": "1",
+            "teacher": "Pablo Gonzalez"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2109",
+            "section": "2",
+            "course": "MECÁNICA DE SÓLIDOS",
+            "place": "E441.1.S106",
+            "start": "8:30:00",
+            "finish": "13:00:00",
+            "day": "1",
+            "teacher": "Pablo Gonzalez"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "5 Y 8",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S201",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Hugo Maturana"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "3",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S202",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Juan Rossel"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "14",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S204",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Juan Muñoz"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "6 Y 16",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S205",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Andrea Casado"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "18",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S206",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Rosa Rivero"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "13",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S207",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Rosa Rivero"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107",
+            "section": "3",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "E441.3.S302",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Jorge Tobar"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "3",
+            "course": "ESTÁTICA",
+            "place": "E441.3.S303",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Leonardo Gallo"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "1",
+            "course": "ESTÁTICA",
+            "place": "E441.3.S304",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Rodolfo Danitz"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "11",
+            "course": "CÁLCULO I",
+            "place": "E441.4.S401",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Tomás Neira"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "12 Y 15",
+            "course": "CÁLCULO I",
+            "place": "E441.4.S402",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Matthieu Maréchal"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "17",
+            "course": "CÁLCULO I",
+            "place": "E441.4.S403",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Jaime Contreras"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2009",
+            "section": "1",
+            "course": "BIM",
+            "place": "LOC",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Victor Muñoz"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107",
+            "section": "1",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "SIM",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Juan Negroni"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3709",
+            "section": "1",
+            "course": "GESTIÓN EN LA INDUSTRIA MINERA",
+            "place": "V432.3.AU",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Dagoberto Pérez"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "7 Y 9",
+            "course": "CÁLCULO I",
+            "place": "V432.3.S312",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Ignacio Saavedra"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "2 Y 4",
+            "course": "CÁLCULO I",
+            "place": "V432.3.S313",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Sara Arancibia"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "10",
+            "course": "CÁLCULO I",
+            "place": "V432.4..S412",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Boris Brayovic"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3100",
+            "section": "2",
+            "course": "ARQUITECTURAS EMERGENTES",
+            "place": "V432.4.S413",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Luis Venegas"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3100",
+            "section": "1",
+            "course": "ARQUITECTURAS EMERGENTES",
+            "place": "V432.5.S513",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Carlos García"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3420",
+            "section": "1",
+            "course": "REDES ÓPTICAS DE DATOS",
+            "place": "V432.5.S515",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Roberto Carvajal"
+          }
         }
       ]
     }
