@@ -769,6 +769,150 @@
             "day": "1",
             "teacher": "Roberto Carvajal"
           }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "8",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S101",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Jaime Contreras"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "1",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Carlos Landeros"
+          }
+        },
+        {
+          "node": {
+            "code": "EIT",
+            "section": "1",
+            "course": "ELECTIVO PROFESIONAL",
+            "place": "E441.2.S202",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": ""
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "3 Y 7",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S205",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Boris Brayovic"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "4",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S206",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Gabriela López"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "6",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S207",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Ignacio Saavedra"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2206",
+            "section": "1",
+            "course": "GESTIÓN ORGANIZACIONAL",
+            "place": "E441.4.S402",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Ximena Geoffroy"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2007",
+            "section": "1",
+            "course": "ADM DE PROYECTOS CIVILES",
+            "place": "E441.4.S403",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Alexander Dulovits"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "1",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "V432.3.AU",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Renny Márquez"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "2",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "V432.3.S312",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Francisco Jara"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "2",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S313",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Emilio Marti"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "3",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "V432.4.S412",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Luis Yáñez"
+          }
         }
       ]
     }
