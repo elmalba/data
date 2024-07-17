@@ -462,56 +462,96 @@
           "node": {
             "code": "CBF1002",
             "section": "2 y 6",
-            "course": "ELECTRICIDAD Y MAGNETISMO"
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.1.S106",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "3",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CBF1002",
             "section": "3",
-            "course": "ELECTRICIDAD Y MAGNETISMO"
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S201",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "3",
+            "teacher": "Alejandra León"
           }
         },
         {
           "node": {
             "code": "CBF1002",
             "section": "5",
-            "course": "ELECTRICIDAD Y MAGNETISMO"
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S202",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "3",
+            "teacher": "Ricardo Rivera"
           }
         },
         {
           "node": {
             "code": "CBF1002",
             "section": "1 y 4",
-            "course": "ELECTRICIDAD Y MAGNETISMO"
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S205",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "3",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CIT2207",
             "section": "1",
-            "course": "EVALUACIÓN DE PROYECTOS TIC"
+            "course": "EVALUACIÓN DE PROYECTOS TIC",
+            "place": "E441.4.L.O",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "3",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CIT2207",
             "section": "2",
-            "course": "EVALUACIÓN DE PROYECTOS TIC"
+            "course": "EVALUACIÓN DE PROYECTOS TIC",
+            "place": "E441.4.L.U",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "3",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "COC2105",
             "section": "1",
-            "course": "DISEÑO EN HORMIGÓN"
+            "course": "DISEÑO EN HORMIGÓN",
+            "place": "V432.3.AU",
+            "start": "16:00:00",
+            "finish": "20:30:00",
+            "day": "3",
+            "teacher": "Sebastián Díaz"
           }
         },
         {
           "node": {
             "code": "COC3300",
             "section": "1",
-            "course": "TALLER DE PROYECTOS"
+            "course": "TALLER DE PROYECTOS",
+            "place": "V432.3.S312",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "3",
+            "teacher": "Gabriel Silva"
           }
         }
       ]
