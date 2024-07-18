@@ -6,30 +6,6 @@
           "node": {
             "code": "",
             "section": "1",
-            "course": "Mecánica de Suelos",
-            "place": "E441.3.S303",
-            "start": "13:00:00",
-            "finish": "15:50:00",
-            "day": "4",
-            "teacher": "Victor Contreras"
-          }
-        },
-        {
-          "node": {
-            "code": "",
-            "section": "1",
-            "course": "Mecánica de Fluidos",
-            "place": "E441.3.S304",
-            "start": "13:00:00",
-            "finish": "15:50:00",
-            "day": "4",
-            "teacher": "Christián González"
-          }
-        },
-        {
-          "node": {
-            "code": "",
-            "section": "",
             "course": "Redes Opticas de Datos",
             "place": "E441.3.S302",
             "start": "8:30:00",
