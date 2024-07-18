@@ -25,6 +25,18 @@
             "day": "4",
             "teacher": "Christián González"
           }
+        },
+        {
+          "node": {
+            "code": "",
+            "section": "",
+            "course": "Redes Opticas de Datos",
+            "place": "E441.3.S302",
+            "start": "",
+            "finish": "",
+            "day": "1",
+            "teacher": "Roberto Carvajal"
+          }
         }
       ]
     }
