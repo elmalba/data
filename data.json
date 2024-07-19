@@ -19,7 +19,10 @@
             "code": "",
             "section": "",
             "course": "Diseño en Acero",
-            "place": "",
+            "place": "E441.3.S302",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
             "teacher": "Gaspar Auad"
           }
         }
