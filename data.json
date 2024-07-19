@@ -13,6 +13,18 @@
             "day": "1",
             "teacher": "Roberto Carvajal"
           }
+        },
+        {
+          "node": {
+            "code": "",
+            "section": "",
+            "course": "Redes Opticas de Datos",
+            "place": "E441.3.S302",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "5",
+            "teacher": "Roberto Carvajal"
+          }
         }
       ]
     }
