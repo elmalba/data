@@ -208,9 +208,9 @@
         },
         {
           "node": {
-            "code": "",
-            "section": "",
-            "course": "",
+            "code": "CBM1002",
+            "section": "15",
+            "course": "ÁLGEBRA LINEAL",
             "place": "E441.1.S106",
             "start": "13:00:00",
             "finish": "14:20:00",
