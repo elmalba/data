@@ -193,6 +193,18 @@
             "day": "3",
             "teacher": "Ignacio Saavedra"
           }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "15",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S106",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "3",
+            "teacher": "Ignacio Saavedra"
+          }
         }
       ]
     }
