@@ -205,6 +205,17 @@
             "day": "3",
             "teacher": "Ignacio Saavedra"
           }
+        },
+        {
+          "node": {
+            "code": "",
+            "section": "",
+            "course": "",
+            "place": "",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "teacher": "Andrea Casado"
+          }
         }
       ]
     }
