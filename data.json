@@ -211,9 +211,10 @@
             "code": "",
             "section": "",
             "course": "",
-            "place": "",
+            "place": "E441.1.S106",
             "start": "13:00:00",
             "finish": "14:20:00",
+            "day": "3",
             "teacher": "Andrea Casado"
           }
         }
