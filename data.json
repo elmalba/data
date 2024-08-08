@@ -4,218 +4,1101 @@
       "edges": [
         {
           "node": {
-            "code": "COC2105",
+            "code": "COC2006",
             "section": "1",
-            "course": "DISEÑO EN HORMIGÓN",
-            "place": "E441.1.S101",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": ""
+            "course": "TOPOGRAFÍA"
           }
         },
         {
           "node": {
-            "code": "CBM1006",
+            "code": "CIT2109",
             "section": "1",
-            "course": "CÁLCULO III",
-            "place": "E441.3.S303",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Matthieu Marechal"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1000",
-            "section": "2",
-            "course": "MECÁNICA",
-            "place": "E441.3.S304",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Mario Miranda"
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "8",
-            "course": "CÁLCULO II",
-            "place": "V432.3.S312",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
+            "section": "7",
+            "course": "CÁLCULO II"
           }
         },
         {
           "node": {
-            "code": "CBM1005",
-            "section": "5",
-            "course": "ECUACIONES DIFERENCIALES",
-            "place": "V432.4.S412",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Emilio Marti"
+            "code": "CBM1002",
+            "section": "4",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "3",
+            "course": "EVALUACIÓN DE PROYECTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "14",
+            "course": "ÁLGEBRA LINEAL"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "7",
-            "course": "MECÁNICA",
-            "place": "E441.3.S303",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Daniela Paredes"
+            "section": "1",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000",
+            "section": "1",
+            "course": "ÁLGEBRA Y GEOMETRÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501",
+            "section": "1",
+            "course": "BASES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006",
+            "section": "1",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3629",
+            "section": "1",
+            "course": "DATA MINING"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3618",
+            "section": "1",
+            "course": "CONTROL DE GESTIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "3",
+            "course": "CONTABILIDAD Y COSTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000",
+            "section": "6",
+            "course": "QUÍMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2009",
+            "section": "1",
+            "course": "BIM"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757",
+            "section": "3",
+            "course": "SIMULACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504",
+            "section": "2",
+            "course": "DATA SCIENCE"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "3",
+            "course": "PROGRAMACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "4",
+            "course": "OPTIMIZACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "2",
+            "course": "MECÁNICA DE FLUIDOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "1",
+            "course": "OPTIMIZACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "2",
+            "course": "PROBABILIDADES Y ESTADÍSTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "5",
+            "course": "ELECTRICIDAD Y MAGNETISMO"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2003",
+            "section": "1",
+            "course": "TECNOLOGÍA DEL HORMIGÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "10",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102",
+            "section": "2",
+            "course": "MARKETING"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002",
+            "section": "1",
+            "course": "INGENIERIA ECONÓMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "3",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "1",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000",
+            "section": "5",
+            "course": "ÁLGEBRA Y GEOMETRÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2207",
+            "section": "1",
+            "course": "HIDRÁULICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "2",
+            "course": "EVALUACIÓN DE PROYECTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "2",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "3",
+            "course": "ELECTRICIDAD Y MAGNETISMO"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205",
+            "section": "1",
+            "course": "PROYECTO EN TICS I"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "8",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "4",
+            "course": "PROBABILIDADES Y ESTADÍSTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "2",
+            "course": "DESARROLLO WEB Y MÓVIL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001",
+            "section": "4",
+            "course": "CALOR Y ONDAS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "5",
+            "course": "OPTIMIZACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005",
+            "section": "3",
+            "course": "ECUACIONES DIFERENCIALES"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "1",
+            "course": "PROGRAMACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501",
+            "section": "2",
+            "course": "BASES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "1",
+            "course": "ESTÁTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000",
+            "section": "6",
+            "course": "ÁLGEBRA Y GEOMETRÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113",
+            "section": "1",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2107",
+            "section": "1",
+            "course": "DISEÑO EN ACERO"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "1",
+            "course": "LOGÍSTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "13",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3703",
+            "section": "1",
+            "course": "ENERGÍA SOLAR"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000",
+            "section": "4",
+            "course": "QUÍMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3413",
+            "section": "1",
+            "course": "TRANSPORTE DE SEDIMENTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3422",
+            "section": "1",
+            "course": "TÓPICOS DE LOG. Y SIS. DE DIS. DE CARGA"
           }
         },
         {
           "node": {
             "code": "CBM1006",
+            "section": "5",
+            "course": "CÁLCULO III"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000",
+            "section": "1",
+            "course": "QUÍMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "4",
+            "course": "CONTABILIDAD Y COSTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2104",
+            "section": "1",
+            "course": "MECÁNICA DE SUELOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "4",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "12",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102",
             "section": "3",
-            "course": "CÁLCULO III",
-            "place": "E441.2.S203",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
+            "course": "MARKETING"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001",
+            "section": "3",
+            "course": "CÁLCULO I"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "11",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3100",
+            "section": "1",
+            "course": "INGENIERÍA SÍSMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010",
+            "section": "2",
+            "course": "SISTEMAS OPERATIVOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "3",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3435",
+            "section": "1",
+            "course": "COMPUTATIONAL FLUID DYNAMICS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "4",
+            "course": "ELECTRICIDAD Y MAGNETISMO"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3721",
+            "section": "1",
+            "course": "TEC AVANZADAS PARA LA TRANSICIÓN ENERGÉT"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112",
+            "section": "1",
+            "course": "TECNOLOGÍAS INALÁMBRICAS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001",
+            "section": "4",
+            "course": "CÁLCULO I"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001",
+            "section": "1",
+            "course": "CALOR Y ONDAS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2403",
+            "section": "2",
+            "course": "PROYECTOS ENERGÉTICOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "5",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "6",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3710",
+            "section": "1",
+            "course": "FINTECH"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "2",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "10",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112",
+            "section": "2",
+            "course": "TECNOLOGÍAS INALÁMBRICAS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000",
+            "section": "7",
+            "course": "QUÍMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3435",
+            "section": "1",
+            "course": "ALGORITMOS DE RUTEO Y REDES RESILIENTES"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "1",
+            "course": "MODELOS ESTOCÁSTICOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005",
+            "section": "1",
+            "course": "ECUACIONES DIFERENCIALES"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1001",
+            "section": "2",
+            "course": "TEORÍA ORGANIZACIÓNAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "11",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "12",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001",
+            "section": "5",
+            "course": "CALOR Y ONDAS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "3",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "7",
+            "course": "ELECTRICIDAD Y MAGNETISMO"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "2",
+            "course": "PROGRAMACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3202",
+            "section": "1",
+            "course": "DATA SCIENCE"
           }
         },
         {
           "node": {
             "code": "CBM1000",
             "section": "2",
-            "course": "ÁLGEBRA Y GEOMETRÍA",
-            "place": "E441.2.S206",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Emilio Marti"
+            "course": "ÁLGEBRA Y GEOMETRÍA"
           }
         },
         {
           "node": {
-            "code": "COC2205",
-            "section": "1",
-            "course": "HIDRÁULICA URBANA",
-            "place": "E441.2.S207",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": ""
+            "code": "CBE2000",
+            "section": "5",
+            "course": "PROBABILIDADES Y ESTADÍSTICA"
           }
         },
         {
           "node": {
-            "code": "COC3630",
-            "section": "1",
-            "course": "INDUSTRIALIZACIÓN EN CONSTRUCCIÓN",
-            "place": "V432.5.S515",
-            "start": "13:00:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": ""
+            "code": "CIT2013",
+            "section": "2",
+            "course": "INTELIGENCIA ARTIFICIAL"
           }
         },
         {
           "node": {
-            "code": "CII3706",
+            "code": "CIT1010",
             "section": "1",
-            "course": "FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIA",
-            "place": "E441.-1.AU",
-            "start": "14:30:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": ""
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2305",
+            "section": "1",
+            "course": "SEMINARIO CS. INGENIERÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "3",
+            "course": "LOGÍSTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3603",
+            "section": "1",
+            "course": "ORGANIZACIÓN INDUSTRIAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "9",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3001",
+            "section": "1",
+            "course": "DISEÑO DE CAMINOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "15",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012",
+            "section": "2",
+            "course": "INGENIERÍA DE SOFTWARE"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "3",
+            "course": "MODELOS ESTOCÁSTICOS"
           }
         },
         {
           "node": {
             "code": "CBM1003",
             "section": "2",
-            "course": "CÁLCULO II",
-            "place": "E441.1.S101",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Emilio Marti"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1002",
-            "section": "7",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S206",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1001",
-            "section": "5",
-            "course": "CÁLCULO I",
-            "place": "E441.2.S201",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
-          }
-        },
-        {
-          "node": {
-            "code": "COC2102",
-            "section": "1",
-            "course": "ANÁLISIS ESTRUCTURAL",
-            "place": "V432.5.S515",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "José Colombo"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1002",
-            "section": "6",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S206",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
+            "course": "CÁLCULO II"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "15",
-            "course": "CÁLCULO II",
-            "place": "E441.1.S106",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
+            "section": "1",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3101",
+            "section": "2",
+            "course": "LIDERAZGO Y EMPRENDIMIENTO"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "3",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "1",
+            "course": "REDES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "4",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "1",
+            "course": "ELECTRICIDAD Y MAGNETISMO"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205",
+            "section": "2",
+            "course": "PROYECTO EN TICS I"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3600",
+            "section": "1",
+            "course": "TÓPICOS EN FINANZAS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "1",
+            "course": "DESARROLLO WEB Y MÓVIL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "4",
+            "course": "CÁLCULO III"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005",
+            "section": "5",
+            "course": "ECUACIONES DIFERENCIALES"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "10",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001",
+            "section": "2",
+            "course": "CÁLCULO I"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002",
+            "section": "3",
+            "course": "INGENIERIA ECONÓMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "14",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "5",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "3",
+            "course": "PROBABILIDADES Y ESTADÍSTICA"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "15",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.1.S106",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Andrea Casado"
+            "section": "8",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001",
+            "section": "1",
+            "course": "CÁLCULO I"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111",
+            "section": "1",
+            "course": "COMUNICACIONES DIGITALES"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3349",
+            "section": "1",
+            "course": "GRAFOS Y ALGORITMOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "9",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3518",
+            "section": "1",
+            "course": "SISTEMAS DE CONTENCIÓN DE TALUDES"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3628",
+            "section": "1",
+            "course": "NANOCIENCIA Y NANOTECNOLOGÍA EN LA IND."
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "11",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3100",
+            "section": "1",
+            "course": "ARQUITECTURAS EMERGENTES"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000",
+            "section": "3",
+            "course": "ÁLGEBRA Y GEOMETRÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001",
+            "section": "3",
+            "course": "CALOR Y ONDAS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "12",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "13",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "2",
+            "course": "ELECTRICIDAD Y MAGNETISMO"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3708",
+            "section": "1",
+            "course": "INNOVACIÓN TECNOLOGÍCA E INDUSTRIA 4.0"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "6",
+            "course": "CÁLCULO III"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "6",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "4",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007",
+            "section": "2",
+            "course": "BASES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "4",
+            "course": "MODELOS ESTOCÁSTICOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "13",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "10",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2207",
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS TIC"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3416",
+            "section": "1",
+            "course": "PROCESAMIENTO DIGITAL DE SEÑALES"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012",
+            "section": "1",
+            "course": "INGENIERÍA DE SOFTWARE"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103",
+            "section": "3",
+            "course": "GESTIÓN ESTRATÉGICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "9",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "5",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3300",
+            "section": "1",
+            "course": "TALLER DE PROYECTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "8",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005",
+            "section": "2",
+            "course": "ECUACIONES DIFERENCIALES"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "9",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113",
+            "section": "2",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203",
+            "section": "1",
+            "course": "PROYECTO EN TICS II"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "2",
+            "course": "REDES DE DATOS"
           }
         }
       ]
