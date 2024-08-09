@@ -4,9 +4,9 @@
       "edges": [
         {
           "node": {
-            "code": "COC2006",
-            "section": "1",
-            "course": "TOPOGRAFÍA",
+            "code": "CBM1002",
+            "section": "CAT",
+            "course": "ÁLGEBRA LINEAL",
             "place": "E326.4.S404",
             "start": "8:30:00",
             "finish": "9:50:00",
