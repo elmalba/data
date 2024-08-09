@@ -5,19 +5,19 @@
         {
           "node": {
             "code": "CBM1002",
-            "section": "CAT",
+            "section": "14",
             "course": "ÁLGEBRA LINEAL",
-            "place": "E326.4.S404",
+            "place": "E441.2.S206",
             "start": "8:30:00",
             "finish": "9:50:00",
-            "day": "4",
-            "teacher": "Carolina Montorio"
+            "day": "5",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
-            "code": "",
-            "section": "",
+            "code": "CBM1000",
+            "section": "1",
             "course": "",
             "place": "",
             "start": "",
@@ -28,14 +28,931 @@
         },
         {
           "node": {
-            "code": "",
-            "section": "",
+            "code": "CII3722",
+            "section": "1",
             "course": "",
             "place": "",
             "start": "",
             "finish": "",
             "day": "5",
             "teacher": ""
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001",
+            "section": "6"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2103",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "5"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3000",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2109",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3615",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2008",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3345",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "11"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3431",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000",
+            "section": "5"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000",
+            "section": "6"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "FIC1000",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3406",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2108",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3630",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2203",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3500",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2206",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1001",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "5"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "6"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "5"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2202",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2207",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2106",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3503",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2206"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3610",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3433",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "5"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3705",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "14"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "11"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "10"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3428",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "7"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2403",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3353",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3001",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "7"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "6"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3624",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3340",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2204",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "6"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "6"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "5"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "8"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "9"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2102",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3000",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "14"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005",
+            "section": "5"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "16"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2109",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3354",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3723",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2102",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3100",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2009",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "13"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3434",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "5"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3102",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2106",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3102",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "6"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3410",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3000",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2204",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3531",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203",
+            "section": "2"
           }
         }
       ]
