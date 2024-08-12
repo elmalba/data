@@ -954,119 +954,477 @@
           "node": {
             "code": "COC2006",
             "section": "1",
-            "course": "TOPOGRAFÍA"
+            "course": "TOPOGRAFÍA",
+            "place": "E326.4.S404",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Carolina Montorio"
           }
         },
         {
           "node": {
             "code": "COC2105",
             "section": "1",
-            "course": "DISEÑO EN HORMIGÓN"
+            "course": "DISEÑO EN HORMIGÓN",
+            "place": "E441.1.S101",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Sebastián Díaz"
           }
         },
         {
           "node": {
             "code": "COC2009",
             "section": "1",
-            "course": "BIM"
+            "course": "BIM",
+            "place": "LOC",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Víctor Muñoz"
           }
         },
         {
           "node": {
             "code": "COC2003",
             "section": "1",
-            "course": "TECNOLOGÍA DEL HORMIGÓN"
+            "course": "TECNOLOGÍA DEL HORMIGÓN",
+            "place": "V432.5.S515",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Cristián Narváez"
           }
         },
         {
           "node": {
             "code": "COC2207",
             "section": "1",
-            "course": "HIDRÁULICA"
+            "course": "HIDRÁULICA",
+            "place": "E441.2.S204",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Christian González"
           }
         },
         {
           "node": {
             "code": "COC2107",
             "section": "1",
-            "course": "DISEÑO EN ACERO"
+            "course": "DISEÑO EN ACERO",
+            "place": "V432.3.S315",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Gaspar Auad"
           }
         },
         {
           "node": {
             "code": "COC3413",
             "section": "1",
-            "course": "TRANSPORTE DE SEDIMENTOS"
+            "course": "TRANSPORTE DE SEDIMENTOS",
+            "place": "V432.5.S514",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Hernán Alcayaga"
           }
         },
         {
           "node": {
             "code": "COC2104",
             "section": "1",
-            "course": "MECÁNICA DE SUELOS"
+            "course": "MECÁNICA DE SUELOS",
+            "place": "E441.2.S201",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Víctor Contreras"
           }
         },
         {
           "node": {
             "code": "COC3100",
             "section": "1",
-            "course": "INGENIERÍA SÍSMICA"
+            "course": "INGENIERÍA SÍSMICA",
+            "place": "E441.3.S303",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Gaspar Auad"
           }
         },
         {
           "node": {
             "code": "COC3435",
             "section": "1",
-            "course": "COMPUTATIONAL FLUID DYNAMICS"
+            "course": "COMPUTATIONAL FLUID DYNAMICS",
+            "place": "E441.4.L.O",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Thomas Madler"
           }
         },
         {
           "node": {
             "code": "COC2205",
             "section": "1",
-            "course": "HIDRÁULICA URBANA"
+            "course": "HIDRÁULICA URBANA",
+            "place": "E441.2.S207",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Nelson Abarca"
           }
         },
         {
           "node": {
             "code": "COC2305",
             "section": "1",
-            "course": "SEMINARIO CS. INGENIERÍA"
+            "course": "SEMINARIO CS. INGENIERÍA",
+            "place": "SIM",
+            "start": "13:00:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Thomas Madler"
           }
         },
         {
           "node": {
             "code": "COC3001",
             "section": "1",
-            "course": "DISEÑO DE CAMINOS"
+            "course": "DISEÑO DE CAMINOS",
+            "place": "V432.4.S415",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "COC3518",
             "section": "1",
-            "course": "SISTEMAS DE CONTENCIÓN DE TALUDES"
+            "course": "SISTEMAS DE CONTENCIÓN DE TALUDES",
+            "place": "V432.5.S514",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Víctor Contreras"
           }
         },
         {
           "node": {
             "code": "COC3531",
             "section": "1",
-            "course": "MODELACIÓN NUMÉRICA DE ESTRUCTURA"
+            "course": "MODELACIÓN NUMÉRICA DE ESTRUCTURA",
+            "place": "E441.2.S203",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Jose Ayestarán"
           }
         },
         {
           "node": {
             "code": "COC2007",
             "section": "1",
-            "course": "ADM DE PROYECTOS CIVILES"
+            "course": "ADM DE PROYECTOS CIVILES",
+            "place": "V432.4.S412",
+            "start": "16:00:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Alexander Dulovits"
           }
         },
         {
           "node": {
             "code": "COC3300",
             "section": "1",
-            "course": "TALLER DE PROYECTOS"
+            "course": "TALLER DE PROYECTOS",
+            "place": "E441.2.S207",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Gabriel Silva"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3724",
+            "section": "1",
+            "course": "GESTIÓN CADENA DE ABAST. & OPERACIONES"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3709",
+            "section": "1",
+            "course": "GESTIÓN EN LA INDUSTRIA MINERA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "3",
+            "course": "EVALUACIÓN DE PROYECTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501",
+            "section": "1",
+            "course": "BASES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3629",
+            "section": "1",
+            "course": "DATA MINING"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3618",
+            "section": "1",
+            "course": "CONTROL DE GESTIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "3",
+            "course": "CONTABILIDAD Y COSTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757",
+            "section": "3",
+            "course": "SIMULACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504",
+            "section": "2",
+            "course": "DATA SCIENCE"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "4",
+            "course": "OPTIMIZACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "2",
+            "course": "MECÁNICA DE FLUIDOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "1",
+            "course": "OPTIMIZACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102",
+            "section": "2",
+            "course": "MARKETING"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002",
+            "section": "1",
+            "course": "INGENIERIA ECONÓMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "2",
+            "course": "EVALUACIÓN DE PROYECTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "5",
+            "course": "OPTIMIZACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501",
+            "section": "2",
+            "course": "BASES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "1",
+            "course": "ESTÁTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "1",
+            "course": "LOGÍSTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3703",
+            "section": "1",
+            "course": "ENERGÍA SOLAR"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3422",
+            "section": "1",
+            "course": "TÓPICOS DE LOG. Y SIS. DE DIS. DE CARGA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "4",
+            "course": "CONTABILIDAD Y COSTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102",
+            "section": "3",
+            "course": "MARKETING"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3721",
+            "section": "1",
+            "course": "TEC AVANZADAS PARA LA TRANSICIÓN ENERGÉT"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2403",
+            "section": "2",
+            "course": "PROYECTOS ENERGÉTICOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3710",
+            "section": "1",
+            "course": "FINTECH"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "2",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "1",
+            "course": "MODELOS ESTOCÁSTICOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1001",
+            "section": "2",
+            "course": "TEORÍA ORGANIZACIÓNAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "3",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "3",
+            "course": "LOGÍSTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3603",
+            "section": "1",
+            "course": "ORGANIZACIÓN INDUSTRIAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "3",
+            "course": "MODELOS ESTOCÁSTICOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3600",
+            "section": "1",
+            "course": "TÓPICOS EN FINANZAS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002",
+            "section": "3",
+            "course": "INGENIERIA ECONÓMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3708",
+            "section": "1",
+            "course": "INNOVACIÓN TECNOLOGÍCA E INDUSTRIA 4.0"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "4",
+            "course": "MODELOS ESTOCÁSTICOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103",
+            "section": "3",
+            "course": "GESTIÓN ESTRATÉGICA"
           }
         }
       ]
