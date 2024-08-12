@@ -1625,259 +1625,517 @@
         {
           "node": {
             "code": "CIT2109",
-            "section": "1"
+            "section": "1",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "E441.1.S106",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CIT2006",
-            "section": "1"
+            "section": "1",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "E441.4.L.O",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Yerko Ortiz"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "3"
+            "section": "3",
+            "course": "PROGRAMACIÓN",
+            "place": "V275.-1.L10",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "1"
+            "section": "1",
+            "course": "BASES DE DATOS",
+            "place": "V275.3.L301",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2013",
-            "section": "1"
+            "section": "1",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.3.S315",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CIT2013",
-            "section": "2"
+            "section": "2",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.4.S413",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "2"
+            "section": "2",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "V432.4.S415",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CIT2205",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.3.S302",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "2"
+            "section": "2",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Gonzalo Fernández"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "1"
+            "section": "1",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "3"
+            "section": "3",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "V275.3.L301",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Gonzalo Fernández"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "1"
+            "section": "1",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "V432.3.S314",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "René Guerrero"
           }
         },
         {
           "node": {
             "code": "CIT2204",
-            "section": "1"
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICAS",
+            "place": "E333.-3.S302",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Paulina Quilodrán"
           }
         },
         {
           "node": {
             "code": "CIT2010",
-            "section": "2"
+            "section": "2",
+            "course": "SISTEMAS OPERATIVOS",
+            "place": "E441.3.S304",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "3"
+            "section": "3",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CIT2112",
-            "section": "1"
+            "section": "1",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "E441.4.S403",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Erick Carreño"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "7"
+            "section": "7",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L602",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Rodrigo Sáez"
           }
         },
         {
           "node": {
             "code": "CIT2112",
-            "section": "2"
+            "section": "2",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "V432.4.S414",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Luis Venegas"
           }
         },
         {
           "node": {
             "code": "CIT3435",
-            "section": "1"
+            "section": "1",
+            "course": "ALGORITMOS DE RUTEO Y REDES RESILIENTES",
+            "place": "V432.5.S514",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Nicolás Boettcher"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "1"
+            "section": "1",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT3202",
-            "section": "1"
+            "section": "1",
+            "course": "DATA SCIENCE",
+            "place": "E441.4.L.O",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Osvaldo Ceballos"
           }
         },
         {
           "node": {
             "code": "CIT2013",
-            "section": "2"
+            "section": "2",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "E441.4.S403",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "2"
+            "section": "2",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Esteban Álvarez"
           }
         },
         {
           "node": {
             "code": "CIT2012",
-            "section": "2"
+            "section": "2",
+            "course": "INGENIERÍA DE SOFTWARE",
+            "place": "V432.5.S515",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Matías Rojas"
           }
         },
         {
           "node": {
             "code": "CIT2114",
-            "section": "1"
+            "section": "1",
+            "course": "REDES DE DATOS",
+            "place": "E441.2.S203",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT2205",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.3.S302",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "1"
+            "section": "1",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Javier Carrión"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "10"
+            "section": "10",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L602",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Jonathan Frez"
           }
         },
         {
           "node": {
             "code": "CIT2111",
-            "section": "1"
+            "section": "1",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "V432.4.S414",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Diego Dujovne"
           }
         },
         {
           "node": {
             "code": "CIT3349",
-            "section": "1"
+            "section": "1",
+            "course": "GRAFOS Y ALGORITMOS",
+            "place": "V432.4.S415",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Karol Suchan"
           }
         },
         {
           "node": {
             "code": "CIT3100",
-            "section": "1"
+            "section": "1",
+            "course": "ARQUITECTURAS EMERGENTES",
+            "place": "E441.1.S106",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Carlos García"
           }
         },
         {
           "node": {
             "code": "CIT3416",
-            "section": "1"
+            "section": "1",
+            "course": "PROCESAMIENTO DIGITAL DE SEÑALES",
+            "place": "Lab. Informática",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Diego Dujovne"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "4"
+            "section": "4",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "2"
+            "section": "2",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CIT2207",
-            "section": "1"
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS TIC",
+            "place": "V432.3.S315",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CIT2012",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA DE SOFTWARE",
+            "place": "V432.5.S515",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Matías Rojas"
           }
         },
         {
           "node": {
             "code": "CIT2110",
-            "section": "1"
+            "section": "1",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "E441.3.S304",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Luis Venegas"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "8"
+            "section": "8",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Marcos Fantoval"
           }
         },
         {
           "node": {
             "code": "CIT3203",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTO EN TICS II",
+            "place": "E441.4.S403",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Leandro Llanza"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "9"
+            "section": "9",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "2"
+            "section": "2",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "V432.3.S312",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Omar Henríquez"
           }
         },
         {
           "node": {
             "code": "CIT3203",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTO EN TICS II",
+            "place": "V432.3.S313",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Cristian Osorio"
           }
         },
         {
           "node": {
             "code": "CIT2114",
-            "section": "2"
+            "section": "2",
+            "course": "REDES DE DATOS",
+            "place": "V432.3.S315",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "por definir"
           }
         }
       ]
