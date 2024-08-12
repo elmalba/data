@@ -1158,273 +1158,726 @@
           "node": {
             "code": "CII3724",
             "section": "1",
-            "course": "GESTIÓN CADENA DE ABAST. & OPERACIONES"
+            "course": "GESTIÓN CADENA DE ABAST. & OPERACIONES",
+            "place": "E260.1.S101",
+            "start": "8:30:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Alejandro Vargas"
           }
         },
         {
           "node": {
             "code": "CII3709",
             "section": "1",
-            "course": "GESTIÓN EN LA INDUSTRIA MINERA"
+            "course": "GESTIÓN EN LA INDUSTRIA MINERA",
+            "place": "E441.-1.AU",
+            "start": "8:30:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Dagoberto Pérez"
           }
         },
         {
           "node": {
             "code": "CII2004",
             "section": "3",
-            "course": "EVALUACIÓN DE PROYECTOS"
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.2.S205",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CII2501",
             "section": "1",
-            "course": "BASES DE DATOS"
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "CII3629",
             "section": "1",
-            "course": "DATA MINING"
+            "course": "DATA MINING",
+            "place": "E441.4.L.U",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Pablo Lemus"
           }
         },
         {
           "node": {
             "code": "CII3618",
             "section": "1",
-            "course": "CONTROL DE GESTIÓN"
+            "course": "CONTROL DE GESTIÓN",
+            "place": "E441.4.S401",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Cristóbal Calderón"
           }
         },
         {
           "node": {
             "code": "CII1000",
             "section": "3",
-            "course": "CONTABILIDAD Y COSTOS"
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.4.S402",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CII2757",
             "section": "3",
-            "course": "SIMULACIÓN"
+            "course": "SIMULACIÓN",
+            "place": "M253A.6.L601",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Mitsuo Tanida"
           }
         },
         {
           "node": {
             "code": "CII2504",
             "section": "2",
-            "course": "DATA SCIENCE"
+            "course": "DATA SCIENCE",
+            "place": "M253A.6.L602",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CII2750",
             "section": "4",
-            "course": "OPTIMIZACIÓN"
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.3.AU",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CII2401",
             "section": "2",
-            "course": "MECÁNICA DE FLUIDOS"
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "V432.3.S313",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Esteban Zamora"
           }
         },
         {
           "node": {
             "code": "CII2750",
             "section": "1",
-            "course": "OPTIMIZACIÓN"
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.4.S412",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Esteban Geisse"
           }
         },
         {
           "node": {
             "code": "CII2102",
             "section": "2",
-            "course": "MARKETING"
+            "course": "MARKETING",
+            "place": "E441.1.S105",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Alejandro Zagal"
           }
         },
         {
           "node": {
             "code": "CII2002",
             "section": "1",
-            "course": "INGENIERIA ECONÓMICA"
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "E441.1.S106",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CII2004",
             "section": "2",
-            "course": "EVALUACIÓN DE PROYECTOS"
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.2.S205",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CII2750",
             "section": "5",
-            "course": "OPTIMIZACIÓN"
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.4.S402",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CII2501",
             "section": "2",
-            "course": "BASES DE DATOS"
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "CII2250",
             "section": "1",
-            "course": "ESTÁTICA"
+            "course": "ESTÁTICA",
+            "place": "V432.3.AU",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Rodolfo Danitz"
           }
         },
         {
           "node": {
             "code": "CII2254",
             "section": "1",
-            "course": "LOGÍSTICA"
+            "course": "LOGÍSTICA",
+            "place": "V432.4.S412",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CII3703",
             "section": "1",
-            "course": "ENERGÍA SOLAR"
+            "course": "ENERGÍA SOLAR",
+            "place": "V432.4.S414",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Cristóbal Sarmiento"
           }
         },
         {
           "node": {
             "code": "CII3422",
             "section": "1",
-            "course": "TÓPICOS DE LOG. Y SIS. DE DIS. DE CARGA"
+            "course": "TÓPICOS DE LOG. Y SIS. DE DIS. DE CARGA",
+            "place": "E441.-1.AU",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Rodrigo Garrido"
           }
         },
         {
           "node": {
             "code": "CII1000",
             "section": "4",
-            "course": "CONTABILIDAD Y COSTOS"
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.1.S106",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CII2102",
             "section": "3",
-            "course": "MARKETING"
+            "course": "MARKETING",
+            "place": "E441.2.S205",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CII3721",
             "section": "1",
-            "course": "TEC AVANZADAS PARA LA TRANSICIÓN ENERGÉT"
+            "course": "TEC AVANZADAS PARA LA TRANSICIÓN ENERGÉT",
+            "place": "E441.4.S402",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Andrés Díaz"
           }
         },
         {
           "node": {
             "code": "CII2403",
             "section": "2",
-            "course": "PROYECTOS ENERGÉTICOS"
+            "course": "PROYECTOS ENERGÉTICOS",
+            "place": "V432.3.AU",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Cristóbal Sarmiento"
           }
         },
         {
           "node": {
             "code": "CII3710",
             "section": "1",
-            "course": "FINTECH"
+            "course": "FINTECH",
+            "place": "V432.3.S314",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Hernán Alvarado"
           }
         },
         {
           "node": {
             "code": "CII2004",
             "section": "1",
-            "course": "EVALUACIÓN DE PROYECTOS"
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "V432.3.S315",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CII2100",
             "section": "2",
-            "course": "INTRODUCCIÓN A LA ECONOMÍA"
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "V432.4.S412",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CII2755",
             "section": "1",
-            "course": "MODELOS ESTOCÁSTICOS"
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.-1.AU",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "CII1001",
             "section": "2",
-            "course": "TEORÍA ORGANIZACIÓNAL"
+            "course": "TEORÍA ORGANIZACIÓNAL",
+            "place": "E441.1.S106",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Gladys Hinojosa"
           }
         },
         {
           "node": {
             "code": "CII2100",
             "section": "3",
-            "course": "INTRODUCCIÓN A LA ECONOMÍA"
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "E441.2.S205",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Richard Gillibrand"
           }
         },
         {
           "node": {
             "code": "CII2254",
             "section": "3",
-            "course": "LOGÍSTICA"
+            "course": "LOGÍSTICA",
+            "place": "V432.3.AU",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CII3603",
             "section": "1",
-            "course": "ORGANIZACIÓN INDUSTRIAL"
+            "course": "ORGANIZACIÓN INDUSTRIAL",
+            "place": "V432.3.S312",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CII2755",
             "section": "3",
-            "course": "MODELOS ESTOCÁSTICOS"
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.-1.AU",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "CII3600",
             "section": "1",
-            "course": "TÓPICOS EN FINANZAS"
+            "course": "TÓPICOS EN FINANZAS",
+            "place": "E441.3.S304",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CII2002",
             "section": "3",
-            "course": "INGENIERIA ECONÓMICA"
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "V432.3.AU",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CII3708",
             "section": "1",
-            "course": "INNOVACIÓN TECNOLOGÍCA E INDUSTRIA 4.0"
+            "course": "INNOVACIÓN TECNOLOGÍCA E INDUSTRIA 4.0",
+            "place": "E441.3.S304",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Domingo Gallardo"
           }
         },
         {
           "node": {
             "code": "CII2755",
             "section": "4",
-            "course": "MODELOS ESTOCÁSTICOS"
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "V432.3.AU",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Luis Yáñez"
           }
         },
         {
           "node": {
             "code": "CII2103",
             "section": "3",
-            "course": "GESTIÓN ESTRATÉGICA"
+            "course": "GESTIÓN ESTRATÉGICA",
+            "place": "E441.1.S106",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Álex Morales"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "3"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "7"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3435",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3202",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "10"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3349",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3100",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3416",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "4"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2207",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "8"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "9"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113",
+            "section": "2"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203",
+            "section": "1"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "2"
           }
         }
       ]
