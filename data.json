@@ -2161,6 +2161,18 @@
             "day": "2",
             "teacher": "Pablo Sánchez"
           }
+        },
+        {
+          "node": {
+            "code": "",
+            "section": "1",
+            "course": "",
+            "place": "Lab.Informática",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "2",
+            "teacher": ""
+          }
         }
       ]
     }
