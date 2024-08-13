@@ -2164,9 +2164,9 @@
         },
         {
           "node": {
-            "code": "",
-            "section": "1",
-            "course": "",
+            "code": "CIT2113",
+            "section": "4",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
             "place": "Lab.Informática",
             "start": "10:00:00",
             "finish": "11:20:00",
