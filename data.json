@@ -1448,10 +1448,10 @@
             "section": "1",
             "course": "ARQUITECTURA DE SOFTWARE",
             "place": "V432.3.S313",
-            "start": "",
-            "finish": "",
+            "start": "14:30:00",
+            "finish": "15:50:00",
             "day": "3",
-            "teacher": ""
+            "teacher": "Juan Giadach"
           }
         }
       ]
