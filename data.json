@@ -1441,6 +1441,18 @@
             "day": "3",
             "teacher": "Víctor Reyes"
           }
+        },
+        {
+          "node": {
+            "code": "CIT3000",
+            "section": "1",
+            "course": "ARQUITECTURA DE SOFTWARE",
+            "place": "V432.3.S313",
+            "start": "",
+            "finish": "",
+            "day": "3",
+            "teacher": ""
+          }
         }
       ]
     }
