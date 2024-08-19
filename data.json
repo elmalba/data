@@ -4,18 +4,6 @@
       "edges": [
         {
           "node": {
-            "code": "CBM1003",
-            "section": "7",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S201",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "1",
-            "teacher": "Andrea Casado"
-          }
-        },
-        {
-          "node": {
             "code": "CBM1002",
             "section": "4",
             "course": "ÁLGEBRA LINEAL",
@@ -23,43 +11,7 @@
             "start": "8:30:00",
             "finish": "9:50:00",
             "day": "1",
-            "teacher": "Juan Rossel"
-          }
-        },
-        {
-          "node": {
-            "code": "CBE2000",
-            "section": "1",
-            "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "E441.2.S203",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "1",
-            "teacher": "Miguel Guerrero"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1000",
-            "section": "2",
-            "course": "MECÁNICA",
-            "place": "E441.2.S206",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "1",
-            "teacher": "Mario Miranda"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1000",
-            "section": "1",
-            "course": "MECÁNICA",
-            "place": "E441.2.S207",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "1",
-            "teacher": "Sidney Villagrán"
+            "teacher": "Andrea Casado"
           }
         },
         {
@@ -71,15 +23,63 @@
             "start": "8:30:00",
             "finish": "9:50:00",
             "day": "1",
+            "teacher": "Juan Rossel"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109",
+            "section": "1",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "E441.1.S106",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Miguel Guerrero"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109",
+            "section": "2",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "V432.4.S415",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Mario Miranda"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007",
+            "section": "1",
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
+            "teacher": "Sidney Villagrán"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501",
+            "section": "1",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "1",
             "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
-            "code": "CBF1001",
-            "section": "6",
-            "course": "CALOR Y ONDAS",
-            "place": "E441.3.S304",
+            "code": "COC2009",
+            "section": "1",
+            "course": "BIM",
+            "place": "LOC",
             "start": "8:30:00",
             "finish": "9:50:00",
             "day": "1",
@@ -88,10 +88,10 @@
         },
         {
           "node": {
-            "code": "CBQ1000",
-            "section": "6",
-            "course": "QUÍMICA",
-            "place": "E441.4.S403",
+            "code": "CBM1003",
+            "section": "7",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
             "start": "8:30:00",
             "finish": "9:50:00",
             "day": "1",
@@ -112,38 +112,14 @@
         },
         {
           "node": {
-            "code": "CBF1002",
-            "section": "5",
-            "course": "ELECTRICIDAD Y MAGNETISMO",
-            "place": "V432.5.S513",
+            "code": "CBF1001",
+            "section": "6",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.3.S304",
             "start": "8:30:00",
             "finish": "9:50:00",
             "day": "1",
             "teacher": "Ricardo Rivera"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1001",
-            "section": "4",
-            "course": "CALOR Y ONDAS",
-            "place": "E260.1.S101",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "1",
-            "teacher": "Roberto Lavín"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1003",
-            "section": "10",
-            "course": "CÁLCULO II",
-            "place": "E441.1.S101",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "1",
-            "teacher": "Juan Rossel"
           }
         },
         {
@@ -155,7 +131,7 @@
             "start": "10:00:00",
             "finish": "11:20:00",
             "day": "1",
-            "teacher": "Andrea Casado"
+            "teacher": "Roberto Lavín"
           }
         },
         {
@@ -167,19 +143,7 @@
             "start": "10:00:00",
             "finish": "11:20:00",
             "day": "1",
-            "teacher": "Carlos Landeros"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1000",
-            "section": "5",
-            "course": "ÁLGEBRA Y GEOMETRÍA",
-            "place": "E441.2.S203",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "1",
-            "teacher": "Rosa Riveros"
+            "teacher": "Juan Rossel"
           }
         },
         {
@@ -191,91 +155,19 @@
             "start": "10:00:00",
             "finish": "11:20:00",
             "day": "1",
-            "teacher": "Boris Brayovic"
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
-            "code": "CBF1002",
-            "section": "3",
-            "course": "ELECTRICIDAD Y MAGNETISMO",
-            "place": "E441.2.S207",
+            "code": "CBM1000",
+            "section": "5",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.2.S203",
             "start": "10:00:00",
             "finish": "11:20:00",
             "day": "1",
-            "teacher": "Sidney Villagrán"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1000",
-            "section": "7",
-            "course": "MECÁNICA",
-            "place": "E441.3.S303",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "1",
-            "teacher": "Daniela Paredes"
-          }
-        },
-        {
-          "node": {
-            "code": "CBE2000",
-            "section": "4",
-            "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "E441.3.S304",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "1",
-            "teacher": "Hugo Robotham"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1006",
-            "section": "2",
-            "course": "CÁLCULO III",
-            "place": "E441.4.S401",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "1",
-            "teacher": "Emilio Marti"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1005",
-            "section": "3",
-            "course": "ECUACIONES DIFERENCIALES",
-            "place": "E441.4.S403",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "1",
-            "teacher": "Julio López"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1000",
-            "section": "8",
-            "course": "MECÁNICA",
-            "place": "V210.2.S202",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "1",
-            "teacher": "Alejandra León"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1003",
-            "section": "15",
-            "course": "CÁLCULO II",
-            "place": "V432.3.S312",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "1",
-            "teacher": "Ignacio Saavedra"
+            "teacher": "Carlos Landeros"
           }
         },
         {
@@ -287,15 +179,123 @@
             "start": "10:00:00",
             "finish": "11:20:00",
             "day": "1",
+            "teacher": "Rosa Riveros"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501",
+            "section": "2",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Boris Brayovic"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "10",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S101",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Sidney Villagrán"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "15",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Daniela Paredes"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "2",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S401",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Hugo Robotham"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001",
+            "section": "4",
+            "course": "CALOR Y ONDAS",
+            "place": "E260.1.S101",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Emilio Marti"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111",
+            "section": "2",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "E441.4.L.O",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Julio López"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113",
+            "section": "1",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "V432.3.S314",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Alejandra León"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "2",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
+            "teacher": "Ignacio Saavedra"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "3",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "V275.3.L301",
+            "start": "10:00:00",
+            "finish": "11:20:00",
+            "day": "1",
             "teacher": "Gabriela López"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "13",
-            "course": "MECÁNICA",
-            "place": "V432.4.S413",
+            "code": "COC2107",
+            "section": "1",
+            "course": "DISEÑO EN ACERO",
+            "place": "V432.3.S315",
             "start": "10:00:00",
             "finish": "11:20:00",
             "day": "1",
@@ -304,10 +304,10 @@
         },
         {
           "node": {
-            "code": "CBQ1000",
-            "section": "4",
-            "course": "QUÍMICA",
-            "place": "V432.5.S513",
+            "code": "CBM1005",
+            "section": "3",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.4.S403",
             "start": "10:00:00",
             "finish": "11:20:00",
             "day": "1",
@@ -316,50 +316,14 @@
         },
         {
           "node": {
-            "code": "CBM1006",
-            "section": "5",
-            "course": "CÁLCULO III",
-            "place": "E441.1.S101",
+            "code": "CIT3435",
+            "section": "1",
+            "course": "ALGORITMOS DE RUTEO Y REDES RESILIENTES",
+            "place": "V432.5.S514",
             "start": "11:30:00",
             "finish": "12:50:00",
             "day": "1",
             "teacher": "Matthieu Marechal"
-          }
-        },
-        {
-          "node": {
-            "code": "CBQ1000",
-            "section": "1",
-            "course": "QUÍMICA",
-            "place": "E441.1.S105",
-            "start": "11:30:00",
-            "finish": "12:50:00",
-            "day": "1",
-            "teacher": "Nora Reyes"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1003",
-            "section": "4",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S202",
-            "start": "11:30:00",
-            "finish": "12:50:00",
-            "day": "1",
-            "teacher": "Juan Rossel"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1000",
-            "section": "11",
-            "course": "MECÁNICA",
-            "place": "E441.2.S203",
-            "start": "11:30:00",
-            "finish": "12:50:00",
-            "day": "1",
-            "teacher": "Marco Olivares"
           }
         },
         {
@@ -371,15 +335,51 @@
             "start": "11:30:00",
             "finish": "12:50:00",
             "day": "1",
+            "teacher": "Nora Reyes"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001",
+            "section": "4",
+            "course": "CÁLCULO I",
+            "place": "V432.4.S413",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Juan Rossel"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "4",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
+            "teacher": "Marco Olivares"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "5",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "start": "11:30:00",
+            "finish": "12:50:00",
+            "day": "1",
             "teacher": "Sara Arancibia"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "12",
-            "course": "MECÁNICA",
-            "place": "E441.2.S207",
+            "code": "CBM1003",
+            "section": "6",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S313",
             "start": "11:30:00",
             "finish": "12:50:00",
             "day": "1",
@@ -388,10 +388,10 @@
         },
         {
           "node": {
-            "code": "CBF1002",
-            "section": "4",
-            "course": "ELECTRICIDAD Y MAGNETISMO",
-            "place": "E441.4.S401",
+            "code": "CBM1006",
+            "section": "5",
+            "course": "CÁLCULO III",
+            "place": "E441.1.S101",
             "start": "11:30:00",
             "finish": "12:50:00",
             "day": "1",
@@ -412,10 +412,10 @@
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "14",
-            "course": "MECÁNICA",
-            "place": "M253B.4.S404",
+            "code": "COC3435",
+            "section": "1",
+            "course": "COMPUTATIONAL FLUID DYNAMICS",
+            "place": "E441.4.L.O",
             "start": "11:30:00",
             "finish": "12:50:00",
             "day": "1",
@@ -424,10 +424,10 @@
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "5",
-            "course": "CÁLCULO II",
-            "place": "V432.3.S312",
+            "code": "CII1000",
+            "section": "4",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.1.S106",
             "start": "11:30:00",
             "finish": "12:50:00",
             "day": "1",
@@ -436,10 +436,10 @@
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "6",
-            "course": "CÁLCULO II",
-            "place": "V432.3.S313",
+            "code": "CBF1002",
+            "section": "4",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.4.S401",
             "start": "11:30:00",
             "finish": "12:50:00",
             "day": "1",
@@ -448,10 +448,10 @@
         },
         {
           "node": {
-            "code": "CBM1001",
-            "section": "4",
-            "course": "CÁLCULO I",
-            "place": "V432.4.S413",
+            "code": "CII2004",
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "V432.3.S315",
             "start": "11:30:00",
             "finish": "12:50:00",
             "day": "1",
@@ -460,62 +460,14 @@
         },
         {
           "node": {
-            "code": "CBQ1000",
-            "section": "7",
-            "course": "QUÍMICA",
-            "place": "V432.5.S513",
+            "code": "CII3710",
+            "section": "1",
+            "course": "FINTECH",
+            "place": "E441.3.S302",
             "start": "11:30:00",
             "finish": "12:50:00",
             "day": "1",
             "teacher": "Manuel Gacitúa"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1005",
-            "section": "1",
-            "course": "ECUACIONES DIFERENCIALES",
-            "place": "E441.1.S101",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "1",
-            "teacher": "Julio López"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1003",
-            "section": "11",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S201",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "1",
-            "teacher": "Boris Brayovic"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1003",
-            "section": "12",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S202",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "1",
-            "teacher": "Rosa Rivero"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1006",
-            "section": "3",
-            "course": "CÁLCULO III",
-            "place": "E441.2.S203",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "1",
-            "teacher": "Ignacio Saavedra"
           }
         },
         {
@@ -527,19 +479,7 @@
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "1",
-            "teacher": "Andrea Casado"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1002",
-            "section": "7",
-            "course": "ELECTRICIDAD Y MAGNETISMO",
-            "place": "E441.3.S304",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "1",
-            "teacher": "Leonardo Bartolo"
+            "teacher": "Julio López"
           }
         },
         {
@@ -551,43 +491,43 @@
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "1",
-            "teacher": "Emilio Marti"
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
-            "code": "CBE2000",
-            "section": "5",
-            "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "E441.4.S402",
+            "code": "CBM1003",
+            "section": "11",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "1",
-            "teacher": "Hugo Robotham"
+            "teacher": "Rosa Rivero"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "9",
-            "course": "MECÁNICA",
-            "place": "V432.3.S313",
+            "code": "CBM1003",
+            "section": "12",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "1",
-            "teacher": "Marco Olivares"
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
+            "code": "CBM1006",
             "section": "3",
-            "course": "MECÁNICA",
-            "place": "V432.4.S413",
+            "course": "CÁLCULO III",
+            "place": "E441.2.S203",
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "1",
-            "teacher": "Daniela Paredes"
+            "teacher": "Andrea Casado"
           }
         },
         {
@@ -599,55 +539,67 @@
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "1",
-            "teacher": "Roberto Lavín"
+            "teacher": "Leonardo Bartolo"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "2",
-            "course": "CÁLCULO II",
-            "place": "E441.1.S101",
-            "start": "14:30:00",
-            "finish": "15:50:00",
+            "code": "CIT3202",
+            "section": "1",
+            "course": "DATA SCIENCE",
+            "place": "E441.4.L.O",
+            "start": "13:00:00",
+            "finish": "14:20:00",
             "day": "1",
             "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
+            "code": "COC3001",
             "section": "1",
-            "course": "CÁLCULO II",
-            "place": "E441.1.S106",
-            "start": "14:30:00",
-            "finish": "15:50:00",
+            "course": "DISEÑO DE CAMINOS",
+            "place": "V432.4.S415",
+            "start": "13:00:00",
+            "finish": "14:20:00",
             "day": "1",
-            "teacher": "Gabriela López"
+            "teacher": "Hugo Robotham"
           }
         },
         {
           "node": {
-            "code": "CBM1001",
-            "section": "2",
-            "course": "CÁLCULO I",
-            "place": "E441.2.S201",
-            "start": "14:30:00",
-            "finish": "15:50:00",
+            "code": "CBM1005",
+            "section": "1",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.1.S101",
+            "start": "13:00:00",
+            "finish": "14:20:00",
             "day": "1",
-            "teacher": "Tomás Neira"
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "3",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S202",
-            "start": "14:30:00",
-            "finish": "15:50:00",
+            "code": "CBF1002",
+            "section": "7",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.3.S304",
+            "start": "13:00:00",
+            "finish": "14:20:00",
             "day": "1",
-            "teacher": "Rosa Rivero"
+            "teacher": "Daniela Paredes"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107",
+            "section": "4",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "Lab. Telemática",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "1",
+            "teacher": "Roberto Lavín"
           }
         },
         {
@@ -659,91 +611,7 @@
             "start": "14:30:00",
             "finish": "15:50:00",
             "day": "1",
-            "teacher": "Ignacio Saavedra"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1002",
-            "section": "1",
-            "course": "ELECTRICIDAD Y MAGNETISMO",
-            "place": "E441.2.S207",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "1",
-            "teacher": "Marco Olivares"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1000",
-            "section": "4",
-            "course": "MECÁNICA",
-            "place": "E441.3.S304",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "1",
-            "teacher": "Vitalie Eremeev"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1006",
-            "section": "4",
-            "course": "CÁLCULO III",
-            "place": "E441.4.S402",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "1",
-            "teacher": "Juan Muñoz"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1005",
-            "section": "5",
-            "course": "ECUACIONES DIFERENCIALES",
-            "place": "E441.4.S403",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "1",
-            "teacher": "Jaime Contreras"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1003",
-            "section": "14",
-            "course": "CÁLCULO II",
-            "place": "V432.3.S312",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "1",
-            "teacher": "Bruno Aguiló"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1000",
-            "section": "5",
-            "course": "MECÁNICA",
-            "place": "V432.3.S313",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "1",
-            "teacher": "Leonardo Bartolo"
-          }
-        },
-        {
-          "node": {
-            "code": "CBE2000",
-            "section": "3",
-            "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "V432.3.S315",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "1",
-            "teacher": "Jaime Pérez-Kallens"
+            "teacher": "Emilio Marti"
           }
         },
         {
@@ -755,19 +623,7 @@
             "start": "14:30:00",
             "finish": "15:50:00",
             "day": "1",
-            "teacher": "Boris Brayovic"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1001",
-            "section": "1",
-            "course": "CÁLCULO I",
-            "place": "V432.4.S413",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "1",
-            "teacher": "Carlos Landeros"
+            "teacher": "Gabriela López"
           }
         },
         {
@@ -779,7 +635,163 @@
             "start": "14:30:00",
             "finish": "15:50:00",
             "day": "1",
+            "teacher": "Tomás Neira"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001",
+            "section": "2",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S201",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Rosa Rivero"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001",
+            "section": "1",
+            "course": "CÁLCULO I",
+            "place": "V432.4.S413",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Ignacio Saavedra"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "2",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S101",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Marco Olivares"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "1",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S106",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Vitalie Eremeev"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "3",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Juan Muñoz"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "14",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Jaime Contreras"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "4",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S402",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Bruno Aguiló"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111",
+            "section": "1",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "V432.4.S414",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Leonardo Bartolo"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008",
+            "section": "1",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Jaime Pérez-Kallens"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005",
+            "section": "5",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.4.S403",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Boris Brayovic"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "1",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S207",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
+            "teacher": "Carlos Landeros"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3349",
+            "section": "1",
+            "course": "GRAFOS Y ALGORITMOS",
+            "place": "V432.4.S415",
+            "start": "14:30:00",
+            "finish": "15:50:00",
+            "day": "1",
             "teacher": "Juan Rossel"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2007",
+            "section": "1",
+            "course": "ADM DE PROYECTOS CIVILES",
+            "place": "V432.4.S412",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Gabriela López"
           }
         },
         {
@@ -791,31 +803,7 @@
             "start": "16:00:00",
             "finish": "17:20:00",
             "day": "1",
-            "teacher": "Gabriela López"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1000",
-            "section": "3",
-            "course": "ÁLGEBRA Y GEOMETRÍA",
-            "place": "E441.2.S202",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "1",
             "teacher": "Sebastián Vera"
-          }
-        },
-        {
-          "node": {
-            "code": "CBF1001",
-            "section": "3",
-            "course": "CALOR Y ONDAS",
-            "place": "E441.2.S203",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "1",
-            "teacher": "Marco Olivares"
           }
         },
         {
@@ -827,7 +815,7 @@
             "start": "16:00:00",
             "finish": "17:20:00",
             "day": "1",
-            "teacher": "Carlos Landeros"
+            "teacher": "Marco Olivares"
           }
         },
         {
@@ -839,15 +827,27 @@
             "start": "16:00:00",
             "finish": "17:20:00",
             "day": "1",
+            "teacher": "Carlos Landeros"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "10",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.3.S313",
+            "start": "16:00:00",
+            "finish": "17:20:00",
+            "day": "1",
             "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
-            "code": "CBF1002",
-            "section": "2",
-            "course": "ELECTRICIDAD Y MAGNETISMO",
-            "place": "E441.3.S303",
+            "code": "CBM1000",
+            "section": "3",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.2.S202",
             "start": "16:00:00",
             "finish": "17:20:00",
             "day": "1",
@@ -856,10 +856,10 @@
         },
         {
           "node": {
-            "code": "CBM1006",
-            "section": "6",
-            "course": "CÁLCULO III",
-            "place": "E441.4.S402",
+            "code": "CIT3100",
+            "section": "1",
+            "course": "ARQUITECTURAS EMERGENTES",
+            "place": "E441.1.S106",
             "start": "16:00:00",
             "finish": "17:20:00",
             "day": "1",
@@ -868,10 +868,10 @@
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "6",
-            "course": "MECÁNICA",
-            "place": "E441.4.S403",
+            "code": "CIT2007",
+            "section": "2",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
             "start": "16:00:00",
             "finish": "17:20:00",
             "day": "1",
@@ -892,12 +892,36 @@
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "10",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "V432.3.S313",
+            "code": "CBM1006",
+            "section": "6",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S402",
             "start": "16:00:00",
             "finish": "17:20:00",
+            "day": "1",
+            "teacher": "Jaime Contreras"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "5",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Juan Muñoz"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "6",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "start": "17:25:00",
+            "finish": "18:45:00",
             "day": "1",
             "teacher": "Jaime Contreras"
           }
@@ -911,31 +935,339 @@
             "start": "17:25:00",
             "finish": "18:45:00",
             "day": "1",
-            "teacher": "Juan Muñoz"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1002",
-            "section": "5",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S202",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "1",
-            "teacher": "Jaime Contreras"
-          }
-        },
-        {
-          "node": {
-            "code": "CBM1002",
-            "section": "6",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S206",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "1",
             "teacher": "Ignacio Saavedra"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113",
+            "section": "2",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "V432.3.S312",
+            "start": "17:25:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Hugo Carrillo"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "3",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.4.S402"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3618",
+            "section": "1",
+            "course": "CONTROL DE GESTIÓN",
+            "place": "E441.4.S401"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3629",
+            "section": "1",
+            "course": "DATA MINING",
+            "place": "E441.4.L.U"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504",
+            "section": "2",
+            "course": "DATA SCIENCE",
+            "place": "M253A.6.L602"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2105",
+            "section": "1",
+            "course": "DISEÑO EN HORMIGÓN",
+            "place": "E441.1.S101"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "5",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "V432.5.S513"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006",
+            "section": "1",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "E441.4.L.O"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "3",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S207"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3703",
+            "section": "1",
+            "course": "ENERGÍA SOLAR",
+            "place": "V432.4.S414"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "1",
+            "course": "ESTÁTICA",
+            "place": "V432.3.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "2",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.2.S205"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2207",
+            "section": "1",
+            "course": "HIDRÁULICA",
+            "place": "E441.2.S204"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002",
+            "section": "1",
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "E441.1.S106"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3100",
+            "section": "1",
+            "course": "INGENIERÍA SÍSMICA",
+            "place": "E441.3.S303"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "2",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "V432.4.S412"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102",
+            "section": "3",
+            "course": "MARKETING",
+            "place": "E441.2.S205"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "11",
+            "course": "MECÁNICA",
+            "place": "E441.2.S203"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "12",
+            "course": "MECÁNICA",
+            "place": "E441.2.S207"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "14",
+            "course": "MECÁNICA",
+            "place": "M253B.4.S404"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2104",
+            "section": "1",
+            "course": "MECÁNICA DE SUELOS",
+            "place": "E441.2.S201"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2205",
+            "section": "1",
+            "course": "HIDRÁULICA URBANA",
+            "place": "E441.2.S207"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012",
+            "section": "2",
+            "course": "INGENIERÍA DE SOFTWARE",
+            "place": "V432.5.S515"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013",
+            "section": "2",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "E441.4.S403"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "3",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "E441.2.S205"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "3",
+            "course": "LOGÍSTICA",
+            "place": "V432.3.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "9",
+            "course": "MECÁNICA",
+            "place": "V432.3.S313"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002",
+            "section": "3",
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "V432.3.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "4",
+            "course": "MECÁNICA",
+            "place": "E441.3.S304"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "5",
+            "course": "MECÁNICA",
+            "place": "V432.3.S313"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "3",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.-1.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "3",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "V432.3.S315"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "10",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L602"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205",
+            "section": "2",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.3.S302"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001",
+            "section": "3",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.2.S203"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002",
+            "section": "2",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.3.S303"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2207",
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS TIC",
+            "place": "V432.3.S315"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012",
+            "section": "1",
+            "course": "INGENIERÍA DE SOFTWARE",
+            "place": "V432.5.S515"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3708",
+            "section": "1",
+            "course": "INNOVACIÓN TECNOLOGÍCA E INDUSTRIA 4.0",
+            "place": "E441.3.S304"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "6",
+            "course": "MECÁNICA",
+            "place": "E441.4.S403"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3531",
+            "section": "1",
+            "course": "MODELACIÓN NUMÉRICA DE ESTRUCTURA",
+            "place": "E441.2.S206"
           }
         },
         {
@@ -943,11 +1275,519 @@
             "code": "CBM1005",
             "section": "2",
             "course": "ECUACIONES DIFERENCIALES",
-            "place": "E441.4.S402",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "1",
-            "teacher": "Hugo Carrillo"
+            "place": "E441.4.S402"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107",
+            "section": "1",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "Lab. Telemática"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103",
+            "section": "3",
+            "course": "GESTIÓN ESTRATÉGICA",
+            "place": "E441.1.S106"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "8",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "9",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203",
+            "section": "2",
+            "course": "PROYECTO EN TICS II",
+            "place": "E441.4.S403"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203",
+            "section": "1",
+            "course": "PROYECTO EN TICS II",
+            "place": "V432.3.S313"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "2",
+            "course": "REDES DE DATOS",
+            "place": "V432.3.S315"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110",
+            "section": "4",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "Lab. Informática"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004",
+            "section": "3",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.2.S205"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3724",
+            "section": "1",
+            "course": "GESTIÓN CADENA DE ABAST. & OPERACIONES",
+            "place": "E278A.4.S403"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3709",
+            "section": "1",
+            "course": "GESTIÓN EN LA INDUSTRIA MINERA",
+            "place": "E441.-1.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013",
+            "section": "1",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.3.S315"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013",
+            "section": "2",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.4.S413"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "2",
+            "course": "MECÁNICA",
+            "place": "E441.2.S206"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "1",
+            "course": "MECÁNICA",
+            "place": "E441.2.S207"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "2",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "V432.3.S313"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "4",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.3.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "1",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.4.S412"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.2.S203"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "3",
+            "course": "PROGRAMACIÓN",
+            "place": "V275.-1.L10"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "1",
+            "course": "LOGÍSTICA",
+            "place": "V432.4.S412"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102",
+            "section": "2",
+            "course": "MARKETING",
+            "place": "E441.1.S105"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "7",
+            "course": "MECÁNICA",
+            "place": "E441.3.S303"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "8",
+            "course": "MECÁNICA",
+            "place": "V210.2.S202"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "13",
+            "course": "MECÁNICA",
+            "place": "V432.4.S413"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "5",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.4.S402"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "4",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.3.S304"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "1",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204",
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICAS",
+            "place": "E333.-3.S302"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "3",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "7",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L602"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2403",
+            "section": "2",
+            "course": "PROYECTOS ENERGÉTICOS",
+            "place": "V432.3.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000",
+            "section": "1",
+            "course": "QUÍMICA",
+            "place": "E441.1.S105"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000",
+            "section": "7",
+            "course": "QUÍMICA",
+            "place": "V432.5.S513"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010",
+            "section": "2",
+            "course": "SISTEMAS OPERATIVOS",
+            "place": "E441.3.S304"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3721",
+            "section": "1",
+            "course": "TEC AVANZADAS PARA LA TRANSICIÓN ENERGÉT",
+            "place": "E441.4.S402"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "3",
+            "course": "MECÁNICA",
+            "place": "V432.4.S413"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "1",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.-1.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3603",
+            "section": "1",
+            "course": "ORGANIZACIÓN INDUSTRIAL",
+            "place": "V432.3.S312"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "5",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.4.S402"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "2",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "1",
+            "course": "REDES DE DATOS",
+            "place": "E441.2.S203"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3518",
+            "section": "1",
+            "course": "SISTEMAS DE CONTENCIÓN DE TALUDES",
+            "place": "V432.5.S515"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112",
+            "section": "1",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "Lab. Telemática"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "4",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "V432.3.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3416",
+            "section": "1",
+            "course": "PROCESAMIENTO DIGITAL DE SEÑALES",
+            "place": "Lab. Informática"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110",
+            "section": "1",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "V432.3.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000",
+            "section": "6",
+            "course": "QUÍMICA",
+            "place": "E441.4.S403"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757",
+            "section": "3",
+            "course": "SIMULACIÓN",
+            "place": "M253A.6.L601"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2003",
+            "section": "1",
+            "course": "TECNOLOGÍA DEL HORMIGÓN",
+            "place": "V432.5.S515"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2006",
+            "section": "1",
+            "course": "TOPOGRAFÍA",
+            "place": "V432.3.S314"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205",
+            "section": "1",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.3.S302"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000",
+            "section": "4",
+            "course": "QUÍMICA",
+            "place": "V432.5.S513"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3413",
+            "section": "1",
+            "course": "TRANSPORTE DE SEDIMENTOS",
+            "place": "V432.5.S514"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112",
+            "section": "1",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "E441.4.S403"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112",
+            "section": "2",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "V432.4.S414"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3422",
+            "section": "1",
+            "course": "TÓPICOS DE LOG. Y SIS. DE DIS. DE CARGA",
+            "place": "E441.-1.AU"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "1",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2305",
+            "section": "1",
+            "course": "SEMINARIO CS. INGENIERÍA",
+            "place": "SIM"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1001",
+            "section": "2",
+            "course": "TEORÍA ORGANIZACIÓNAL",
+            "place": "E441.1.S106"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3600",
+            "section": "1",
+            "course": "TÓPICOS EN FINANZAS",
+            "place": "E441.2.S205"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "4",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "1",
+            "course": "REDES DE DATOS",
+            "place": "Lab. Telemática"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3300",
+            "section": "1",
+            "course": "TALLER DE PROYECTOS",
+            "place": "E441.2.S207"
           }
         }
       ]
