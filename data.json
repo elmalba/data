@@ -1657,6 +1657,363 @@
             "day": "3",
             "teacher": "Gladys Hinojosa"
           }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "11",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "1",
+            "course": "OPTIMIZACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402",
+            "section": "2",
+            "course": "TERMODINÁMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000",
+            "section": "3",
+            "course": "ÁLGEBRA Y GEOMETRÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "6",
+            "course": "CÁLCULO III"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "12",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100",
+            "section": "5",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "13",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000",
+            "section": "6",
+            "course": "MECÁNICA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001",
+            "section": "1",
+            "course": "INGENIERÍA EN MATERIALES"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757",
+            "section": "2",
+            "course": "SIMULACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751",
+            "section": "2",
+            "course": "INFERENCIA ESTADÍSTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "2",
+            "course": "CONTABILIDAD Y COSTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003",
+            "section": "2",
+            "course": "FINANZAS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "1",
+            "course": "REDES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501",
+            "section": "3",
+            "course": "BASES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "6",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3706",
+            "section": "1",
+            "course": "FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504",
+            "section": "3",
+            "course": "DATA SCIENCE"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012",
+            "section": "1",
+            "course": "INGENIERÍA DE SOFTWARE"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012",
+            "section": "2",
+            "course": "INGENIERÍA DE SOFTWARE"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "5",
+            "course": "OPTIMIZACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "10",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "3",
+            "course": "ESTÁTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3413",
+            "section": "1",
+            "course": "TRANSPORTE DE SEDIMENTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253",
+            "section": "1",
+            "course": "PRODUCCIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2102",
+            "section": "1",
+            "course": "ANÁLISIS ESTRUCTURAL"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2007",
+            "section": "1",
+            "course": "ADM DE PROYECTOS CIVILES"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253",
+            "section": "2",
+            "course": "PRODUCCIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "9",
+            "course": "CÁLCULO II"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "5",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101",
+            "section": "3",
+            "course": "MICROECONOMÍA"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002",
+            "section": "6",
+            "course": "ÁLGEBRA LINEAL"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3300",
+            "section": "1",
+            "course": "TALLER DE PROYECTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "2",
+            "course": "LOGÍSTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108",
+            "section": "1",
+            "course": "TALLER DE REDES Y SERVICIOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108",
+            "section": "2",
+            "course": "TALLER DE REDES Y SERVICIOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757",
+            "section": "3",
+            "course": "SIMULACIÓN"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3202",
+            "section": "1",
+            "course": "DATA SCIENCE"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755",
+            "section": "4",
+            "course": "MODELOS ESTOCÁSTICOS"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2008",
+            "section": "1",
+            "course": "PLANIFICACIÓN DE PROYECTOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114",
+            "section": "2",
+            "course": "REDES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3503",
+            "section": "1",
+            "course": "GESTIÓN DE PROCESOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "8",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001",
+            "section": "2",
+            "course": "INGENIERÍA EN MATERIALES"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005",
+            "section": "2",
+            "course": "ECUACIONES DIFERENCIALES"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2108",
+            "section": "1",
+            "course": "ESTÁTICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011",
+            "section": "2",
+            "course": "SISTEMAS DISTRIBUIDOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011",
+            "section": "1",
+            "course": "SISTEMAS DISTRIBUIDOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010",
+            "section": "1",
+            "course": "SISTEMAS OPERATIVOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010",
+            "section": "2",
+            "course": "SISTEMAS OPERATIVOS"
+          }
         }
       ]
     }
