@@ -7843,7 +7843,7 @@
             "code": "CBF1001",
             "section": "5",
             "course": "CALOR Y ONDAS",
-            "place": "V432.4.S412",
+            "place": "E441.2.S203",
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "4",
@@ -10243,10 +10243,10 @@
             "code": "CIT2205",
             "section": "1",
             "course": "PROYECTO EN TICS I",
-            "place": "E441.3.S302",
+            "place": "E441.3.S303",
             "start": "14:30:00",
             "finish": "15:50:00",
-            "day": "5",
+            "day": "4",
             "teacher": "Jorge Elliott"
           }
         },
