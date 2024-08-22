@@ -4,2270 +4,4457 @@
       "edges": [
         {
           "node": {
-            "code": "CBM1002",
-            "section": "4",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S202",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Juan Rossel"
+            "code": "CII3724"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "14",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S206",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Gabriela López"
+            "code": "CII3709"
           }
         },
         {
           "node": {
-            "code": "CII2501",
-            "section": "1",
-            "course": "BASES DE DATOS",
-            "place": "SIM",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Alberto Abudinen"
+            "code": "COC2105"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "7",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S201",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Andrea Casado"
+            "code": "CIT2109"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "8",
-            "course": "CÁLCULO II",
-            "place": "V432.3.S312",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CII1000",
-            "section": "4",
-            "course": "CONTABILIDAD Y COSTOS",
-            "place": "E441.2.S207",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Roberto Ortiz"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "COC2105",
-            "section": "1",
-            "course": "DISEÑO EN HORMIGÓN",
-            "place": "E441.1.S101",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Sebastián Díaz"
+            "code": "CBE2000"
           }
         },
         {
           "node": {
-            "code": "COC2103",
-            "section": "1",
-            "course": "DISEÑO ESTRUCTURAL",
-            "place": "V432.3.S313",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Marcel De L\"Herbe"
+            "code": "CII2004"
           }
         },
         {
           "node": {
-            "code": "CBM1005",
-            "section": "4",
-            "course": "ECUACIONES DIFERENCIALES",
-            "place": "V432.4.S412",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Emilio Marti"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CIT2107",
-            "section": "1",
-            "course": "ELECTRÓNICA Y ELECTROTECNIA",
-            "place": "E441.1.S106",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Juan Negroni"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CIT2006",
-            "section": "3",
-            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
-            "place": "E441.4.L.O",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Rodrigo Álvarez"
+            "code": "CBM1000"
           }
         },
         {
           "node": {
-            "code": "CII2004",
-            "section": "1",
-            "course": "EVALUACIÓN DE PROYECTOS",
-            "place": "E441.3.S303",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Álvaro Zúñiga"
+            "code": "CBF1001"
           }
         },
         {
           "node": {
-            "code": "CII2004",
-            "section": "2",
-            "course": "EVALUACIÓN DE PROYECTOS",
-            "place": "V432.4.S413",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": ""
+            "code": "CIT2007"
           }
         },
         {
           "node": {
-            "code": "CII2003",
-            "section": "1",
-            "course": "FINANZAS",
-            "place": "V432.5.S514",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Rosa San Martín"
+            "code": "CIT2006"
           }
         },
         {
           "node": {
-            "code": "COC2207",
-            "section": "1",
-            "course": "HIDRÁULICA",
-            "place": "E441.4.S401",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Christian González"
+            "code": "CII3629"
           }
         },
         {
           "node": {
-            "code": "CII3708",
-            "section": "1",
-            "course": "INNOVACIÓN TECNOLOGÍCA E INDUSTRIA 4.0",
-            "place": "V432.3.S314",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Domingo Gallardo"
+            "code": "CII3618"
           }
         },
         {
           "node": {
-            "code": "CII2100",
-            "section": "4",
-            "course": "INTRODUCCIÓN A LA ECONOMÍA",
-            "place": "V432.5.S515",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Jaime Calcagno"
+            "code": "CII1000"
           }
         },
         {
           "node": {
-            "code": "CII2254",
-            "section": "3",
-            "course": "LOGÍSTICA",
-            "place": "V432.3.AU",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Nicolás Tapia"
+            "code": "CBQ1000"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "2",
-            "course": "MECÁNICA",
-            "place": "E441.3.S304",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Mario Miranda"
+            "code": "COC2009"
           }
         },
         {
           "node": {
-            "code": "CII2101",
-            "section": "1",
-            "course": "MICROECONOMÍA",
-            "place": "E441.3.S302",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Eduardo Zúñiga"
+            "code": "CII2757"
           }
         },
         {
           "node": {
-            "code": "CII2750",
-            "section": "6",
-            "course": "OPTIMIZACIÓN",
-            "place": "E441.4.S403",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Pablo Rojas"
+            "code": "CII2504"
           }
         },
         {
           "node": {
-            "code": "CII2750",
-            "section": "2",
-            "course": "OPTIMIZACIÓN",
-            "place": "V432.5.S513",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Renny Márquez"
+            "code": "CII2501"
           }
         },
         {
           "node": {
-            "code": "CBE2000",
-            "section": "1",
-            "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "E441.4.L.D",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Miguel Guerrero"
+            "code": "CIT1000"
           }
         },
         {
           "node": {
-            "code": "CBE2000",
-            "section": "2",
-            "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "E441.4.L.U",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Jorge Rozas"
+            "code": "CII2750"
           }
         },
         {
           "node": {
-            "code": "CII2403",
-            "section": "1",
-            "course": "PROYECTOS ENERGÉTICOS",
-            "place": "V432.3.S315",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Rodrigo Cáceres"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CBQ1000",
-            "section": "6",
-            "course": "QUÍMICA",
-            "place": "E441.2.S203",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Alejandra Opazo"
+            "code": "CII2401"
           }
         },
         {
           "node": {
-            "code": "CIT2110",
-            "section": "2",
-            "course": "SEÑALES Y SISTEMAS",
-            "place": "Lab. Telemática",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": ""
+            "code": "COC2006"
           }
         },
         {
           "node": {
-            "code": "CIT2112",
-            "section": "2",
-            "course": "TECNOLOGÍAS INALÁMBRICAS",
-            "place": "V432.4.S414",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Luis Venegas"
+            "code": "CIT2013"
           }
         },
         {
           "node": {
-            "code": "CIT2112",
-            "section": "1",
-            "course": "TECNOLOGÍAS INALÁMBRICAS",
-            "place": "V432.4.S415",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Erick Carreño"
+            "code": "CII2750"
           }
         },
         {
           "node": {
-            "code": "CII1001",
-            "section": "1",
-            "course": "TEORÍA ORGANIZACIÓNAL",
-            "place": "E441.4.S402",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Carolina Busco"
+            "code": "CIT2013"
           }
         },
         {
           "node": {
-            "code": "CII2402",
-            "section": "1",
-            "course": "TERMODINÁMICA",
-            "place": "E441.2.S205",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "3",
-            "teacher": "Nicolás Gajardo"
+            "code": "CIT2109"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "1",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S202",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Carlos Landeros"
+            "code": "CBF1002"
           }
         },
         {
           "node": {
-            "code": "CIT3100",
-            "section": "1",
-            "course": "ARQUITECTURAS EMERGENTES",
-            "place": "E441.1.S105",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Carlos García"
+            "code": "COC2003"
           }
         },
         {
           "node": {
-            "code": "CII2501",
-            "section": "2",
-            "course": "BASES DE DATOS",
-            "place": "V275.-1.L10",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Alberto Abudinen"
+            "code": "CBF1001"
           }
         },
         {
           "node": {
-            "code": "CIT2007",
-            "section": "2",
-            "course": "BASES DE DATOS",
-            "place": "E441.4.L.U",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Martín Gutierrez"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CIT2009",
-            "section": "1",
-            "course": "BASES DE DATOS AVANZADAS",
-            "place": "M253A.6.L601",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Juan Giadach"
+            "code": "CII2102"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "10",
-            "course": "CÁLCULO II",
-            "place": "E441.1.S101",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Juan Rossel"
+            "code": "CII2002"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "15",
-            "course": "CÁLCULO II",
-            "place": "V432.3.S312",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CIT2111",
-            "section": "2",
-            "course": "COMUNICACIONES DIGITALES",
-            "place": "Lab. Telemática",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Diego Dujovne"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CII1000",
-            "section": "3",
-            "course": "CONTABILIDAD Y COSTOS",
-            "place": "V432.3.AU",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Roberto Ortiz"
+            "code": "CBM1000"
           }
         },
         {
           "node": {
-            "code": "CII1000",
-            "section": "1",
-            "course": "CONTABILIDAD Y COSTOS",
-            "place": "V432.4.S412",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Ema Cortés"
+            "code": "CII2004"
           }
         },
         {
           "node": {
-            "code": "COC2107",
-            "section": "1",
-            "course": "DISEÑO EN ACERO",
-            "place": "V432.4.S413",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Gaspar Auad"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CII2756",
-            "section": "1",
-            "course": "ECONOMETRÍA",
-            "place": "M253A.6.L602",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Paulina Quilodrán"
+            "code": "CBF1002"
           }
         },
         {
           "node": {
-            "code": "CBM1005",
-            "section": "3",
-            "course": "ECUACIONES DIFERENCIALES",
-            "place": "E441.2.S206",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Julio López"
+            "code": "CIT2205"
           }
         },
         {
           "node": {
-            "code": "COC2202",
-            "section": "1",
-            "course": "EDIFICACIÓN",
-            "place": "LOC",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Carmen Gloria Morales"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CBF1002",
-            "section": "3",
-            "course": "ELECTRICIDAD Y MAGNETISMO",
-            "place": "E441.2.S203",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Sidney Villagrán"
+            "code": "CBE2000"
           }
         },
         {
           "node": {
-            "code": "CII2250",
-            "section": "1",
-            "course": "ESTÁTICA",
-            "place": "V432.5.S515",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Rodolfo Danitz"
+            "code": "CIT2008"
           }
         },
         {
           "node": {
-            "code": "CII2751",
-            "section": "3",
-            "course": "INFERENCIA ESTADÍSTICA",
-            "place": "E441.3.S302",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Sebastián Vera"
+            "code": "CIT2111"
           }
         },
         {
           "node": {
-            "code": "COC2203",
-            "section": "1",
-            "course": "INGENIERÍA AMBIENTAL",
-            "place": "V432.5.S514",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Angela Plaza"
+            "code": "CBM1006"
           }
         },
         {
           "node": {
-            "code": "CII2002",
-            "section": "2",
-            "course": "INGENIERIA ECONÓMICA",
-            "place": "E441.1.S106",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Rosa San Martín"
+            "code": "CII2750"
           }
         },
         {
           "node": {
-            "code": "CII2100",
-            "section": "3",
-            "course": "INTRODUCCIÓN A LA ECONOMÍA",
-            "place": "E441.2.S207",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Richard Gillibrand"
+            "code": "CBM1005"
           }
         },
         {
           "node": {
-            "code": "CII2254",
-            "section": "1",
-            "course": "LOGÍSTICA",
-            "place": "E441.3.S304",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Nicolás Tapia"
+            "code": "COC2207"
           }
         },
         {
           "node": {
-            "code": "CII2102",
-            "section": "2",
-            "course": "MARKETING",
-            "place": "V432.4.S415",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Alejandro Zagal"
+            "code": "CIT1000"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "7",
-            "course": "MECÁNICA",
-            "place": "E441.3.S303",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Daniela Paredes"
+            "code": "CII2501"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "13",
-            "course": "MECÁNICA",
-            "place": "V432.5.S513",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Leonardo Bartolo"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CII2401",
-            "section": "1",
-            "course": "MECÁNICA DE FLUIDOS",
-            "place": "E441.2.S205",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Verónica Patiño"
+            "code": "CIT2008"
           }
         },
         {
           "node": {
-            "code": "COC3428",
-            "section": "1",
-            "course": "MODELACIÓN HIDROLÓGICA",
-            "place": "E441.5.E50",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Alonso Pizarro"
+            "code": "CII2250"
           }
         },
         {
           "node": {
-            "code": "CII2750",
-            "section": "4",
-            "course": "OPTIMIZACIÓN",
-            "place": "E441.4.S403",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Álvaro Zúñiga"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CBE2000",
-            "section": "4",
-            "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "E441.4.L.D",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Hugo Robotham"
+            "code": "CBM1000"
           }
         },
         {
           "node": {
-            "code": "CIT1000",
-            "section": "1",
-            "course": "PROGRAMACIÓN",
-            "place": "V275.3.L301",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Juan Duarte"
+            "code": "CIT2113"
           }
         },
         {
           "node": {
-            "code": "CII2403",
-            "section": "2",
-            "course": "PROYECTOS ENERGÉTICOS",
-            "place": "V432.3.S313",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Cristóbal Sarmiento"
+            "code": "COC2107"
           }
         },
         {
           "node": {
-            "code": "CBQ1000",
-            "section": "4",
-            "course": "QUÍMICA",
-            "place": "E441.4.S401",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Rommina Contenla"
+            "code": "CII2254"
           }
         },
         {
           "node": {
-            "code": "CII2757",
-            "section": "4",
-            "course": "SIMULACIÓN",
-            "place": "E441.4.L.O",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Mitsuo Tanida"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CII2757",
-            "section": "1",
-            "course": "SIMULACIÓN",
-            "place": "SIM",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Felipe González"
+            "code": "CII3703"
           }
         },
         {
           "node": {
-            "code": "CII2402",
-            "section": "3",
-            "course": "TERMODINÁMICA",
-            "place": "E441.4.S402",
-            "start": "10:00:00",
-            "finish": "11:20:00",
-            "day": "3",
-            "teacher": "Rodrigo Cáceres"
+            "code": "CBQ1000"
           }
         },
         {
           "node": {
-            "code": "COC2009",
-            "section": "1",
-            "course": "BIM",
-            "place": "LOC",
-            "start": "11:30:00",
-            "finish": "12:50:00",
-            "day": "3",
-            "teacher": "Víctor Muñoz"
+            "code": "COC3413"
           }
         },
         {
           "node": {
-            "code": "COC3435",
-            "section": "1",
-            "course": "COMPUTATIONAL FLUID DYNAMICS",
-            "place": "SIM",
-            "start": "11:30:00",
-            "finish": "12:50:00",
-            "day": "3",
-            "teacher": "Thomas Madler"
+            "code": "CIT2204"
           }
         },
         {
           "node": {
-            "code": "COC2109",
-            "section": "1",
-            "course": "MECÁNICA DE SÓLIDOS",
-            "place": "E441.4.S403",
-            "start": "11:30:00",
-            "finish": "12:50:00",
-            "day": "3",
-            "teacher": "Pablo González"
+            "code": "CII3422"
           }
         },
         {
           "node": {
-            "code": "COC3410",
-            "section": "1",
-            "course": "TECNOLOGÍA DEL ASFALTO",
-            "place": "V432.3.S315",
-            "start": "11:30:00",
-            "finish": "12:50:00",
-            "day": "3",
-            "teacher": "Sergio Valverde"
+            "code": "CBM1006"
           }
         },
         {
           "node": {
-            "code": "COC2003",
-            "section": "1",
-            "course": "TECNOLOGÍA DEL HORMIGÓN",
-            "place": "E441.3.S304",
-            "start": "11:30:00",
-            "finish": "12:50:00",
-            "day": "3",
-            "teacher": "Cristián Narváez"
+            "code": "CBQ1000"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "15",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S206",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Andrea Casado"
+            "code": "CII1000"
           }
         },
         {
           "node": {
-            "code": "CBM1000",
-            "section": "2",
-            "course": "ÁLGEBRA Y GEOMETRÍA",
-            "place": "E441.4.S401",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Emilio Marti"
+            "code": "COC2104"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "11",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S201",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Boris Brayovic"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "12",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S202",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Rosa Rivero"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CBM1006",
-            "section": "3",
-            "course": "CÁLCULO III",
-            "place": "E441.2.S203",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
+            "code": "CII2102"
           }
         },
         {
           "node": {
-            "code": "CIT2113",
-            "section": "1",
-            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
-            "place": "V432.3.S314",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "René Guerrero"
+            "code": "CBM1001"
           }
         },
         {
           "node": {
-            "code": "CIT2113",
-            "section": "2",
-            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
-            "place": "V432.5.S514",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Omar Henríquez"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CII3629",
-            "section": "1",
-            "course": "DATA MINING",
-            "place": "SIM",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Pablo Lemus"
+            "code": "CBQ1000"
           }
         },
         {
           "node": {
-            "code": "CII2756",
-            "section": "2",
-            "course": "ECONOMETRÍA",
-            "place": "M253A.6.L602",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Paula Fariña"
+            "code": "COC3100"
           }
         },
         {
           "node": {
-            "code": "CBM1005",
-            "section": "1",
-            "course": "ECUACIONES DIFERENCIALES",
-            "place": "V432.5.S513",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Julio López"
+            "code": "CIT2010"
           }
         },
         {
           "node": {
-            "code": "CBF1002",
-            "section": "6",
-            "course": "ELECTRICIDAD Y MAGNETISMO",
-            "place": "E441.1.S105",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Sidney Villagrán"
+            "code": "CIT1010"
           }
         },
         {
           "node": {
-            "code": "CIT2107",
-            "section": "2",
-            "course": "ELECTRÓNICA Y ELECTROTECNIA",
-            "place": "V432.3.AU",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Jorge Tobar"
+            "code": "COC3435"
           }
         },
         {
           "node": {
-            "code": "CII2250",
-            "section": "4",
-            "course": "ESTÁTICA",
-            "place": "V432.4.S415",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Natalia Osorio"
+            "code": "CBF1002"
           }
         },
         {
           "node": {
-            "code": "CIT2006",
-            "section": "1",
-            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
-            "place": "M253A.6.L601",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Yerko Ortiz"
+            "code": "CII3721"
           }
         },
         {
           "node": {
-            "code": "CII2103",
-            "section": "1",
-            "course": "GESTIÓN ESTRATÉGICA",
-            "place": "E441.1.S106",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Álex Morales"
+            "code": "CIT2112"
           }
         },
         {
           "node": {
-            "code": "CII2103",
-            "section": "2",
-            "course": "GESTIÓN ESTRATÉGICA",
-            "place": "V432.3.S313",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Julio Salazar"
+            "code": "CIT1010"
           }
         },
         {
           "node": {
-            "code": "COC2205",
-            "section": "1",
-            "course": "HIDRÁULICA URBANA",
-            "place": "E441.2.S207",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Nelson Abarca"
+            "code": "CBF1001"
           }
         },
         {
           "node": {
-            "code": "COC3630",
-            "section": "1",
-            "course": "INDUSTRIALIZACIÓN EN CONSTRUCCIÓN",
-            "place": "V432.5.S515",
-            "start": "13:00:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Leonardo Brescia"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CII2002",
-            "section": "1",
-            "course": "INGENIERIA ECONÓMICA",
-            "place": "E441.2.S205",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Roberto Ortiz"
+            "code": "CII2403"
           }
         },
         {
           "node": {
-            "code": "CII2100",
-            "section": "1",
-            "course": "INTRODUCCIÓN A LA ECONOMÍA",
-            "place": "V432.3.S315",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Jaime Calcagno"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CII2102",
-            "section": "3",
-            "course": "MARKETING",
-            "place": "E441.4.S403",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Eduardo Faivovich"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "9",
-            "course": "MECÁNICA",
-            "place": "E441.3.S303",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Marco Olivares"
+            "code": "CII2004"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "15",
-            "course": "MECÁNICA",
-            "place": "V432.4.S413",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Ricardo Rivera"
+            "code": "CII2100"
           }
         },
         {
           "node": {
-            "code": "CII2401",
-            "section": "2",
-            "course": "MECÁNICA DE FLUIDOS",
-            "place": "E441.4.S402",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Esteban Zamora"
+            "code": "CBM1001"
           }
         },
         {
           "node": {
-            "code": "COC2206",
-            "section": "1",
-            "course": "MECÁNICA DE FLUIDOS",
-            "place": "V432.4.S414",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Christian González"
+            "code": "CIT2112"
           }
         },
         {
           "node": {
-            "code": "CII2755",
-            "section": "3",
-            "course": "MODELOS ESTOCÁSTICOS",
-            "place": "E441.3.S304",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Renny Márquez"
+            "code": "CII3710"
           }
         },
         {
           "node": {
-            "code": "CII2755",
-            "section": "2",
-            "course": "MODELOS ESTOCÁSTICOS",
-            "place": "V432.4.S412",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Francisco Jara"
+            "code": "CIT3435"
           }
         },
         {
           "node": {
-            "code": "CII2750",
-            "section": "3",
-            "course": "OPTIMIZACIÓN",
-            "place": "V432.3.S312",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Jessica Arismedi"
+            "code": "CII2755"
           }
         },
         {
           "node": {
-            "code": "CBE2000",
-            "section": "5",
-            "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "E441.4.L.D",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Hugo Robotham"
+            "code": "CBM1005"
           }
         },
         {
           "node": {
-            "code": "CIT1010",
-            "section": "5",
-            "course": "PROGRAMACIÓN AVANZADA",
-            "place": "V275.-1.L10",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Abel Sierra"
+            "code": "CII1001"
           }
         },
         {
           "node": {
-            "code": "CIT1010",
-            "section": "1",
-            "course": "PROGRAMACIÓN AVANZADA",
-            "place": "V275.3.L301",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Juan Duarte"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "COC2305",
-            "section": "1",
-            "course": "SEMINARIO CS. INGENIERÍA",
-            "place": "E441.4.L.U",
-            "start": "13:00:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Thomas Madler"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CIT2110",
-            "section": "2",
-            "course": "SEÑALES Y SISTEMAS",
-            "place": "E441.1.S101",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": "Rodrigo Muñoz"
+            "code": "CBM1006"
           }
         },
         {
           "node": {
-            "code": "CIT2110",
-            "section": "1",
-            "course": "SEÑALES Y SISTEMAS",
-            "place": "Lab. Telemática",
-            "start": "13:00:00",
-            "finish": "14:20:00",
-            "day": "3",
-            "teacher": ""
+            "code": "CII2100"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "7",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S206",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CIT3000",
-            "section": "2",
-            "course": "ARQUITECTURA DE SOFTWARE",
-            "place": "M253A.6.L602",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Juan Giadach"
+            "code": "COC2205"
           }
         },
         {
           "node": {
-            "code": "CII2501",
-            "section": "4",
-            "course": "BASES DE DATOS",
-            "place": "M253A.6.L601",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Juan Duarte"
+            "code": "CBF1002"
           }
         },
         {
           "node": {
-            "code": "CBM1001",
-            "section": "2",
-            "course": "CÁLCULO I",
-            "place": "E441.2.S201",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Tomás Neira"
+            "code": "CIT1010"
           }
         },
         {
           "node": {
-            "code": "CBM1001",
-            "section": "1",
-            "course": "CÁLCULO I",
-            "place": "V432.5.S513",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Carlos Landeros"
+            "code": "CIT3202"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "2",
-            "course": "CÁLCULO II",
-            "place": "E441.1.S101",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Emilio Marti"
+            "code": "CBM1000"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "1",
-            "course": "CÁLCULO II",
-            "place": "E441.1.S106",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Gabriela López"
+            "code": "CBE2000"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "3",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S202",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Rosa Rivero"
+            "code": "CIT2013"
           }
         },
         {
           "node": {
-            "code": "CBM1006",
-            "section": "4",
-            "course": "CÁLCULO III",
-            "place": "V432.4.S413",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Juan Muñoz"
+            "code": "CIT2107"
           }
         },
         {
           "node": {
-            "code": "CBF1001",
-            "section": "2",
-            "course": "CALOR Y ONDAS",
-            "place": "E441.1.S105",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Daniela Paredes"
+            "code": "CIT1000"
           }
         },
         {
           "node": {
-            "code": "CIT2111",
-            "section": "3",
-            "course": "COMUNICACIONES DIGITALES",
-            "place": "Lab. Telemática",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Diego Dujovne"
+            "code": "COC2305"
           }
         },
         {
           "node": {
-            "code": "CII1000",
-            "section": "5",
-            "course": "CONTABILIDAD Y COSTOS",
-            "place": "E441.2.S207",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Rosa San Martín"
+            "code": "CII2254"
           }
         },
         {
           "node": {
-            "code": "CII2504",
-            "section": "2",
-            "course": "DATA SCIENCE",
-            "place": "V210.2.L201",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Nicolás Tapia"
+            "code": "CII3603"
           }
         },
         {
           "node": {
-            "code": "CII2504",
-            "section": "1",
-            "course": "DATA SCIENCE",
-            "place": "V275.3.L301",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Ítalo Vidal"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CIT2008",
-            "section": "1",
-            "course": "DESARROLLO WEB Y MÓVIL",
-            "place": "V275.-1.L10",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Javier Carrión"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CBF1002",
-            "section": "1",
-            "course": "ELECTRICIDAD Y MAGNETISMO",
-            "place": "E441.2.S203",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Marco Olivares"
+            "code": "COC3001"
           }
         },
         {
           "node": {
-            "code": "CII2250",
-            "section": "2",
-            "course": "ESTÁTICA",
-            "place": "V432.3.S314",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Juan Ulloa"
+            "code": "CBF1001"
           }
         },
         {
           "node": {
-            "code": "CII2004",
-            "section": "3",
-            "course": "EVALUACIÓN DE PROYECTOS",
-            "place": "V432.3.S315",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": ""
+            "code": "CIT2012"
           }
         },
         {
           "node": {
-            "code": "CIT2207",
-            "section": "1",
-            "course": "EVALUACIÓN DE PROYECTOS TIC",
-            "place": "V432.5.S514",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Eduardo Faivovich"
+            "code": "CII2755"
           }
         },
         {
           "node": {
-            "code": "CII3706",
-            "section": "1",
-            "course": "FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIA",
-            "place": "SIM",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Bernardo Bertolotto"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CII2103",
-            "section": "3",
-            "course": "GESTIÓN ESTRATÉGICA",
-            "place": "E441.3.S304",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Álex Morales"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CII2751",
-            "section": "1",
-            "course": "INFERENCIA ESTADÍSTICA",
-            "place": "E441.4.L.U",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Paula Fariña"
+            "code": "CBM1001"
           }
         },
         {
           "node": {
-            "code": "CII2002",
-            "section": "3",
-            "course": "INGENIERIA ECONÓMICA",
-            "place": "E441.4.S402",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Eduardo Faivovich"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "COC3100",
-            "section": "1",
-            "course": "INGENIERÍA SÍSMICA",
-            "place": "V432.4.S415",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Gaspar Auad"
+            "code": "CIT2114"
           }
         },
         {
           "node": {
-            "code": "CII2100",
-            "section": "2",
-            "course": "INTRODUCCIÓN A LA ECONOMÍA",
-            "place": "E441.2.S205",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Jaime Calcagno"
+            "code": "CII3600"
           }
         },
         {
           "node": {
-            "code": "CII2100",
-            "section": "6",
-            "course": "INTRODUCCIÓN A LA ECONOMÍA",
-            "place": "V432.4.S412",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Guillermo Olivares"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "16",
-            "course": "MECÁNICA",
-            "place": "E441.3.S302",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Sergio Godoy"
+            "code": "CBF1002"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "5",
-            "course": "MECÁNICA",
-            "place": "E441.3.S303",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Leonardo Bartolo"
+            "code": "CIT2205"
           }
         },
         {
           "node": {
-            "code": "CII2401",
-            "section": "3",
-            "course": "MECÁNICA DE FLUIDOS",
-            "place": "V432.4.S414",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Nicolás Gajardo"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "COC2104",
-            "section": "1",
-            "course": "MECÁNICA DE SUELOS",
-            "place": "V432.3.S312",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Víctor Contreras"
+            "code": "CIT2008"
           }
         },
         {
           "node": {
-            "code": "CII2101",
-            "section": "2",
-            "course": "MICROECONOMÍA",
-            "place": "E441.2.S204",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Karina Véliz"
+            "code": "CBM1006"
           }
         },
         {
           "node": {
-            "code": "CII2755",
-            "section": "1",
-            "course": "MODELOS ESTOCÁSTICOS",
-            "place": "V432.3.S313",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Renny Márquez"
+            "code": "CBM1005"
           }
         },
         {
           "node": {
-            "code": "CBE2000",
-            "section": "3",
-            "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "E441.4.L.D",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Jaime Pérez-Kallens"
+            "code": "CIT2112"
           }
         },
         {
           "node": {
-            "code": "CII1001",
-            "section": "2",
-            "course": "TEORÍA ORGANIZACIÓNAL",
-            "place": "V432.3.AU",
-            "start": "14:30:00",
-            "finish": "15:50:00",
-            "day": "3",
-            "teacher": "Gladys Hinojosa"
+            "code": "CIT1010"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "11",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.1.S101",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Gabriela López"
+            "code": "CII2002"
           }
         },
         {
           "node": {
-            "code": "CII2750",
-            "section": "1",
-            "course": "OPTIMIZACIÓN",
-            "place": "E441.1.S106",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Esteban Geisse"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CII2402",
-            "section": "2",
-            "course": "TERMODINÁMICA",
-            "place": "E441.2.S201",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Masoud Behzad"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CBM1000",
-            "section": "3",
-            "course": "ÁLGEBRA Y GEOMETRÍA",
-            "place": "E441.2.S202",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Sebastián Vera"
+            "code": "CBE2000"
           }
         },
         {
           "node": {
-            "code": "CBM1006",
-            "section": "6",
-            "course": "CÁLCULO III",
-            "place": "E441.2.S203",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Juan Muñoz"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "12",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S205",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Carlos Landeros"
+            "code": "CBM1001"
           }
         },
         {
           "node": {
-            "code": "CII2100",
-            "section": "5",
-            "course": "INTRODUCCIÓN A LA ECONOMÍA",
-            "place": "E441.2.S206",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Guillermo Olivares"
+            "code": "CIT2111"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "13",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S207",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Juan Rossel"
+            "code": "CIT3349"
           }
         },
         {
           "node": {
-            "code": "CBF1000",
-            "section": "6",
-            "course": "MECÁNICA",
-            "place": "E441.3.S303",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Daniela Paredes"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "COC2001",
-            "section": "1",
-            "course": "INGENIERÍA EN MATERIALES",
-            "place": "E441.3.S304",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Sandra Acosta"
+            "code": "COC3518"
           }
         },
         {
           "node": {
-            "code": "CII2757",
-            "section": "2",
-            "course": "SIMULACIÓN",
-            "place": "E441.4.L.D",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Felipe González"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CII2751",
-            "section": "2",
-            "course": "INFERENCIA ESTADÍSTICA",
-            "place": "E441.4.L.U",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Sebastián Vera"
+            "code": "CIT3100"
           }
         },
         {
           "node": {
-            "code": "CII1000",
-            "section": "2",
-            "course": "CONTABILIDAD Y COSTOS",
-            "place": "E441.4.S402",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Rosa San Martín"
+            "code": "CBM1000"
           }
         },
         {
           "node": {
-            "code": "CII2003",
-            "section": "2",
-            "course": "FINANZAS",
-            "place": "E441.4.S403",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Guillermo Olivares"
+            "code": "CBF1001"
           }
         },
         {
           "node": {
-            "code": "CIT2114",
-            "section": "1",
-            "course": "REDES DE DATOS",
-            "place": "Lab. Telemática",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": ""
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CII2501",
-            "section": "3",
-            "course": "BASES DE DATOS",
-            "place": "M253A.6.L601",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Alberto Abudinen"
+            "code": "COC3531"
           }
         },
         {
           "node": {
-            "code": "CIT1010",
-            "section": "6",
-            "course": "PROGRAMACIÓN AVANZADA",
-            "place": "M253A.6.L602",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Leandro Llanza"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CII3706",
-            "section": "1",
-            "course": "FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIA",
-            "place": "SIM",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Bernardo Bertolotto"
+            "code": "CBF1002"
           }
         },
         {
           "node": {
-            "code": "CII2504",
-            "section": "3",
-            "course": "DATA SCIENCE",
-            "place": "V210.2.L201",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": ""
+            "code": "CII3708"
           }
         },
         {
           "node": {
-            "code": "CIT2012",
-            "section": "1",
-            "course": "INGENIERÍA DE SOFTWARE",
-            "place": "V432.3.AU",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Matías Rojas"
+            "code": "CBM1006"
           }
         },
         {
           "node": {
-            "code": "CIT2012",
-            "section": "2",
-            "course": "INGENIERÍA DE SOFTWARE",
-            "place": "V432.3.AU",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Matías Rojas"
+            "code": "CBF1000"
           }
         },
         {
           "node": {
-            "code": "CII2750",
-            "section": "5",
-            "course": "OPTIMIZACIÓN",
-            "place": "V432.3.S312",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Álvaro Zúñiga"
+            "code": "CIT3416"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "10",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "V432.3.S313",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Jaime Contreras"
+            "code": "CIT1010"
           }
         },
         {
           "node": {
-            "code": "CII2250",
-            "section": "3",
-            "course": "ESTÁTICA",
-            "place": "V432.4.S412",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Leonardo Gallo"
+            "code": "CIT2007"
           }
         },
         {
           "node": {
-            "code": "COC3413",
-            "section": "1",
-            "course": "TRANSPORTE DE SEDIMENTOS",
-            "place": "V432.4.S414",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Hernán Alcayaga"
+            "code": "CII2755"
           }
         },
         {
           "node": {
-            "code": "CII2253",
-            "section": "1",
-            "course": "PRODUCCIÓN",
-            "place": "V432.5.S514",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "Renny Márquez"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "COC2102",
-            "section": "1",
-            "course": "ANÁLISIS ESTRUCTURAL",
-            "place": "V432.5.S515",
-            "start": "16:00:00",
-            "finish": "17:20:00",
-            "day": "3",
-            "teacher": "José Colombo"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "COC2007",
-            "section": "1",
-            "course": "ADM DE PROYECTOS CIVILES",
-            "place": "E441.1.S101",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Alexander Dulovits"
+            "code": "CIT2207"
           }
         },
         {
           "node": {
-            "code": "CII2253",
-            "section": "2",
-            "course": "PRODUCCIÓN",
-            "place": "E441.1.S106",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Nicolás Tapia"
+            "code": "COC2007"
           }
         },
         {
           "node": {
-            "code": "CBM1003",
-            "section": "9",
-            "course": "CÁLCULO II",
-            "place": "E441.2.S201",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Juan Muñoz"
+            "code": "CIT2012"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "5",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S202",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Jaime Contreras"
+            "code": "CII2103"
           }
         },
         {
           "node": {
-            "code": "CII2101",
-            "section": "3",
-            "course": "MICROECONOMÍA",
-            "place": "E441.2.S205",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Karina Véliz"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CBM1002",
-            "section": "6",
-            "course": "ÁLGEBRA LINEAL",
-            "place": "E441.2.S206",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Ignacio Saavedra"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "COC3300",
-            "section": "1",
-            "course": "TALLER DE PROYECTOS",
-            "place": "E441.2.S207",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Gabriel Silva"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CII2254",
-            "section": "2",
-            "course": "LOGÍSTICA",
-            "place": "E441.3.S304",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Luis Yáñez"
+            "code": "COC3300"
           }
         },
         {
           "node": {
-            "code": "CIT2108",
-            "section": "1",
-            "course": "TALLER DE REDES Y SERVICIOS",
-            "place": "E441.4.L.D",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Pablo Palacios"
+            "code": "CIT1010"
           }
         },
         {
           "node": {
-            "code": "CIT2108",
-            "section": "2",
-            "course": "TALLER DE REDES Y SERVICIOS",
-            "place": "E441.4.L.D",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Pablo Palacios"
+            "code": "CBM1005"
           }
         },
         {
           "node": {
-            "code": "CII2757",
-            "section": "3",
-            "course": "SIMULACIÓN",
-            "place": "E441.4.L.O",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Mitsuo Tanida"
+            "code": "CIT3203"
           }
         },
         {
           "node": {
-            "code": "CIT3202",
-            "section": "1",
-            "course": "DATA SCIENCE",
-            "place": "E441.4.L.U",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Osvaldo Ceballos"
+            "code": "CIT2110"
           }
         },
         {
           "node": {
-            "code": "CII2755",
-            "section": "4",
-            "course": "MODELOS ESTOCÁSTICOS",
-            "place": "E441.4.S402",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Luis Yáñez"
+            "code": "CIT2107"
           }
         },
         {
           "node": {
-            "code": "COC2008",
-            "section": "1",
-            "course": "PLANIFICACIÓN DE PROYECTOS",
-            "place": "E441.4.S403",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Teodosio Cayo"
+            "code": "CIT1010"
           }
         },
         {
           "node": {
-            "code": "CIT2114",
-            "section": "2",
-            "course": "REDES DE DATOS",
-            "place": "Lab. Telemática",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": ""
+            "code": "CIT2110"
           }
         },
         {
           "node": {
-            "code": "CII3503",
-            "section": "1",
-            "course": "GESTIÓN DE PROCESOS",
-            "place": "SIM",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Luis Gaete"
+            "code": "CIT2113"
           }
         },
         {
           "node": {
-            "code": "CIT1010",
-            "section": "8",
-            "course": "PROGRAMACIÓN AVANZADA",
-            "place": "V275.-1.L10",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Marcos Fantoval"
+            "code": "CIT3203"
           }
         },
         {
           "node": {
-            "code": "COC2001",
-            "section": "2",
-            "course": "INGENIERÍA EN MATERIALES",
-            "place": "V432.3.AU",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Sandra Acosta"
+            "code": "CIT2114"
           }
         },
         {
           "node": {
-            "code": "CBM1005",
-            "section": "2",
-            "course": "ECUACIONES DIFERENCIALES",
-            "place": "V432.3.S312",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Hugo Carrillo"
+            "code": "CII3722"
           }
         },
         {
           "node": {
-            "code": "COC2108",
-            "section": "1",
-            "course": "ESTÁTICA",
-            "place": "V432.3.S313",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "José Colombo"
+            "code": "COC2109"
           }
         },
         {
           "node": {
-            "code": "CIT2011",
-            "section": "2",
-            "course": "SISTEMAS DISTRIBUIDOS",
-            "place": "V432.3.S315",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Nicolás Hidalgo"
+            "code": "CII2101"
           }
         },
         {
           "node": {
-            "code": "CIT2011",
-            "section": "1",
-            "course": "SISTEMAS DISTRIBUIDOS",
-            "place": "V432.4.S412",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Nicolás Hidalgo"
+            "code": "CBM1003"
           }
         },
         {
           "node": {
-            "code": "CIT2010",
-            "section": "1",
-            "course": "SISTEMAS OPERATIVOS",
-            "place": "V432.4.S415",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Martín Gutierrez"
+            "code": "CBM1002"
           }
         },
         {
           "node": {
-            "code": "CIT2010",
-            "section": "2",
-            "course": "SISTEMAS OPERATIVOS",
-            "place": "V432.5.S515",
-            "start": "17:25:00",
-            "finish": "18:45:00",
-            "day": "3",
-            "teacher": "Víctor Reyes"
+            "code": "CIT3431"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756"
+          }
+        },
+        {
+          "node": {
+            "code": "FIC1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2008"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3345"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3615"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2203"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3500"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3518"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2206"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2108"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3406"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3503"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3353"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2206"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2202"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3705"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3428"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3610"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3433"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2403"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2106"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2207"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3624"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3340"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2204"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2006"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3101"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3628"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3354"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3723"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3434"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3410"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2009"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3531"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2105"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2207"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3708"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2403"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3100"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3428"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2009"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2403"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2202"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2107"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2203"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2003"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2109"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2009"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3435"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3410"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2205"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2305"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3629"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2206"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3630"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3706"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1001"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2104"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2207"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3706"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3413"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2102"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2007"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3300"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3202"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2008"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3503"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2108"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2105"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3629"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3618"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2009"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2006"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2003"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2206"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2107"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3703"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2207"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3413"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2207"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3422"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2104"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3100"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3435"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3721"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2403"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2004"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3710"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3435"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2205"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3202"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2305"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3603"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3101"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3600"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3628"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3349"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3433"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3518"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3708"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3416"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2207"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3300"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2114"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3722"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2109"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3431"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756"
+          }
+        },
+        {
+          "node": {
+            "code": "FIC1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2008"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3345"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3615"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2109"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2010"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3630"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2203"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3500"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2113"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2206"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2108"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3406"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3503"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2204"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2206"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2202"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2108"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3705"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2755"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3428"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBQ1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2757"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3610"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3433"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3353"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2403"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2106"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2207"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2103"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2101"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3001"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2100"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3624"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3340"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2751"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2204"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3102"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1005"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2002"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2253"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2501"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2112"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3102"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2205"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3354"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1002"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3723"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2102"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2106"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1002"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2102"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2008"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003"
+          }
+        },
+        {
+          "node": {
+            "code": "CBF1001"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2011"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3434"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3410"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2009"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2204"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2110"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3531"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2111"
           }
         }
       ]
