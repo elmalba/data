@@ -10693,6 +10693,18 @@
             "day": "5",
             "teacher": ""
           }
+        },
+        {
+          "node": {
+            "code": "COC2207",
+            "section": "1",
+            "course": "HIDRÁULICA",
+            "place": "E441.5.E50",
+            "start": "16:00:00",
+            "finish": "18:45:00",
+            "day": "1",
+            "teacher": "Christian González"
+          }
         }
       ]
     }
