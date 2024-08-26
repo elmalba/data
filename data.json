@@ -10708,13 +10708,14 @@
         },
         {
           "node": {
-            "code": "",
-            "section": "",
-            "course": "",
+            "code": "COC2207",
+            "section": "1",
+            "course": "LAB. DE SOLIDOS",
             "place": "",
             "start": "16:00:00",
             "finish": "17:25:00",
-            "teacher": ""
+            "day": "1",
+            "teacher": "Pablo González"
           }
         }
       ]
