@@ -2212,6 +2212,30 @@
         },
         {
           "node": {
+            "code": "CIT2107",
+            "section": "1",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "E441.-1.AU",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "2",
+            "teacher": "Juan Negroni"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107",
+            "section": "2",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "E441.-1.AU",
+            "start": "8:30:00",
+            "finish": "9:50:00",
+            "day": "2",
+            "teacher": "Jorge Tobar"
+          }
+        },
+        {
+          "node": {
             "code": "COC2109",
             "section": "1",
             "course": "MECÁNICA DE SÓLIDOS",
@@ -2356,18 +2380,6 @@
         },
         {
           "node": {
-            "code": "CIT2107",
-            "section": "1",
-            "course": "ELECTRÓNICA Y ELECTROTECNIA",
-            "place": "E441.4.S402",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "2",
-            "teacher": "Juan Negroni"
-          }
-        },
-        {
-          "node": {
             "code": "COC2008",
             "section": "1",
             "course": "PLANIFICACIÓN DE PROYECTOS",
@@ -2436,18 +2448,6 @@
             "finish": "9:50:00",
             "day": "2",
             "teacher": "Juan Duarte"
-          }
-        },
-        {
-          "node": {
-            "code": "CIT2107",
-            "section": "2",
-            "course": "ELECTRÓNICA Y ELECTROTECNIA",
-            "place": "V432.3.AU",
-            "start": "8:30:00",
-            "finish": "9:50:00",
-            "day": "2",
-            "teacher": "Jorge Tobar"
           }
         },
         {
