@@ -529,6 +529,284 @@
             "day": "3",
             "teacher": "Guillermo Olivares"
           }
+        },
+        {
+          "node": {
+            "code": "CIT2109",
+            "section": "1 y 2",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "E441.-1.AU",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Pablo Sánchez"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "2",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.1.S106",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Jorge Rozas"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "3",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.2.S201",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Jaime Pérez-Kallens"
+          }
+        },
+        {
+          "node": {
+            "code": "EIT",
+            "section": "1",
+            "course": "ELECTIVO PROFESIONAL",
+            "place": "E441.2.S202",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Por definir"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "2",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "E441.2.S205",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Esteban Zamora"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.2.S206",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Miguel Guerrero"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504",
+            "section": "2",
+            "course": "DATA SCIENCE",
+            "place": "E441.4.L.D",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Nicolás Tapia"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504",
+            "section": "1",
+            "course": "DATA SCIENCE",
+            "place": "E441.4.L.U",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Ítalo Vidal"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "1",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "E441.4.S402",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Verónica Patiño"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2401",
+            "section": "3",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "E441.4.S403",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Nicolás Gajardo"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2504",
+            "section": "3",
+            "course": "DATA SCIENCE",
+            "place": "SIM",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Paulina Quilodrán"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2001",
+            "section": "1 y 2",
+            "course": "INGENIERÍA EN MATERIALES",
+            "place": "V432.3.AU",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Sandra Acosta"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "4",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "V432.3.S312",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Hugo Robotham"
+          }
+        },
+        {
+          "node": {
+            "code": "CBE2000",
+            "section": "5",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "V432.3.S313",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Hugo Robotham"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2008",
+            "section": "1",
+            "course": "PLANIFICACIÓN DE PROYECTOS",
+            "place": "V432.4.S412",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "4",
+            "teacher": "Teodosio Cayo"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "6",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007",
+            "section": "2",
+            "course": "BASES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402",
+            "section": "1 y 2",
+            "course": "TERMODINÁMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "9 y 11",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007",
+            "section": "1",
+            "course": "BASES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "1 y 4",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2007",
+            "section": "3",
+            "course": "BASES DE DATOS"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "7",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "5 y 10",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "2 y 8",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2402",
+            "section": "3",
+            "course": "TERMODINÁMICA"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2009",
+            "section": "1",
+            "course": "BASES DE DATOS AVANZADAS"
+          }
+        },
+        {
+          "node": {
+            "code": "COC",
+            "section": "1",
+            "course": "ELECTIVO PROFESIONAL OO.CC"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1010",
+            "section": "3",
+            "course": "PROGRAMACIÓN AVANZADA"
+          }
         }
       ]
     }
