@@ -222,42 +222,144 @@
           "node": {
             "code": "COC2104",
             "section": "3",
-            "course": "MECÁNICA DE SUELOS"
+            "course": "MECÁNICA DE SUELOS",
+            "place": "E441.2.S201",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Víctor Contreras"
           }
         },
         {
           "node": {
             "code": "CIT2204",
             "section": "2",
-            "course": "PROBABILIDADES Y ESTADÍSTICAS (EIT)"
+            "course": "PROBABILIDADES Y ESTADÍSTICAS (EIT)",
+            "place": "E441.2.S205",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CII2004",
             "section": "2 y 3",
-            "course": "EVALUACIÓN DE PROYECTOS"
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.4.L.D, E441.4.L.U y E441.4.L.O",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CIT2204",
             "section": "1",
-            "course": "PROBABILIDADES Y ESTADÍSTICAS (EIT)"
+            "course": "PROBABILIDADES Y ESTADÍSTICAS (EIT)",
+            "place": "E441.4.S402",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Paulina Quilodrán"
           }
         },
         {
           "node": {
             "code": "CII2004",
             "section": "1",
-            "course": "EVALUACIÓN DE PROYECTOS"
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "SIM",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CIT2011",
             "section": "1 y 2",
-            "course": "SISTEMAS DISTRIBUIDOS"
+            "course": "SISTEMAS DISTRIBUIDOS",
+            "place": "V432.3.AU",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "5",
+            "teacher": "Nicolás Hidalgo"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "2 y 5",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.2.S201 y E441.2.S202",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Rosa San Martín"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "3 y 4",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.2.S205 y E441.2.S206",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Roberto Ortiz"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2107",
+            "section": "1",
+            "course": "DISEÑO EN ACERO",
+            "place": "LIBERA SALA",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Gaspar Auad"
+          }
+        },
+        {
+          "node": {
+            "code": "CII1000",
+            "section": "1",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "V432.3.AU",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Ema Cortés"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2102",
+            "section": "1",
+            "course": "ANÁLISIS ESTRUCTURAL",
+            "place": "V432.3.S312",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "José Colombo"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3413",
+            "section": "1",
+            "course": "TRANSPORTE DE SEDIMENTOS",
+            "place": "V432.3.S313",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "5",
+            "teacher": "Hernán Alcayaga"
           }
         }
       ]
