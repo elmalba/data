@@ -714,98 +714,360 @@
           "node": {
             "code": "CIT1010",
             "section": "6",
-            "course": "PROGRAMACIÓN AVANZADA"
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.-1.AU",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Leandro Llanza"
           }
         },
         {
           "node": {
             "code": "CIT2007",
             "section": "2",
-            "course": "BASES DE DATOS"
+            "course": "BASES DE DATOS",
+            "place": "E441.1.S101",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CII2402",
             "section": "1 y 2",
-            "course": "TERMODINÁMICA"
+            "course": "TERMODINÁMICA",
+            "place": "E441.1.S105 y E441.1.S106",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Rodrigo Cáceres y Masoud Behzad"
           }
         },
         {
           "node": {
             "code": "CIT1010",
             "section": "9 y 11",
-            "course": "PROGRAMACIÓN AVANZADA"
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.2.S201 y E441.2.S203",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2007",
             "section": "1",
-            "course": "BASES DE DATOS"
+            "course": "BASES DE DATOS",
+            "place": "E441.2.S202",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT1010",
             "section": "1 y 4",
-            "course": "PROGRAMACIÓN AVANZADA"
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.2.S205 y E441.2.S207",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2007",
             "section": "3",
-            "course": "BASES DE DATOS"
+            "course": "BASES DE DATOS",
+            "place": "E441.2.S206",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CIT1010",
             "section": "7",
-            "course": "PROGRAMACIÓN AVANZADA"
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.3.S304",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Rodrigo Sáez"
           }
         },
         {
           "node": {
             "code": "CIT1010",
             "section": "5 y 10",
-            "course": "PROGRAMACIÓN AVANZADA"
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.S402 y E441.4.S403",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Abel Sierra y Jonathan Frez"
           }
         },
         {
           "node": {
             "code": "CIT1010",
             "section": "2 y 8",
-            "course": "PROGRAMACIÓN AVANZADA"
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "V432.3.AU",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Marcos Fantoval"
           }
         },
         {
           "node": {
             "code": "CII2402",
             "section": "3",
-            "course": "TERMODINÁMICA"
+            "course": "TERMODINÁMICA",
+            "place": "V432.3.S312",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Nicolás Gajardo"
           }
         },
         {
           "node": {
             "code": "CIT2009",
             "section": "1",
-            "course": "BASES DE DATOS AVANZADAS"
+            "course": "BASES DE DATOS AVANZADAS",
+            "place": "V432.3.S313",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Juan Giadach"
           }
         },
         {
           "node": {
             "code": "COC",
             "section": "1",
-            "course": "ELECTIVO PROFESIONAL OO.CC"
+            "course": "ELECTIVO PROFESIONAL OO.CC",
+            "place": "V432.3.S315",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Por definir"
           }
         },
         {
           "node": {
             "code": "CIT1010",
             "section": "3",
-            "course": "PROGRAMACIÓN AVANZADA"
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "V432.4.S412",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "4",
+            "teacher": "Patricio Huichulef"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2012",
+            "section": "1 y 2",
+            "course": "INGENIERÍA DE SOFTWARE",
+            "place": "E441.1.S106",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "4",
+            "teacher": "Matías Rojas"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3705",
+            "section": "1",
+            "course": "INTRODUCCIÓN A LA TEORÍA DE JUEGOS",
+            "place": "E441.2.S201",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "4",
+            "teacher": "Eduardo Zúñiga"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003",
+            "section": "2",
+            "course": "FINANZAS",
+            "place": "E441.2.S202",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "4",
+            "teacher": "Guillermo Olivares"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "3 y 4",
+            "course": "PROGRAMACIÓN",
+            "place": "E441.2.S205 y E441.2.S206",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "4",
+            "teacher": "Patricio Huichulef"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "1",
+            "course": "PROGRAMACIÓN",
+            "place": "E441.4.S402",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "4",
+            "teacher": "Juan Duarte"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT1000",
+            "section": "2",
+            "course": "PROGRAMACIÓN",
+            "place": "V432.3.AU",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "4",
+            "teacher": "Esteban Álvarez"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3630",
+            "section": "1",
+            "course": "INDUSTRIALIZACIÓN EN CONSTRUCCIÓN",
+            "place": "V432.3.S312",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "4",
+            "teacher": "Leonardo Brescia"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2108",
+            "section": "1",
+            "course": "ESTÁTICA",
+            "place": "V432.3.S313",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "4",
+            "teacher": "José Colombo"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2003",
+            "section": "1",
+            "course": "FINANZAS",
+            "place": "V432.4.S412",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "4",
+            "teacher": "Rosa San Martín"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006",
+            "section": "1",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "E441.2.S205",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "4",
+            "teacher": "Yerko Ortiz"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2006",
+            "section": "3",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "E441.2.S202",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "4",
+            "teacher": "Rodrigo Álvarez"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3603",
+            "section": "1",
+            "course": "ORGANIZACIÓN INDUSTRIAL",
+            "place": "E441.4.S402",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "4",
+            "teacher": "Jaime Calcagno"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3531",
+            "section": "1",
+            "course": "MODELACIÓN NUMÉRICA DE ESTRUCTURA",
+            "place": "LOC",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "4",
+            "teacher": "Asdrubal Ayestarán"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2103",
+            "section": "1",
+            "course": "DISEÑO ESTRUCTURAL",
+            "place": "V432.3.AU",
+            "start": "16:00:00",
+            "finish": "20:00:00",
+            "day": "4",
+            "teacher": "Marcel de L\"Herbe"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013",
+            "section": "1",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.3.S312",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "4",
+            "teacher": "Martín Gutierrez"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2013",
+            "section": "2",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.3.S313",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "4",
+            "teacher": "Víctor Reyes"
           }
         }
       ]
