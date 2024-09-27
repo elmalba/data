@@ -4,374 +4,341 @@
       "edges": [
         {
           "node": {
-            "code": "CBQ1000",
-            "section": "6",
-            "course": "QUÍMICA",
+            "code": "CIT2107",
+            "section": "3",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
             "place": "E441.1.S106",
             "start": "8:30:00",
             "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Alejandra Opazo"
+            "day": "1",
+            "teacher": "Jorge Tobar"
           }
         },
         {
           "node": {
-            "code": "CIT2113",
-            "section": "1",
-            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "code": "CII2250",
+            "section": "3",
+            "course": "ESTÁTICA",
             "place": "E441.2.S201",
             "start": "8:30:00",
             "finish": "10:45:00",
-            "day": "5",
-            "teacher": "René Guerrero"
+            "day": "1",
+            "teacher": "Leonardo Gallo"
           }
         },
         {
           "node": {
-            "code": "CIT2113",
-            "section": "2",
-            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
-            "place": "E441.2.S201",
-            "start": "8:30:00",
-            "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Omar Henríquez"
-          }
-        },
-        {
-          "node": {
-            "code": "COC3001",
+            "code": "CBM100",
             "section": "1",
-            "course": "DISEÑO DE CAMINOS",
+            "course": "CÁLCULO I",
             "place": "E441.2.S202",
             "start": "8:30:00",
             "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Nicolás Tapia"
+            "day": "1",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
-            "code": "CII2101",
-            "section": "3",
-            "course": "MICROECONOMÍA",
+            "code": "CII2250",
+            "section": "1",
+            "course": "ESTÁTICA",
             "place": "E441.2.S205",
             "start": "8:30:00",
             "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Karina Véliz"
+            "day": "1",
+            "teacher": "Rodolfo Danitz"
           }
         },
         {
           "node": {
-            "code": "CII2101",
-            "section": "2",
-            "course": "MICROECONOMÍA",
+            "code": "CBM100",
+            "section": "3",
+            "course": "CÁLCULO I",
             "place": "E441.2.S206",
             "start": "8:30:00",
             "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Karina Véliz"
+            "day": "1",
+            "teacher": "Sara Arancibia"
           }
         },
         {
           "node": {
-            "code": "COC2203",
+            "code": "COC2106",
             "section": "1",
-            "course": "INGENIERÍA AMBIENTAL",
+            "course": "FUNDACIONES",
+            "place": "E441.-1.AU",
+            "start": "8:30:00",
+            "finish": "13:00:00",
+            "day": "1",
+            "teacher": "Pablo González"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2109",
+            "section": "1",
+            "course": "MECÁNICA DE SÓLIDOS",
+            "place": "E441.-1.AU",
+            "start": "8:30:00",
+            "finish": "13:00:00",
+            "day": "1",
+            "teacher": "Pablo González"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2107",
+            "section": "1",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "V432.3 AU",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Juan Negroni"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "2",
+            "course": "CÁLCULO I",
+            "place": "V432.3.S312",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Tomás Neira"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3709",
+            "section": "1",
+            "course": "GESTIÓN EN LA INDUSTRIA MINERA",
+            "place": "V432.3.S313",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Dagoberto Pérez"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM100",
+            "section": "4",
+            "course": "CÁLCULO I",
+            "place": "V432.4.S412",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "1",
+            "teacher": "Andrea Casado"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2250",
+            "section": "4",
+            "course": "ESTÁTICA",
             "place": "E441.2.S207",
             "start": "8:30:00",
             "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Angela Plaza"
+            "day": "1",
+            "teacher": "Natalia Osorio"
           }
         },
         {
           "node": {
-            "code": "CBQ1000",
-            "section": "7",
-            "course": "QUÍMICA",
-            "place": "E441.3.S304",
-            "start": "8:30:00",
-            "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Manuel Gacitúa"
-          }
-        },
-        {
-          "node": {
-            "code": "CBQ1000",
-            "section": "4",
-            "course": "QUÍMICA",
-            "place": "E441.4.S402",
-            "start": "8:30:00",
-            "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Rommina Contenla"
-          }
-        },
-        {
-          "node": {
-            "code": "CBQ1000",
+            "code": "CIT3100",
             "section": "1",
-            "course": "QUÍMICA",
+            "course": "ARQUITECTURAS EMERGENTES",
             "place": "E441.4.S403",
             "start": "8:30:00",
             "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Nora Reyes"
+            "day": "1",
+            "teacher": "Carlos García"
           }
         },
         {
           "node": {
-            "code": "CII2101",
-            "section": "1",
-            "course": "MICROECONOMÍA",
-            "place": "V432.3.AU",
+            "code": "CII2250",
+            "section": "2",
+            "course": "ESTÁTICA",
+            "place": "E441.1.S101",
             "start": "8:30:00",
             "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Eduardo Zúñiga"
+            "day": "1",
+            "teacher": "Juan Ulloa"
           }
         },
         {
           "node": {
-            "code": "CII3618",
+            "code": "CII2755",
+            "section": "1 y 3",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "CII2755",
+            "teacher": "CAT"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "11 y 13",
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "1 y 5",
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "4 y 10",
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "8 y 15",
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1003",
+            "section": "3 y 12",
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT2206",
             "section": "1",
-            "course": "CONTROL DE GESTIÓN",
-            "place": "V432.4.S412",
-            "start": "8:30:00",
-            "finish": "10:45:00",
-            "day": "5",
-            "teacher": "Cristóbal Calderón"
+            "course": "GESTIÓN ORGANIZACIONAL",
+            "place": "CIT2206",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "CIT3345",
-            "section": "1",
-            "course": "PROCESOS ÁGILES",
-            "place": "E441.2.S201",
-            "start": "11:00:00",
-            "finish": "13:15:00",
-            "day": "5",
-            "teacher": "Patricio Huichulef"
+            "code": "CBM1003",
+            "section": "6",
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "CIT2114",
-            "section": "1 y 2",
-            "course": "REDES DE DATOS",
-            "place": "E441.2.S202",
-            "start": "11:00:00",
-            "finish": "13:15:00",
-            "day": "5",
-            "teacher": "Nicolás Ruminot y Luis Jaque"
-          }
-        },
-        {
-          "node": {
-            "code": "CII2253",
+            "code": "CBM1003",
             "section": "2",
-            "course": "PRODUCCIÓN",
-            "place": "E441.2.S205",
-            "start": "11:00:00",
-            "finish": "13:15:00",
-            "day": "5",
-            "teacher": "Nicolás Tapia"
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "COC2206",
-            "section": "1",
-            "course": "MECÁNICA DE FLUIDOS",
-            "place": "E441.2.S206",
-            "start": "11:00:00",
-            "finish": "13:15:00",
-            "day": "5",
-            "teacher": "Christian González"
+            "code": "CBM1003",
+            "section": "7",
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "CII2253",
-            "section": "1",
-            "course": "PRODUCCIÓN",
-            "place": "E441.2.S207",
-            "start": "11:00:00",
-            "finish": "13:15:00",
-            "day": "5",
-            "teacher": "Renny Márquez"
-          }
-        },
-        {
-          "node": {
-            "code": "CII3615",
-            "section": "1",
-            "course": "MICROECONOMETRÍA",
-            "place": "V432.4.S412",
-            "start": "11:00:00",
-            "finish": "13:15:00",
-            "day": "5",
-            "teacher": "Louis de Grange"
-          }
-        },
-        {
-          "node": {
-            "code": "COC2104",
-            "section": "3",
-            "course": "MECÁNICA DE SUELOS",
-            "place": "E441.2.S201",
-            "start": "13:30:00",
-            "finish": "15:45:00",
-            "day": "5",
-            "teacher": "Víctor Contreras"
-          }
-        },
-        {
-          "node": {
-            "code": "CIT2204",
+            "code": "CII2755",
             "section": "2",
-            "course": "PROBABILIDADES Y ESTADÍSTICAS (EIT)",
-            "place": "E441.2.S205",
-            "start": "13:30:00",
-            "finish": "15:45:00",
-            "day": "5",
-            "teacher": "Nicolás Tapia"
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "CII2755",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "CII2004",
-            "section": "2 y 3",
-            "course": "EVALUACIÓN DE PROYECTOS",
-            "place": "E441.4.L.D, E441.4.L.U y E441.4.L.O",
-            "start": "13:30:00",
-            "finish": "15:45:00",
-            "day": "5",
-            "teacher": "Eduardo Faivovich"
+            "code": "CBM1003",
+            "section": "14",
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "CIT2204",
+            "code": "CBM1003",
+            "section": "9",
+            "course": "CÁLCULO II",
+            "place": "CBM1003",
+            "teacher": "CAT"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3710",
             "section": "1",
-            "course": "PROBABILIDADES Y ESTADÍSTICAS (EIT)",
-            "place": "E441.4.S402",
-            "start": "13:30:00",
-            "finish": "15:45:00",
-            "day": "5",
-            "teacher": "Paulina Quilodrán"
+            "course": "FINTECH",
+            "place": "CII3710",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "CII2004",
+            "code": "COC2106",
             "section": "1",
-            "course": "EVALUACIÓN DE PROYECTOS",
-            "place": "SIM",
-            "start": "13:30:00",
-            "finish": "15:45:00",
-            "day": "5",
-            "teacher": "Álvaro Zúñiga"
+            "course": "FUNDACIONES",
+            "place": "COC2106",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "CIT2011",
-            "section": "1 y 2",
-            "course": "SISTEMAS DISTRIBUIDOS",
-            "place": "V432.3.AU",
-            "start": "13:30:00",
-            "finish": "15:45:00",
-            "day": "5",
-            "teacher": "Nicolás Hidalgo"
-          }
-        },
-        {
-          "node": {
-            "code": "CII1000",
-            "section": "2 y 5",
-            "course": "CONTABILIDAD Y COSTOS",
-            "place": "E441.2.S201 y E441.2.S202",
-            "start": "16:00:00",
-            "finish": "18:15:00",
-            "day": "5",
-            "teacher": "Rosa San Martín"
-          }
-        },
-        {
-          "node": {
-            "code": "CII1000",
-            "section": "3 y 4",
-            "course": "CONTABILIDAD Y COSTOS",
-            "place": "E441.2.S205 y E441.2.S206",
-            "start": "16:00:00",
-            "finish": "18:15:00",
-            "day": "5",
-            "teacher": "Roberto Ortiz"
-          }
-        },
-        {
-          "node": {
-            "code": "COC2107",
+            "code": "EIT",
             "section": "1",
-            "course": "DISEÑO EN ACERO",
-            "place": "LIBERA SALA",
-            "start": "16:00:00",
-            "finish": "18:15:00",
-            "day": "5",
-            "teacher": "Gaspar Auad"
+            "course": "ELECTIVO PROFESIONAL",
+            "place": "EIT",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "CII1000",
-            "section": "1",
-            "course": "CONTABILIDAD Y COSTOS",
-            "place": "V432.3.AU",
-            "start": "16:00:00",
-            "finish": "18:15:00",
-            "day": "5",
-            "teacher": "Ema Cortés"
+            "code": "CII2755",
+            "section": "4",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "CII2755",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "COC2102",
+            "code": "COC2109",
             "section": "1",
-            "course": "ANÁLISIS ESTRUCTURAL",
-            "place": "V432.3.S312",
-            "start": "16:00:00",
-            "finish": "18:15:00",
-            "day": "5",
-            "teacher": "José Colombo"
+            "course": "MECÁNICA DE SÓLIDOS",
+            "place": "COC2109",
+            "teacher": "CAT"
           }
         },
         {
           "node": {
-            "code": "COC3413",
+            "code": "COC2007",
             "section": "1",
-            "course": "TRANSPORTE DE SEDIMENTOS",
-            "place": "V432.3.S313",
-            "start": "16:00:00",
-            "finish": "18:15:00",
-            "day": "5",
-            "teacher": "Hernán Alcayaga"
-          }
-        },
-        {
-          "node": {
-            "code": "CIT3434",
-            "section": "1",
-            "course": "COMUNIC POR LUZ VISIBLE PARA IND INTELIG",
-            "place": "V432.3.AU",
-            "start": "11:00:00",
-            "finish": "13:15:00",
-            "day": "5",
-            "teacher": "Pablo Palacios"
+            "course": "ADM DE PROYECTOS CIVILES",
+            "place": "COC2007",
+            "teacher": "CAT"
           }
         }
       ]
