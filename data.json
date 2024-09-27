@@ -361,6 +361,18 @@
             "day": "5",
             "teacher": "Hernán Alcayaga"
           }
+        },
+        {
+          "node": {
+            "code": "CIT3434",
+            "section": "1",
+            "course": "COMUNIC POR LUZ VISIBLE PARA IND INTELIG",
+            "place": "V432.3.AU",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "5",
+            "teacher": "Pablo Palacios"
+          }
         }
       ]
     }
