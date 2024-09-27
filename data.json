@@ -175,8 +175,11 @@
             "code": "CII2755",
             "section": "1 y 3",
             "course": "MODELOS ESTOCÁSTICOS",
-            "place": "CII2755",
-            "teacher": "CAT"
+            "place": "E441.1.S106 y E441.1.S105",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Renny Márquez"
           }
         },
         {
@@ -184,8 +187,11 @@
             "code": "CBM1003",
             "section": "11 y 13",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "E441.2.S201 y E441.2.S203",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Boris Brayovic"
           }
         },
         {
@@ -193,8 +199,11 @@
             "code": "CBM1003",
             "section": "1 y 5",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "E441.2.S205 y E441.2.S204",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Gabriela López"
           }
         },
         {
@@ -202,8 +211,11 @@
             "code": "CBM1003",
             "section": "4 y 10",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "E441.2.S206 y E441.2.S207",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Juan Rossel"
           }
         },
         {
@@ -211,8 +223,11 @@
             "code": "CBM1003",
             "section": "8 y 15",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "E441.4.S402 y E441.4.S401",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
@@ -220,8 +235,11 @@
             "code": "CBM1003",
             "section": "3 y 12",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "V432.3.S312 y V432.3.S313",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Rosa Rivero"
           }
         },
         {
@@ -229,8 +247,11 @@
             "code": "CIT2206",
             "section": "1",
             "course": "GESTIÓN ORGANIZACIONAL",
-            "place": "CIT2206",
-            "teacher": "CAT"
+            "place": "V432.3.AU",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Ximena Geoffroy"
           }
         },
         {
@@ -238,8 +259,11 @@
             "code": "CBM1003",
             "section": "6",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "SIM",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Carlos Landeros"
           }
         },
         {
@@ -247,8 +271,11 @@
             "code": "CBM1003",
             "section": "2",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "V432.4.S412",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Emilio Marti"
           }
         },
         {
@@ -256,8 +283,11 @@
             "code": "CBM1003",
             "section": "7",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "E441.2.S202",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Andrea Casado"
           }
         },
         {
@@ -265,8 +295,11 @@
             "code": "CII2755",
             "section": "2",
             "course": "MODELOS ESTOCÁSTICOS",
-            "place": "CII2755",
-            "teacher": "CAT"
+            "place": "E441.4.S403",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Francisco Jara"
           }
         },
         {
@@ -274,8 +307,11 @@
             "code": "CBM1003",
             "section": "14",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "E441.1.S101",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Bruno Aguiló"
           }
         },
         {
@@ -283,8 +319,11 @@
             "code": "CBM1003",
             "section": "9",
             "course": "CÁLCULO II",
-            "place": "CBM1003",
-            "teacher": "CAT"
+            "place": "E441.4.L.D",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Juan Muñoz"
           }
         },
         {
@@ -292,8 +331,11 @@
             "code": "CII3710",
             "section": "1",
             "course": "FINTECH",
-            "place": "CII3710",
-            "teacher": "CAT"
+            "place": "E441.3.S304",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Hernán Alvarado"
           }
         },
         {
@@ -301,8 +343,11 @@
             "code": "COC2106",
             "section": "1",
             "course": "FUNDACIONES",
-            "place": "COC2106",
-            "teacher": "CAT"
+            "place": "E441.-1.AU",
+            "start": "8:30:00",
+            "finish": "13:00:00",
+            "day": "1",
+            "teacher": "Pablo González"
           }
         },
         {
@@ -310,8 +355,11 @@
             "code": "EIT",
             "section": "1",
             "course": "ELECTIVO PROFESIONAL",
-            "place": "EIT",
-            "teacher": "CAT"
+            "place": "V432.3.S315",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "por definir"
           }
         },
         {
@@ -319,8 +367,11 @@
             "code": "CII2755",
             "section": "4",
             "course": "MODELOS ESTOCÁSTICOS",
-            "place": "CII2755",
-            "teacher": "CAT"
+            "place": "E441.3.S303",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Luis Yáñez"
           }
         },
         {
@@ -328,8 +379,11 @@
             "code": "COC2109",
             "section": "1",
             "course": "MECÁNICA DE SÓLIDOS",
-            "place": "COC2109",
-            "teacher": "CAT"
+            "place": "E441.-1.AU",
+            "start": "8:30:00",
+            "finish": "13:00:00",
+            "day": "1",
+            "teacher": "Pablo González"
           }
         },
         {
@@ -337,8 +391,227 @@
             "code": "COC2007",
             "section": "1",
             "course": "ADM DE PROYECTOS CIVILES",
-            "place": "COC2007",
-            "teacher": "CAT"
+            "place": "V432.5.S513",
+            "start": "11:00:00",
+            "finish": "13:15:00",
+            "day": "1",
+            "teacher": "Alexander Dulovits"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "5",
+            "course": "CÁLCULO III",
+            "place": "E441.1.S106",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Matthieu Marechal"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "3",
+            "course": "CÁLCULO III",
+            "place": "E441.2.S201",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Ignacio Saavedra"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3340",
+            "section": "1",
+            "course": "GESTIÓN ESTRATÉGICA PARA INFORMÁTICA",
+            "place": "E441.2.S202",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Jorge Elliott"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "2",
+            "course": "CÁLCULO III",
+            "place": "E441.2.S205",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Emilio Marti"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756",
+            "section": "2",
+            "course": "ECONOMETRÍA",
+            "place": "E441.2.S206",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Paula Fariña"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3349",
+            "section": "1",
+            "course": "GRAFOS Y ALGORITMOS",
+            "place": "E441.4.L.D",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Karol Suchan"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2756",
+            "section": "1",
+            "course": "ECONOMETRÍA",
+            "place": "E441.4.S402",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Paulina Quilodrán"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3722",
+            "section": "1",
+            "course": "APLICACIÓN DEL DERECHO LABORAL",
+            "place": "V432.3.AU",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "José Antonio Díaz"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "4",
+            "course": "CÁLCULO III",
+            "place": "V432.3.S312",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Juan Muñoz"
+          }
+        },
+        {
+          "node": {
+            "code": "CBM1006",
+            "section": "6",
+            "course": "CÁLCULO III",
+            "place": "V432.3.S313",
+            "start": "13:30:00",
+            "finish": "15:45:00",
+            "day": "1",
+            "teacher": "Juan Muñoz"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "3",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.1.S106",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Jessica Arismedi"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "2",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.2.S201",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Renny Márquez"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "4 y 5",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.2.S205 y E441.2.S206",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Álvaro Zúñiga"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "1 y 3",
+            "course": "LOGÍSTICA",
+            "place": "E441.4.S402 y E441.4.S403",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Nicolás Tapia"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2254",
+            "section": "2",
+            "course": "LOGÍSTICA",
+            "place": "V432.3.S312",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Luis Yáñez"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "1",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.3.S313",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Esteban Geisse"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2750",
+            "section": "6",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.3AU",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Pablo Rojas"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3410",
+            "section": "1",
+            "course": "TECNOLOGÍA DEL ASFALTO",
+            "place": "V432.4.S412",
+            "start": "16:00:00",
+            "finish": "18:15:00",
+            "day": "1",
+            "teacher": "Sergio Valverde"
           }
         }
       ]
