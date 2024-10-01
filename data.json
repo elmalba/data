@@ -613,6 +613,102 @@
             "day": "1",
             "teacher": "Sergio Valverde"
           }
+        },
+        {
+          "node": {
+            "code": "CII2102",
+            "section": "2",
+            "course": "MARKETING",
+            "place": "E441.1.S106",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "2",
+            "teacher": "Alejandro Zagal"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3500",
+            "section": "1",
+            "course": "JUEGO DE NEGOCIOS",
+            "place": "E441.2.S201",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "2",
+            "teacher": "Alberto Abudinen"
+          }
+        },
+        {
+          "node": {
+            "code": "COC3000",
+            "section": "1",
+            "course": "INGENIERÍA DE COSTOS",
+            "place": "E441.2.S202",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "2",
+            "teacher": "Juan Acuña"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203",
+            "section": "2",
+            "course": "PROYECTO EN TICS II",
+            "place": "E441.2.S205",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "2",
+            "teacher": "Leandro Llanza"
+          }
+        },
+        {
+          "node": {
+            "code": "CIT3203",
+            "section": "1",
+            "course": "PROYECTO EN TICS II",
+            "place": "E441.2.S205",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "2",
+            "teacher": "Cristian Osorio"
+          }
+        },
+        {
+          "node": {
+            "code": "COC2003",
+            "section": "1",
+            "course": "TECNOLOGÍA DEL HORMIGÓN",
+            "place": "E441.2.S206",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "2",
+            "teacher": "Cristián Narváez"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3406",
+            "section": "1",
+            "course": "ENERGÍAS RENOVABLES Y SUSTENTABILIDAD",
+            "place": "E441.4.S402",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "2",
+            "teacher": "Masoud Behzad"
+          }
+        },
+        {
+          "node": {
+            "code": "CII2102",
+            "section": "3",
+            "course": "MARKETING",
+            "place": "V432.3.AU",
+            "start": "8:30:00",
+            "finish": "10:45:00",
+            "day": "2",
+            "teacher": "Eduardo Faivovich"
+          }
         }
       ]
     }
