@@ -1961,4225 +1961,6334 @@
         {
           "node": {
             "code": "CII3724",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN CADENA DE ABAST. & OPERACIONES",
+            "place": "E260.1.S101",
+            "teacher": "Alejandro Vargas"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "4"
+            "section": "4",
+            "course": "CALOR Y ONDAS",
+            "place": "E278A.4.S403",
+            "teacher": "Roberto Lavín"
           }
         },
         {
           "node": {
             "code": "CII3709",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN EN LA INDUSTRIA MINERA",
+            "place": "E441.-1.AU",
+            "teacher": "Dagoberto Pérez"
           }
         },
         {
           "node": {
             "code": "COC2105",
-            "section": "1"
+            "section": "1",
+            "course": "DISEÑO EN HORMIGÓN",
+            "place": "E441.1.S101",
+            "teacher": "Sebastián Díaz"
           }
         },
         {
           "node": {
             "code": "CIT2204",
-            "section": "1"
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICAS",
+            "place": "E333.-3.S302",
+            "teacher": "Paulina Quilodrán"
           }
         },
         {
           "node": {
             "code": "COC2105",
-            "section": "1"
+            "section": "1",
+            "course": "DISEÑO EN HORMIGÓN",
+            "place": "E441.1.S101",
+            "teacher": "Sebastián Díaz"
           }
         },
         {
           "node": {
             "code": "CII3422",
-            "section": "1"
+            "section": "1",
+            "course": "TÓPICOS DE LOG. Y SIS. DE DIS. DE CARGA",
+            "place": "E441.-1.AU",
+            "teacher": "Rodrigo Garrido"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "1"
+            "section": "1",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "E441.1.S106",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "10"
+            "section": "10",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S101",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "5"
+            "section": "5",
+            "course": "CÁLCULO III",
+            "place": "E441.1.S101",
+            "teacher": "Matthieu Marechal"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "7"
+            "section": "7",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CII3722",
-            "section": "1"
+            "section": "1",
+            "course": "APLICACIÓN DEL DERECHO LABORAL",
+            "place": "E326.3.S304",
+            "teacher": "José Antonio Díaz"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "4"
+            "section": "4",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "1"
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.2.S203",
+            "teacher": "Miguel Guerrero"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "1"
+            "section": "1",
+            "course": "QUÍMICA",
+            "place": "E441.1.S105",
+            "teacher": "Nora Reyes"
           }
         },
         {
           "node": {
             "code": "CII2002",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "E441.1.S106",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CIT2010",
-            "section": "1"
+            "section": "1",
+            "course": "SISTEMAS OPERATIVOS",
+            "place": "E441.-1.AU",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "COC2109",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA DE SÓLIDOS",
+            "place": "E441.1.S101",
+            "teacher": "Pablo González"
           }
         },
         {
           "node": {
             "code": "CII3503",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN DE PROCESOS",
+            "place": "E441.-1.AU",
+            "teacher": "Luis Gaete"
           }
         },
         {
           "node": {
             "code": "CII2101",
-            "section": "2"
+            "section": "2",
+            "course": "MICROECONOMÍA",
+            "place": "E441.1.S106",
+            "teacher": "Karina Véliz"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "10"
+            "section": "10",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S101",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "1"
+            "section": "1",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "E441.1.S106",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "7"
+            "section": "7",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CII2402",
-            "section": "2"
+            "section": "2",
+            "course": "TERMODINÁMICA",
+            "place": "E441.1.S101",
+            "teacher": "Masoud Behzad"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "4"
+            "section": "4",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "1"
+            "section": "1",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.1.S105",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CIT3431",
-            "section": "1"
+            "section": "1",
+            "course": "REDES MÓVILES CELULARES",
+            "place": "E441.2.S203",
+            "teacher": "Roberto Carvajal"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "4"
+            "section": "4",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.1.S106",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CII2756",
-            "section": "2"
+            "section": "2",
+            "course": "ECONOMETRÍA",
+            "place": "E441.4.L.U",
+            "teacher": "Paula Fariña"
           }
         },
         {
           "node": {
             "code": "CII2004",
-            "section": "3"
+            "section": "3",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.2.S205",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "3"
+            "section": "3",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S201",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CII2755",
-            "section": "1"
+            "section": "1",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.-1.AU",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "CII2103",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN ESTRATÉGICA",
+            "place": "E326.2.S204",
+            "teacher": "Álex Morales"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "4"
+            "section": "4",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "1"
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.2.S203",
+            "teacher": "Miguel Guerrero"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "1"
+            "section": "1",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.4.S412",
+            "teacher": "Esteban Geisse"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "14"
+            "section": "14",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "1"
+            "section": "1",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.1.S106",
+            "teacher": "Ema Cortés"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA",
+            "place": "E441.2.S207",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "2"
+            "section": "2",
+            "course": "CÁLCULO III",
+            "place": "E441.2.S203",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "2"
+            "section": "2",
+            "course": "MECÁNICA",
+            "place": "E441.3.S302",
+            "teacher": "Mario Miranda"
           }
         },
         {
           "node": {
             "code": "CII2755",
-            "section": "3"
+            "section": "3",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.-1.AU",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "CII3722",
-            "section": "1"
+            "section": "1",
+            "course": "APLICACIÓN DEL DERECHO LABORAL",
+            "place": "E326.3.S304",
+            "teacher": "José Antonio Díaz"
           }
         },
         {
           "node": {
             "code": "CIT2010",
-            "section": "1"
+            "section": "1",
+            "course": "SISTEMAS OPERATIVOS",
+            "place": "E441.-1.AU",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CIT2204",
-            "section": "1"
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICAS",
+            "place": "E441.1.S106",
+            "teacher": "Paulina Quilodrán"
           }
         },
         {
           "node": {
             "code": "COC2109",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA DE SÓLIDOS",
+            "place": "E441.1.S101",
+            "teacher": "Pablo González"
           }
         },
         {
           "node": {
             "code": "CII3503",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN DE PROCESOS",
+            "place": "E441.-1.AU",
+            "teacher": "Luis Gaete"
           }
         },
         {
           "node": {
             "code": "CII2756",
-            "section": "1"
+            "section": "1",
+            "course": "ECONOMETRÍA",
+            "place": "E441.4.L.D",
+            "teacher": "Paulina Quilodrán"
           }
         },
         {
           "node": {
             "code": "COC2103",
-            "section": "1"
+            "section": "1",
+            "course": "DISEÑO ESTRUCTURAL",
+            "place": "E441.2.S205",
+            "teacher": "Marcel De L\"Herbe"
           }
         },
         {
           "node": {
             "code": "CII2755",
-            "section": "2"
+            "section": "2",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.4.S403",
+            "teacher": "Francisco Jara"
           }
         },
         {
           "node": {
             "code": "CII2101",
-            "section": "2"
+            "section": "2",
+            "course": "MICROECONOMÍA",
+            "place": "E441.1.S106",
+            "teacher": "Karina Véliz"
           }
         },
         {
           "node": {
             "code": "COC3630",
-            "section": "1"
+            "section": "1",
+            "course": "INDUSTRIALIZACIÓN EN CONSTRUCCIÓN",
+            "place": "E441.1.S101",
+            "teacher": "Leonardo Brescia"
           }
         },
         {
           "node": {
             "code": "CII2402",
-            "section": "2"
+            "section": "2",
+            "course": "TERMODINÁMICA",
+            "place": "E441.1.S101",
+            "teacher": "Masoud Behzad"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA",
+            "place": "E441.2.S202",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CIT3431",
-            "section": "1"
+            "section": "1",
+            "course": "REDES MÓVILES CELULARES",
+            "place": "E441.2.S203",
+            "teacher": "Roberto Carvajal"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "1"
+            "section": "1",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.1.S106",
+            "teacher": "Ema Cortés"
           }
         },
         {
           "node": {
             "code": "CIT2204",
-            "section": "1"
+            "section": "1",
+            "course": "PROBABILIDADES Y ESTADÍSTICAS",
+            "place": "E441.1.S106",
+            "teacher": "Paulina Quilodrán"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA",
+            "place": "E441.2.S207",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "2"
+            "section": "2",
+            "course": "MECÁNICA",
+            "place": "E441.2.S206",
+            "teacher": "Mario Miranda"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "1"
+            "section": "1",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.3.S303",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "COC2104",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA DE SUELOS",
+            "place": "E441.2.S201",
+            "teacher": "Víctor Contreras"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "1"
+            "section": "1",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.1.S101",
+            "teacher": "Julio López"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "1"
+            "section": "1",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "5"
+            "section": "5",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.2.S203",
+            "teacher": "Rosa Riveros"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "3"
+            "section": "3",
+            "course": "MECÁNICA",
+            "place": "E441.2.S206",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "CIT2205",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.2.S204",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "3"
+            "section": "3",
+            "course": "MECÁNICA",
+            "place": "V432.4.S412",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "3"
+            "section": "3",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S201",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CII2103",
-            "section": "2"
+            "section": "2",
+            "course": "GESTIÓN ESTRATÉGICA",
+            "place": "E326.3.S304",
+            "teacher": "Julio Salazar"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "6"
+            "section": "6",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.3.S304",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "1"
+            "section": "1",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.3.S303",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CII2103",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN ESTRATÉGICA",
+            "place": "E326.2.S204",
+            "teacher": "Álex Morales"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "14"
+            "section": "14",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "11"
+            "section": "11",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CII2751",
-            "section": "3"
+            "section": "3",
+            "course": "INFERENCIA ESTADÍSTICA",
+            "place": "E441.2.S201",
+            "teacher": "Sebastián Vera"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "2"
+            "section": "2",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S101",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "11"
+            "section": "11",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.1.S101",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "1"
+            "section": "1",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "E441.2.S207",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CIT2006",
-            "section": "1"
+            "section": "1",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "E441.4.L.O",
+            "teacher": "Yerko Ortiz"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "1"
+            "section": "1",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "2"
+            "section": "2",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S101",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "1"
+            "section": "1",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.3.S303",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CII3629",
-            "section": "1"
+            "section": "1",
+            "course": "DATA MINING",
+            "place": "E441.4.L.U",
+            "teacher": "Pablo Lemus"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "5"
+            "section": "5",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.2.S203",
+            "teacher": "Rosa Riveros"
           }
         },
         {
           "node": {
             "code": "CIT3353",
-            "section": "1"
+            "section": "1",
+            "course": "SIMULACIÓN Y BIOLOGÍA PROGRAMABLE",
+            "place": "E441.2.S203",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CII2103",
-            "section": "2"
+            "section": "2",
+            "course": "GESTIÓN ESTRATÉGICA",
+            "place": "E326.3.S304",
+            "teacher": "Julio Salazar"
           }
         },
         {
           "node": {
             "code": "CII2501",
-            "section": "3"
+            "section": "3",
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "COC2001",
-            "section": "2"
+            "section": "2",
+            "course": "INGENIERÍA EN MATERIALES",
+            "place": "E441.2.S204",
+            "teacher": "Sandra Acosta"
           }
         },
         {
           "node": {
             "code": "CII2250",
-            "section": "4"
+            "section": "4",
+            "course": "ESTÁTICA",
+            "place": "E441.2.S204",
+            "teacher": "Natalia Osorio"
           }
         },
         {
           "node": {
             "code": "CII2756",
-            "section": "2"
+            "section": "2",
+            "course": "ECONOMETRÍA",
+            "place": "E441.4.L.U",
+            "teacher": "Paula Fariña"
           }
         },
         {
           "node": {
             "code": "CII3618",
-            "section": "1"
+            "section": "1",
+            "course": "CONTROL DE GESTIÓN",
+            "place": "E441.4.S401",
+            "teacher": "Cristóbal Calderón"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "3"
+            "section": "3",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.4.S402",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "COC2103",
-            "section": "1"
+            "section": "1",
+            "course": "DISEÑO ESTRUCTURAL",
+            "place": "E441.2.S205",
+            "teacher": "Marcel De L\"Herbe"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "3"
+            "section": "3",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S201",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "1"
+            "section": "1",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S106",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CIT2112",
-            "section": "3"
+            "section": "3",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "Lab. Telemática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "COC2009",
-            "section": "1"
+            "section": "1",
+            "course": "BIM",
+            "place": "LOC",
+            "teacher": "Víctor Muñoz"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "14"
+            "section": "14",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CII2751",
-            "section": "3"
+            "section": "3",
+            "course": "INFERENCIA ESTADÍSTICA",
+            "place": "E441.2.S201",
+            "teacher": "Sebastián Vera"
           }
         },
         {
           "node": {
             "code": "COC2006",
-            "section": "1"
+            "section": "1",
+            "course": "TOPOGRAFÍA",
+            "place": "E441.1.S105",
+            "teacher": "Carolina Montorio"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "5"
+            "section": "5",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S207",
+            "teacher": "Ricardo Rivera"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "1"
+            "section": "1",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.3.S303",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CIT2204",
-            "section": "2"
+            "section": "2",
+            "course": "PROBABILIDADES Y ESTADÍSTICAS",
+            "place": "E441.2.S205",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CII2004",
-            "section": "2"
+            "section": "2",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.2.S205",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CII2501",
-            "section": "1"
+            "section": "1",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "4"
+            "section": "4",
+            "course": "MECÁNICA",
+            "place": "E441.3.S304",
+            "teacher": "Vitalie Eremeev"
           }
         },
         {
           "node": {
             "code": "COC2001",
-            "section": "2"
+            "section": "2",
+            "course": "INGENIERÍA EN MATERIALES",
+            "place": "E441.2.S204",
+            "teacher": "Sandra Acosta"
           }
         },
         {
           "node": {
             "code": "CII2757",
-            "section": "3"
+            "section": "3",
+            "course": "SIMULACIÓN",
+            "place": "M253A.6.L601",
+            "teacher": "Mitsuo Tanida"
           }
         },
         {
           "node": {
             "code": "CII2004",
-            "section": "3"
+            "section": "3",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.2.S205",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "FIC1000",
-            "section": "1"
+            "section": "1",
+            "course": "COMUNICACIÓN PARA LA INGENIERÍA",
+            "place": "E441.4.S401",
+            "teacher": "Gabriela Corral"
           }
         },
         {
           "node": {
             "code": "CIT2107",
-            "section": "1"
+            "section": "1",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "E441.4.S402",
+            "teacher": "Juan Negroni"
           }
         },
         {
           "node": {
             "code": "CII2103",
-            "section": "3"
+            "section": "3",
+            "course": "GESTIÓN ESTRATÉGICA",
+            "place": "E441.1.S106",
+            "teacher": "Álex Morales"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "2"
+            "section": "2",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "3"
+            "section": "3",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S206",
+            "teacher": "Sara Arancibia"
           }
         },
         {
           "node": {
             "code": "CIT2204",
-            "section": "2"
+            "section": "2",
+            "course": "PROBABILIDADES Y ESTADÍSTICAS",
+            "place": "E441.2.S205",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "1"
+            "section": "1",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S207",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "1"
+            "section": "1",
+            "course": "CALOR Y ONDAS",
+            "place": "V432.5.S515",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "4"
+            "section": "4",
+            "course": "MECÁNICA",
+            "place": "E441.3.S304",
+            "teacher": "Vitalie Eremeev"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "1"
+            "section": "1",
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2205",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.3.S302",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CII2504",
-            "section": "2"
+            "section": "2",
+            "course": "DATA SCIENCE",
+            "place": "M253A.6.L602",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "7"
+            "section": "7",
+            "course": "QUÍMICA",
+            "place": "E441.3.S302",
+            "teacher": "Manuel Gacitúa"
           }
         },
         {
           "node": {
             "code": "CIT2006",
-            "section": "1"
+            "section": "1",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "E441.4.L.O",
+            "teacher": "Yerko Ortiz"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "5"
+            "section": "5",
+            "course": "MECÁNICA",
+            "place": "V432.3.S313",
+            "teacher": "Leonardo Bartolo"
           }
         },
         {
           "node": {
             "code": "COC3100",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA SÍSMICA",
+            "place": "E441.3.S303",
+            "teacher": "Gaspar Auad"
           }
         },
         {
           "node": {
             "code": "CIT2206",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN ORGANIZACIONAL",
+            "place": "E441.2.S205",
+            "teacher": "Ximena Geoffroy"
           }
         },
         {
           "node": {
             "code": "COC2008",
-            "section": "1"
+            "section": "1",
+            "course": "PLANIFICACIÓN DE PROYECTOS",
+            "place": "E441.4.S403",
+            "teacher": "Teodosio Cayo"
           }
         },
         {
           "node": {
             "code": "CIT2206",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN ORGANIZACIONAL",
+            "place": "E441.2.S205",
+            "teacher": "Ximena Geoffroy"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "4"
+            "section": "4",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.3.S304",
+            "teacher": "Hugo Robotham"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "2"
+            "section": "2",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.2.S203",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "2"
+            "section": "2",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "2"
+            "section": "2",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "COC2202",
-            "section": "1"
+            "section": "1",
+            "course": "EDIFICACIÓN",
+            "place": "E441.2.S206",
+            "teacher": "Carmen Gloria Morales"
           }
         },
         {
           "node": {
             "code": "COC2203",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA AMBIENTAL",
+            "place": "E441.2.S207",
+            "teacher": "Angela Plaza"
           }
         },
         {
           "node": {
             "code": "COC2202",
-            "section": "1"
+            "section": "1",
+            "course": "EDIFICACIÓN",
+            "place": "E441.2.S206",
+            "teacher": "Carmen Gloria Morales"
           }
         },
         {
           "node": {
             "code": "CII2250",
-            "section": "3"
+            "section": "3",
+            "course": "ESTÁTICA",
+            "place": "E441.2.S207",
+            "teacher": "Leonardo Gallo"
           }
         },
         {
           "node": {
             "code": "COC2203",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA AMBIENTAL",
+            "place": "E441.2.S207",
+            "teacher": "Angela Plaza"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "4"
+            "section": "4",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.3.S302",
+            "teacher": "Roberto Lavín"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "10"
+            "section": "10",
+            "course": "MECÁNICA",
+            "place": "E441.3.S302",
+            "teacher": "Alejandra León"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "1"
+            "section": "1",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S106",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "8"
+            "section": "8",
+            "course": "MECÁNICA",
+            "place": "E441.3.S303",
+            "teacher": "Alejandra León"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "3"
+            "section": "3",
+            "course": "CÁLCULO I",
+            "place": "E441.3.S302",
+            "teacher": "Sara Arancibia"
           }
         },
         {
           "node": {
             "code": "CII2003",
-            "section": "1"
+            "section": "1",
+            "course": "FINANZAS",
+            "place": "E441.3.S303",
+            "teacher": "Rosa San Martín"
           }
         },
         {
           "node": {
             "code": "CII2003",
-            "section": "1"
+            "section": "1",
+            "course": "FINANZAS",
+            "place": "E441.3.S303",
+            "teacher": "Rosa San Martín"
           }
         },
         {
           "node": {
             "code": "CIT2006",
-            "section": "3"
+            "section": "3",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "M253A.6.L604",
+            "teacher": "Karol Suchan"
           }
         },
         {
           "node": {
             "code": "CII3629",
-            "section": "1"
+            "section": "1",
+            "course": "DATA MINING",
+            "place": "E441.4.L.U",
+            "teacher": "Pablo Lemus"
           }
         },
         {
           "node": {
             "code": "CIT2010",
-            "section": "2"
+            "section": "2",
+            "course": "SISTEMAS OPERATIVOS",
+            "place": "E441.3.S304",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CII2101",
-            "section": "1"
+            "section": "1",
+            "course": "MICROECONOMÍA",
+            "place": "E441.1.S106",
+            "teacher": "Eduardo Zúñiga"
           }
         },
         {
           "node": {
             "code": "CII3102",
-            "section": "1"
+            "section": "1",
+            "course": "TALLER DE INGENIERIA INDUSTRIAL",
+            "place": "E441.-1.AU",
+            "teacher": "Bartolomé Rodillo"
           }
         },
         {
           "node": {
             "code": "CII2501",
-            "section": "1"
+            "section": "1",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "CII1001",
-            "section": "2"
+            "section": "2",
+            "course": "TEORÍA ORGANIZACIÓNAL",
+            "place": "E441.1.S106",
+            "teacher": "Gladys Hinojosa"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "3"
+            "section": "3",
+            "course": "PROGRAMACIÓN",
+            "place": "V275.-1.L10",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "2"
+            "section": "2",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S201",
+            "teacher": "Tomás Neira"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "8"
+            "section": "8",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "7"
+            "section": "7",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CII2401",
-            "section": "2"
+            "section": "2",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "V432.3.S313",
+            "teacher": "Esteban Zamora"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "1"
+            "section": "1",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "E441.3.S304",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "1"
+            "section": "1",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "E441.3.S304",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "11"
+            "section": "11",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "4"
+            "section": "4",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "E441.3.S304",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "4"
+            "section": "4",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "E441.3.S304",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CII2756",
-            "section": "1"
+            "section": "1",
+            "course": "ECONOMETRÍA",
+            "place": "E441.4.L.D",
+            "teacher": "Paulina Quilodrán"
           }
         },
         {
           "node": {
             "code": "CII2102",
-            "section": "2"
+            "section": "2",
+            "course": "MARKETING",
+            "place": "E441.1.S105",
+            "teacher": "Alejandro Zagal"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "3"
+            "section": "3",
+            "course": "CÁLCULO I",
+            "place": "E441.4.L.D",
+            "teacher": "Sara Arancibia"
           }
         },
         {
           "node": {
             "code": "CIT2108",
-            "section": "2"
+            "section": "2",
+            "course": "TALLER DE REDES Y SERVICIOS",
+            "place": "E441.4.L.O",
+            "teacher": "Pablo Palacios"
           }
         },
         {
           "node": {
             "code": "CIT2108",
-            "section": "1"
+            "section": "1",
+            "course": "TALLER DE REDES Y SERVICIOS",
+            "place": "E441.4.L.O",
+            "teacher": "Pablo Palacios"
           }
         },
         {
           "node": {
             "code": "CIT2108",
-            "section": "2"
+            "section": "2",
+            "course": "TALLER DE REDES Y SERVICIOS",
+            "place": "E441.4.L.O",
+            "teacher": "Pablo Palacios"
           }
         },
         {
           "node": {
             "code": "COC2006",
-            "section": "1"
+            "section": "1",
+            "course": "TOPOGRAFÍA",
+            "place": "V432.3.S314",
+            "teacher": "Carolina Montorio"
           }
         },
         {
           "node": {
             "code": "CII3500",
-            "section": "1"
+            "section": "1",
+            "course": "JUEGO DE NEGOCIOS",
+            "place": "E441.4.L.U",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "CIT2108",
-            "section": "1"
+            "section": "1",
+            "course": "TALLER DE REDES Y SERVICIOS",
+            "place": "E441.4.L.O",
+            "teacher": "Pablo Palacios"
           }
         },
         {
           "node": {
             "code": "CIT2206",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN ORGANIZACIONAL",
+            "place": "E233.-2.S200",
+            "teacher": "Ximena Geoffroy"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "5"
+            "section": "5",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S401",
+            "teacher": "Matthieu Marechal"
           }
         },
         {
           "node": {
             "code": "FIC1000",
-            "section": "1"
+            "section": "1",
+            "course": "COMUNICACIÓN PARA LA INGENIERÍA",
+            "place": "E441.4.S401",
+            "teacher": "Gabriela Corral"
           }
         },
         {
           "node": {
             "code": "CIT2107",
-            "section": "1"
+            "section": "1",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "E441.4.S402",
+            "teacher": "Juan Negroni"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "2"
+            "section": "2",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S201",
+            "teacher": "Tomás Neira"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "6"
+            "section": "6",
+            "course": "QUÍMICA",
+            "place": "E441.4.S403",
+            "teacher": "Alejandra Opazo"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "11"
+            "section": "11",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "3"
+            "section": "3",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Rosa Rivero"
           }
         },
         {
           "node": {
             "code": "CII2101",
-            "section": "1"
+            "section": "1",
+            "course": "MICROECONOMÍA",
+            "place": "E441.1.S106",
+            "teacher": "Eduardo Zúñiga"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "4"
+            "section": "4",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.3.AU",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "3"
+            "section": "3",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Rosa Rivero"
           }
         },
         {
           "node": {
             "code": "CII3500",
-            "section": "1"
+            "section": "1",
+            "course": "JUEGO DE NEGOCIOS",
+            "place": "E441.4.L.U",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "2"
+            "section": "2",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "teacher": "Gonzalo Fernández"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "12"
+            "section": "12",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Rosa Rivero"
           }
         },
         {
           "node": {
             "code": "CII3618",
-            "section": "1"
+            "section": "1",
+            "course": "CONTROL DE GESTIÓN",
+            "place": "E441.4.S401",
+            "teacher": "Cristóbal Calderón"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "2"
+            "section": "2",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "V432.4.S413",
+            "teacher": "Jorge Rozas"
           }
         },
         {
           "node": {
             "code": "COC2008",
-            "section": "1"
+            "section": "1",
+            "course": "PLANIFICACIÓN DE PROYECTOS",
+            "place": "E441.4.S403",
+            "teacher": "Teodosio Cayo"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "1"
+            "section": "1",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.4.S412",
+            "teacher": "Esteban Geisse"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "12"
+            "section": "12",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Rosa Rivero"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "12"
+            "section": "12",
+            "course": "MECÁNICA",
+            "place": "E441.4.S401",
+            "teacher": "Vitalie Eremeev"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "2"
+            "section": "2",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.2.S203",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "COC3001",
-            "section": "1"
+            "section": "1",
+            "course": "DISEÑO DE CAMINOS",
+            "place": "E441.2.S201",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CIT2114",
-            "section": "1"
+            "section": "1",
+            "course": "REDES DE DATOS",
+            "place": "E441.2.S203",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "5"
+            "section": "5",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "1"
+            "section": "1",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S207",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "COC2003",
-            "section": "1"
+            "section": "1",
+            "course": "TECNOLOGÍA DEL HORMIGÓN",
+            "place": "V432.5.S515",
+            "teacher": "Cristián Narváez"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "2"
+            "section": "2",
+            "course": "CÁLCULO III",
+            "place": "E441.-1.AU",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "10"
+            "section": "10",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S101",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CII2102",
-            "section": "2"
+            "section": "2",
+            "course": "MARKETING",
+            "place": "E441.1.S105",
+            "teacher": "Alejandro Zagal"
           }
         },
         {
           "node": {
             "code": "CII2002",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "E441.1.S106",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "5"
+            "section": "5",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.2.S203",
+            "teacher": "Roberto Lavín"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "7"
+            "section": "7",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S202",
+            "teacher": "Leonardo Bartolo"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "2"
+            "section": "2",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.2.S205",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "3"
+            "section": "3",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S201",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "5"
+            "section": "5",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.2.S202",
+            "teacher": "Jaime Contreras"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "3"
+            "section": "3",
+            "course": "CÁLCULO III",
+            "place": "E441.2.S203",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CII2002",
-            "section": "2"
+            "section": "2",
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "E441.2.S205",
+            "teacher": "Rosa San Martín"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "1"
+            "section": "1",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CII3600",
-            "section": "1"
+            "section": "1",
+            "course": "TÓPICOS EN FINANZAS",
+            "place": "E441.2.S205",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "COC2106",
-            "section": "1"
+            "section": "1",
+            "course": "FUNDACIONES",
+            "place": "E441.2.S202",
+            "teacher": "Pablo González"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "3"
+            "section": "3",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "E441.2.S205",
+            "teacher": "Richard Gillibrand"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "7"
+            "section": "7",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "5"
+            "section": "5",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.2.S203",
+            "teacher": "Rosa Riveros"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "15"
+            "section": "15",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CII2102",
-            "section": "3"
+            "section": "3",
+            "course": "MARKETING",
+            "place": "E441.2.S205",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "COC2205",
-            "section": "1"
+            "section": "1",
+            "course": "HIDRÁULICA URBANA",
+            "place": "E441.2.S207",
+            "teacher": "Nelson Abarca"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "2"
+            "section": "2",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.3.S303",
+            "teacher": "Mario Miranda"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "7"
+            "section": "7",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "15"
+            "section": "15",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "6"
+            "section": "6",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S207",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CII2004",
-            "section": "2"
+            "section": "2",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "E441.2.S205",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "16"
+            "section": "16",
+            "course": "MECÁNICA",
+            "place": "E441.2.S207",
+            "teacher": "Sergio Godoy"
           }
         },
         {
           "node": {
             "code": "CIT2114",
-            "section": "1"
+            "section": "1",
+            "course": "REDES DE DATOS",
+            "place": "E441.3.S302",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CII2253",
-            "section": "1"
+            "section": "1",
+            "course": "PRODUCCIÓN",
+            "place": "E441.3.S303",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "CIT2205",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.3.S302",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "2"
+            "section": "2",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CII3705",
-            "section": "1"
+            "section": "1",
+            "course": "INTRODUCCIÓN A LA TEORÍA DE JUEGOS",
+            "place": "E441.4.S402",
+            "teacher": "Eduardo Zúñiga"
           }
         },
         {
           "node": {
             "code": "CII2253",
-            "section": "2"
+            "section": "2",
+            "course": "PRODUCCIÓN",
+            "place": "E441.3.S304",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "3"
+            "section": "3",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "2"
+            "section": "2",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "Lab. Informática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "2"
+            "section": "2",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.3.S303",
+            "teacher": "Mario Miranda"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "3"
+            "section": "3",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S207",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "5"
+            "section": "5",
+            "course": "MECÁNICA",
+            "place": "V432.3.S313",
+            "teacher": "Leonardo Bartolo"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "1"
+            "section": "1",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "Lab. Informática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT2205",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.3.S302",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "8"
+            "section": "8",
+            "course": "MECÁNICA",
+            "place": "E441.3.S303",
+            "teacher": "Alejandra León"
           }
         },
         {
           "node": {
             "code": "CII3705",
-            "section": "1"
+            "section": "1",
+            "course": "INTRODUCCIÓN A LA TEORÍA DE JUEGOS",
+            "place": "E441.4.S402",
+            "teacher": "Eduardo Zúñiga"
           }
         },
         {
           "node": {
             "code": "CII2002",
-            "section": "2"
+            "section": "2",
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "E441.2.S205",
+            "teacher": "Rosa San Martín"
           }
         },
         {
           "node": {
             "code": "CIT2006",
-            "section": "3"
+            "section": "3",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "M253A.6.L601",
+            "teacher": "Rodrigo Álvarez"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "4"
+            "section": "4",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.3.S304",
+            "teacher": "Hugo Robotham"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "6"
+            "section": "6",
+            "course": "MECÁNICA",
+            "place": "E441.4.S403",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "2"
+            "section": "2",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S205",
+            "teacher": "Mario Miranda"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "3"
+            "section": "3",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S207",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CIT3100",
-            "section": "1"
+            "section": "1",
+            "course": "ARQUITECTURAS EMERGENTES",
+            "place": "E441.1.S106",
+            "teacher": "Carlos García"
           }
         },
         {
           "node": {
             "code": "CII2401",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "E441.4.S402",
+            "teacher": "Verónica Patiño"
           }
         },
         {
           "node": {
             "code": "CIT2111",
-            "section": "2"
+            "section": "2",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "E441.4.L.O",
+            "teacher": "Diego Dujovne"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "9"
+            "section": "9",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "teacher": "Juan Muñoz"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "3"
+            "section": "3",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.2.S202",
+            "teacher": "Sebastián Vera"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "5"
+            "section": "5",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "teacher": "Jaime Contreras"
           }
         },
         {
           "node": {
             "code": "COC3435",
-            "section": "1"
+            "section": "1",
+            "course": "COMPUTATIONAL FLUID DYNAMICS",
+            "place": "E441.4.L.O",
+            "teacher": "Thomas Madler"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "11"
+            "section": "11",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.1.S101",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "9"
+            "section": "9",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "teacher": "Juan Muñoz"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "3"
+            "section": "3",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.2.S202",
+            "teacher": "Sebastián Vera"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "5"
+            "section": "5",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "teacher": "Jaime Contreras"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "2"
+            "section": "2",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S401",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "2"
+            "section": "2",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "teacher": "Gonzalo Fernández"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "3"
+            "section": "3",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.2.S203",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "4"
+            "section": "4",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.4.S401",
+            "teacher": "Roberto Lavín"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "3"
+            "section": "3",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.4.S402",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "5"
+            "section": "5",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.4.S402",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CIT3000",
-            "section": "2"
+            "section": "2",
+            "course": "ARQUITECTURA DE SOFTWARE",
+            "place": "E441.3.S304",
+            "teacher": "Juan Giadach"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "3"
+            "section": "3",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.4.S403",
+            "teacher": "Julio López"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "6"
+            "section": "6",
+            "course": "MECÁNICA",
+            "place": "E441.4.S403",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "COC2102",
-            "section": "1"
+            "section": "1",
+            "course": "ANÁLISIS ESTRUCTURAL",
+            "place": "E441.2.S206",
+            "teacher": "José Colombo"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "3"
+            "section": "3",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "teacher": "Gonzalo Fernández"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "2"
+            "section": "2",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.2.S205",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "CII3721",
-            "section": "1"
+            "section": "1",
+            "course": "TEC AVANZADAS PARA LA TRANSICIÓN ENERGÉT",
+            "place": "E441.4.S402",
+            "teacher": "Andrés Díaz"
           }
         },
         {
           "node": {
             "code": "CII2253",
-            "section": "1"
+            "section": "1",
+            "course": "PRODUCCIÓN",
+            "place": "E441.3.S303",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "CII2253",
-            "section": "2"
+            "section": "2",
+            "course": "PRODUCCIÓN",
+            "place": "E441.3.S304",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "COC2204",
-            "section": "1"
+            "section": "1",
+            "course": "HIDROLOGÍA",
+            "place": "E441.4.L.O",
+            "teacher": "Alonso Pizarro"
           }
         },
         {
           "node": {
             "code": "CIT2107",
-            "section": "3"
+            "section": "3",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "Lab. Telemática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "1"
+            "section": "1",
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "3"
+            "section": "3",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.2.S203",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "12"
+            "section": "12",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S205",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "1"
+            "section": "1",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CII2501",
-            "section": "2"
+            "section": "2",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "12"
+            "section": "12",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S205",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "2"
+            "section": "2",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "V275.-1.L10",
+            "teacher": "Marcos Fantoval"
           }
         },
         {
           "node": {
             "code": "CIT3000",
-            "section": "2"
+            "section": "2",
+            "course": "ARQUITECTURA DE SOFTWARE",
+            "place": "E441.3.S304",
+            "teacher": "Juan Giadach"
           }
         },
         {
           "node": {
             "code": "CII2250",
-            "section": "1"
+            "section": "1",
+            "course": "ESTÁTICA",
+            "place": "V432.3.AU",
+            "teacher": "Rodolfo Danitz"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "15"
+            "section": "15",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "6"
+            "section": "6",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "V432.3.S313",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "1"
+            "section": "1",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "V432.3.S314",
+            "teacher": "René Guerrero"
           }
         },
         {
           "node": {
             "code": "COC2107",
-            "section": "1"
+            "section": "1",
+            "course": "DISEÑO EN ACERO",
+            "place": "V432.3.S315",
+            "teacher": "Gaspar Auad"
           }
         },
         {
           "node": {
             "code": "CII2254",
-            "section": "1"
+            "section": "1",
+            "course": "LOGÍSTICA",
+            "place": "V432.4.S412",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CII2504",
-            "section": "1"
+            "section": "1",
+            "course": "DATA SCIENCE",
+            "place": "E441.4.L.U",
+            "teacher": "Ítalo Vidal"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "6"
+            "section": "6",
+            "course": "QUÍMICA",
+            "place": "E441.4.S403",
+            "teacher": "Alejandra Opazo"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "13"
+            "section": "13",
+            "course": "MECÁNICA",
+            "place": "V432.4.S413",
+            "teacher": "Leonardo Bartolo"
           }
         },
         {
           "node": {
             "code": "COC2009",
-            "section": "1"
+            "section": "1",
+            "course": "BIM",
+            "place": "LOC",
+            "teacher": "Víctor Muñoz"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "3"
+            "section": "3",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.4.S403",
+            "teacher": "Julio López"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "7"
+            "section": "7",
+            "course": "MECÁNICA",
+            "place": "E441.3.S303",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "CII2501",
-            "section": "4"
+            "section": "4",
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CII2401",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "E441.4.S402",
+            "teacher": "Verónica Patiño"
           }
         },
         {
           "node": {
             "code": "CII2101",
-            "section": "3"
+            "section": "3",
+            "course": "MICROECONOMÍA",
+            "place": "E441.4.S403",
+            "teacher": "Karina Véliz"
           }
         },
         {
           "node": {
             "code": "CIT2006",
-            "section": "3"
+            "section": "3",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "M253A.6.L601",
+            "teacher": "Rodrigo Álvarez"
           }
         },
         {
           "node": {
             "code": "CII2755",
-            "section": "2"
+            "section": "2",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.4.S403",
+            "teacher": "Francisco Jara"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "1"
+            "section": "1",
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CII2101",
-            "section": "3"
+            "section": "3",
+            "course": "MICROECONOMÍA",
+            "place": "E441.4.S403",
+            "teacher": "Karina Véliz"
           }
         },
         {
           "node": {
             "code": "CII3703",
-            "section": "1"
+            "section": "1",
+            "course": "ENERGÍA SOLAR",
+            "place": "V432.4.S414",
+            "teacher": "Cristóbal Sarmiento"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "4"
+            "section": "4",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "Lab. Informática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CII2504",
-            "section": "3"
+            "section": "3",
+            "course": "DATA SCIENCE",
+            "place": "M253A.6.L602",
+            "teacher": "Paulina Quilodrán"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "3"
+            "section": "3",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "Lab. Informática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT2112",
-            "section": "1"
+            "section": "1",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "E441.4.S403",
+            "teacher": "Erick Carreño"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "4"
+            "section": "4",
+            "course": "QUÍMICA",
+            "place": "V432.5.S513",
+            "teacher": "Rommina Contenla"
           }
         },
         {
           "node": {
             "code": "CII2757",
-            "section": "3"
+            "section": "3",
+            "course": "SIMULACIÓN",
+            "place": "M253A.6.L601",
+            "teacher": "Mitsuo Tanida"
           }
         },
         {
           "node": {
             "code": "CIT2111",
-            "section": "1"
+            "section": "1",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "Lab. Telemática",
+            "teacher": "Diego Dujovne"
           }
         },
         {
           "node": {
             "code": "COC3428",
-            "section": "1"
+            "section": "1",
+            "course": "MODELACIÓN HIDROLÓGICA",
+            "place": "LOC",
+            "teacher": "Alonso Pizarro"
           }
         },
         {
           "node": {
             "code": "COC2207",
-            "section": "1"
+            "section": "1",
+            "course": "HIDRÁULICA",
+            "place": "M253A.5.S502",
+            "teacher": "Christian González"
           }
         },
         {
           "node": {
             "code": "CIT2204",
-            "section": "2"
+            "section": "2",
+            "course": "PROBABILIDADES Y ESTADÍSTICAS",
+            "place": "E326.4.S403",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "4"
+            "section": "4",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.4.S401",
+            "teacher": "Ricardo Rivera"
           }
         },
         {
           "node": {
             "code": "CII2504",
-            "section": "3"
+            "section": "3",
+            "course": "DATA SCIENCE",
+            "place": "M253A.6.L602",
+            "teacher": "Paulina Quilodrán"
           }
         },
         {
           "node": {
             "code": "CII3422",
-            "section": "1"
+            "section": "1",
+            "course": "TÓPICOS DE LOG. Y SIS. DE DIS. DE CARGA",
+            "place": "E441.-1.AU",
+            "teacher": "Rodrigo Garrido"
           }
         },
         {
           "node": {
             "code": "COC3428",
-            "section": "1"
+            "section": "1",
+            "course": "MODELACIÓN HIDROLÓGICA",
+            "place": "LOC",
+            "teacher": "Alonso Pizarro"
           }
         },
         {
           "node": {
             "code": "CII2755",
-            "section": "1"
+            "section": "1",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.-1.AU",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "CII2757",
-            "section": "4"
+            "section": "4",
+            "course": "SIMULACIÓN",
+            "place": "SIM",
+            "teacher": "Mitsuo Tanida"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "2"
+            "section": "2",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Marcos Fantoval"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "11"
+            "section": "11",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "V275.-1.L10",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CII2501",
-            "section": "2"
+            "section": "2",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "5"
+            "section": "5",
+            "course": "CÁLCULO III",
+            "place": "E441.1.S101",
+            "teacher": "Matthieu Marechal"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "1"
+            "section": "1",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.1.S101",
+            "teacher": "Julio López"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "1"
+            "section": "1",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "1"
+            "section": "1",
+            "course": "QUÍMICA",
+            "place": "E441.1.S105",
+            "teacher": "Nora Reyes"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "4"
+            "section": "4",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.1.S106",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CII2757",
-            "section": "4"
+            "section": "4",
+            "course": "SIMULACIÓN",
+            "place": "SIM",
+            "teacher": "Mitsuo Tanida"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "2"
+            "section": "2",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Marcos Fantoval"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "11"
+            "section": "11",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "V275.-1.L10",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "3"
+            "section": "3",
+            "course": "PROGRAMACIÓN",
+            "place": "V275.3.L301",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CIT2107",
-            "section": "2"
+            "section": "2",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "V432.3.AU",
+            "teacher": "Jorge Tobar"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "7"
+            "section": "7",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Rodrigo Sáez"
           }
         },
         {
           "node": {
             "code": "CII2504",
-            "section": "2"
+            "section": "2",
+            "course": "DATA SCIENCE",
+            "place": "M253A.6.L602",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "1"
+            "section": "1",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CII2501",
-            "section": "3"
+            "section": "3",
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "teacher": "Alberto Abudinen"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "7"
+            "section": "7",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Rodrigo Sáez"
           }
         },
         {
           "node": {
             "code": "CII2751",
-            "section": "1"
+            "section": "1",
+            "course": "INFERENCIA ESTADÍSTICA",
+            "place": "M253A.6.L604",
+            "teacher": "Paula Fariña"
           }
         },
         {
           "node": {
             "code": "CII1001",
-            "section": "2"
+            "section": "2",
+            "course": "TEORÍA ORGANIZACIÓNAL",
+            "place": "E441.1.S106",
+            "teacher": "Gladys Hinojosa"
           }
         },
         {
           "node": {
             "code": "COC2104",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA DE SUELOS",
+            "place": "E441.2.S201",
+            "teacher": "Víctor Contreras"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "11"
+            "section": "11",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "11"
+            "section": "11",
+            "course": "MECÁNICA",
+            "place": "M253B.4.S401",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CIT2207",
-            "section": "1"
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS TIC",
+            "place": "V432.3.S315",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "4"
+            "section": "4",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "M253B.4.S402",
+            "teacher": "Ricardo Rivera"
           }
         },
         {
           "node": {
             "code": "CIT2006",
-            "section": "1"
+            "section": "1",
+            "course": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+            "place": "E441.4.L.O",
+            "teacher": "Yerko Ortiz"
           }
         },
         {
           "node": {
             "code": "CIT2110",
-            "section": "1"
+            "section": "1",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "E441.4.S402",
+            "teacher": "Luis Venegas"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "3"
+            "section": "3",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L602",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CII2751",
-            "section": "1"
+            "section": "1",
+            "course": "INFERENCIA ESTADÍSTICA",
+            "place": "M253A.6.L604",
+            "teacher": "Paula Fariña"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "1"
+            "section": "1",
+            "course": "QUÍMICA",
+            "place": "M253C.2.S202",
+            "teacher": "Nora Reyes"
           }
         },
         {
           "node": {
             "code": "CII2757",
-            "section": "1"
+            "section": "1",
+            "course": "SIMULACIÓN",
+            "place": "SIM",
+            "teacher": "Felipe González"
           }
         },
         {
           "node": {
             "code": "CII2757",
-            "section": "2"
+            "section": "2",
+            "course": "SIMULACIÓN",
+            "place": "SIM",
+            "teacher": "Felipe González"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "2"
+            "section": "2",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.4.S401",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CII2402",
-            "section": "3"
+            "section": "3",
+            "course": "TERMODINÁMICA",
+            "place": "E441.4.S402",
+            "teacher": "Rodrigo Cáceres"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "7"
+            "section": "7",
+            "course": "QUÍMICA",
+            "place": "M253B.4.S401",
+            "teacher": "Manuel Gacitúa"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "1"
+            "section": "1",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "teacher": "Javier Carrión"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "12"
+            "section": "12",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Rosa Rivero"
           }
         },
         {
           "node": {
             "code": "CII2254",
-            "section": "2"
+            "section": "2",
+            "course": "LOGÍSTICA",
+            "place": "E441.4.S403",
+            "teacher": "Luis Yáñez"
           }
         },
         {
           "node": {
             "code": "CIT3202",
-            "section": "1"
+            "section": "1",
+            "course": "DATA SCIENCE",
+            "place": "E441.4.L.O",
+            "teacher": "Osvaldo Ceballos"
           }
         },
         {
           "node": {
             "code": "COC3413",
-            "section": "1"
+            "section": "1",
+            "course": "TRANSPORTE DE SEDIMENTOS",
+            "place": "V432.5.S514",
+            "teacher": "Hernán Alcayaga"
           }
         },
         {
           "node": {
             "code": "CIT2107",
-            "section": "2"
+            "section": "2",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "V432.3.AU",
+            "teacher": "Jorge Tobar"
           }
         },
         {
           "node": {
             "code": "CII2102",
-            "section": "3"
+            "section": "3",
+            "course": "MARKETING",
+            "place": "E441.2.S205",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "7"
+            "section": "7",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L602",
+            "teacher": "Rodrigo Sáez"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "1"
+            "section": "1",
+            "course": "CALOR Y ONDAS",
+            "place": "M253B.4.S403",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "5"
+            "section": "5",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.2.S203",
+            "teacher": "Roberto Lavín"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "3"
+            "section": "3",
+            "course": "CÁLCULO I",
+            "place": "E441.2.S206",
+            "teacher": "Sara Arancibia"
           }
         },
         {
           "node": {
             "code": "CII2250",
-            "section": "2"
+            "section": "2",
+            "course": "ESTÁTICA",
+            "place": "V432.4.S414",
+            "teacher": "Juan Ulloa"
           }
         },
         {
           "node": {
             "code": "CII2401",
-            "section": "3"
+            "section": "3",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "E441.4.S403",
+            "teacher": "Nicolás Gajardo"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "4"
+            "section": "4",
+            "course": "MECÁNICA",
+            "place": "E441.4.S401",
+            "teacher": "Vitalie Eremeev"
           }
         },
         {
           "node": {
             "code": "CIT2112",
-            "section": "2"
+            "section": "2",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "Lab. Telemática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT2110",
-            "section": "1"
+            "section": "1",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "E441.4.S402",
+            "teacher": "Luis Venegas"
           }
         },
         {
           "node": {
             "code": "CII2402",
-            "section": "3"
+            "section": "3",
+            "course": "TERMODINÁMICA",
+            "place": "E441.4.S402",
+            "teacher": "Rodrigo Cáceres"
           }
         },
         {
           "node": {
             "code": "CII2254",
-            "section": "2"
+            "section": "2",
+            "course": "LOGÍSTICA",
+            "place": "E441.4.S403",
+            "teacher": "Luis Yáñez"
           }
         },
         {
           "node": {
             "code": "CII3610",
-            "section": "1"
+            "section": "1",
+            "course": "INNOVACIÓN",
+            "place": "V432.3.AU",
+            "teacher": "Carolina Busco"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "2"
+            "section": "2",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "M253A.6.L601",
+            "teacher": "Gonzalo Fernández"
           }
         },
         {
           "node": {
             "code": "CII2401",
-            "section": "3"
+            "section": "3",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "E441.4.S403",
+            "teacher": "Nicolás Gajardo"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "2"
+            "section": "2",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "Lab. Telemática",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "3"
+            "section": "3",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "E441.2.S205",
+            "teacher": "Richard Gillibrand"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "4"
+            "section": "4",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CII2757",
-            "section": "1"
+            "section": "1",
+            "course": "SIMULACIÓN",
+            "place": "SIM",
+            "teacher": "Felipe González"
           }
         },
         {
           "node": {
             "code": "CII2757",
-            "section": "2"
+            "section": "2",
+            "course": "SIMULACIÓN",
+            "place": "SIM",
+            "teacher": "Felipe González"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "15"
+            "section": "15",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "7"
+            "section": "7",
+            "course": "QUÍMICA",
+            "place": "E441.3.S302",
+            "teacher": "Manuel Gacitúa"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "6"
+            "section": "6",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "2"
+            "section": "2",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.4.S401",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "3"
+            "section": "3",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "5"
+            "section": "5",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "V275.-1.L10",
+            "teacher": "Abel Sierra"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "2"
+            "section": "2",
+            "course": "PROGRAMACIÓN",
+            "place": "V275.3.L301",
+            "teacher": "Esteban Álvarez"
           }
         },
         {
           "node": {
             "code": "COC3100",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA SÍSMICA",
+            "place": "E441.3.S303",
+            "teacher": "Gaspar Auad"
           }
         },
         {
           "node": {
             "code": "COC2205",
-            "section": "1"
+            "section": "1",
+            "course": "HIDRÁULICA URBANA",
+            "place": "E441.2.S207",
+            "teacher": "Nelson Abarca"
           }
         },
         {
           "node": {
             "code": "CIT2010",
-            "section": "2"
+            "section": "2",
+            "course": "SISTEMAS OPERATIVOS",
+            "place": "E441.3.S304",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CII3624",
-            "section": "1"
+            "section": "1",
+            "course": "EVALUACIÓN SOCIAL DE PROYECTOS",
+            "place": "V432.3.AU",
+            "teacher": "Alexa Von Loebenstein"
           }
         },
         {
           "node": {
             "code": "COC3531",
-            "section": "1"
+            "section": "1",
+            "course": "MODELACIÓN NUMÉRICA DE ESTRUCTURA",
+            "place": "E441.2.S206",
+            "teacher": "Asdrubal Ayestarán"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "6"
+            "section": "6",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "3"
+            "section": "3",
+            "course": "MECÁNICA",
+            "place": "E441.3.S303",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "8"
+            "section": "8",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S402",
+            "teacher": "Juan Muñoz"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "4"
+            "section": "4",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.4.S401",
+            "teacher": "Ricardo Rivera"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "3"
+            "section": "3",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "13"
+            "section": "13",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S207",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "5"
+            "section": "5",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.4.S402",
+            "teacher": "Hugo Robotham"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "7"
+            "section": "7",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.3.S304",
+            "teacher": "Leonardo Bartolo"
           }
         },
         {
           "node": {
             "code": "COC3435",
-            "section": "1"
+            "section": "1",
+            "course": "COMPUTATIONAL FLUID DYNAMICS",
+            "place": "E441.4.L.O",
+            "teacher": "Thomas Madler"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "1"
+            "section": "1",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "5"
+            "section": "5",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "V432.5.S513",
+            "teacher": "Ricardo Rivera"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "3"
+            "section": "3",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "teacher": "Gonzalo Fernández"
           }
         },
         {
           "node": {
             "code": "CIT3202",
-            "section": "1"
+            "section": "1",
+            "course": "DATA SCIENCE",
+            "place": "E441.4.L.O",
+            "teacher": "Osvaldo Ceballos"
           }
         },
         {
           "node": {
             "code": "CII3102",
-            "section": "2"
+            "section": "2",
+            "course": "TALLER DE INGENIERIA INDUSTRIAL",
+            "place": "V432.3.AU",
+            "teacher": "Sergio Acuña"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "5"
+            "section": "5",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.4.S402",
+            "teacher": "Rosa San Martín"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "10"
+            "section": "10",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Jonathan Frez"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "14"
+            "section": "14",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Bruno Aguiló"
           }
         },
         {
           "node": {
             "code": "COC3300",
-            "section": "1"
+            "section": "1",
+            "course": "TALLER DE PROYECTOS",
+            "place": "E441.2.S207",
+            "teacher": "Gabriel Silva"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "13"
+            "section": "13",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S207",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "5"
+            "section": "5",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "V432.5.S513",
+            "teacher": "Ricardo Rivera"
           }
         },
         {
           "node": {
             "code": "CIT3203",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTO EN TICS II",
+            "place": "V432.3.S313",
+            "teacher": "Cristian Osorio"
           }
         },
         {
           "node": {
             "code": "CIT2110",
-            "section": "3"
+            "section": "3",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "Lab. Telemática"
           }
         },
         {
           "node": {
             "code": "CII3721",
-            "section": "1"
+            "section": "1",
+            "course": "TEC AVANZADAS PARA LA TRANSICIÓN ENERGÉT",
+            "place": "E441.4.S402",
+            "teacher": "Andrés Díaz"
           }
         },
         {
           "node": {
             "code": "COC3531",
-            "section": "1"
+            "section": "1",
+            "course": "MODELACIÓN NUMÉRICA DE ESTRUCTURA",
+            "place": "LOC",
+            "teacher": "Asdrubal Ayestarán"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "2"
+            "section": "2",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.4.S401",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CIT2112",
-            "section": "1"
+            "section": "1",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "E441.4.S403",
+            "teacher": "Erick Carreño"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "14"
+            "section": "14",
+            "course": "MECÁNICA",
+            "place": "V275.2.S203",
+            "teacher": "Paloma Vildoso"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "3"
+            "section": "3",
+            "course": "PROGRAMACIÓN",
+            "place": "V275.-1.L10",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CII2501",
-            "section": "4"
+            "section": "4",
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2013",
-            "section": "2"
+            "section": "2",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "E441.4.S403",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "4"
+            "section": "4",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "COC3000",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA DE COSTOS",
+            "place": "V432.3.S313",
+            "teacher": "Juan Acuña"
           }
         },
         {
           "node": {
             "code": "CII3610",
-            "section": "1"
+            "section": "1",
+            "course": "INNOVACIÓN",
+            "place": "V432.3.AU",
+            "teacher": "Carolina Busco"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "5"
+            "section": "5",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "E441.4.S402",
+            "teacher": "Hugo Robotham"
           }
         },
         {
           "node": {
             "code": "CIT2107",
-            "section": "2"
+            "section": "2",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "Lab. Telemática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "8"
+            "section": "8",
+            "course": "MECÁNICA",
+            "place": "V210.2.S202",
+            "teacher": "Alejandra León"
           }
         },
         {
           "node": {
             "code": "CIT3345",
-            "section": "1"
+            "section": "1",
+            "course": "PROCESOS ÁGILES",
+            "place": "V432.3.S314",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CII1001",
-            "section": "1"
+            "section": "1",
+            "course": "TEORÍA ORGANIZACIÓNAL",
+            "place": "V432.3.AU",
+            "teacher": "Carolina Busco"
           }
         },
         {
           "node": {
             "code": "COC3000",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA DE COSTOS",
+            "place": "V432.3.S313",
+            "teacher": "Juan Acuña"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "6"
+            "section": "6",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "V432.3.S312",
+            "teacher": "Guillermo Olivares"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "5"
+            "section": "5",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "V432.3.S312",
+            "teacher": "Rosa Riveros"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "3"
+            "section": "3",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "V275.3.L301",
+            "teacher": "Gonzalo Fernández"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "3"
+            "section": "3",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.4.S412",
+            "teacher": "Jessica Arismedi"
           }
         },
         {
           "node": {
             "code": "CII2250",
-            "section": "1"
+            "section": "1",
+            "course": "ESTÁTICA",
+            "place": "V432.3.AU",
+            "teacher": "Rodolfo Danitz"
           }
         },
         {
           "node": {
             "code": "CIT2013",
-            "section": "2"
+            "section": "2",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "E441.4.S403",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO I",
+            "place": "SIM",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "2"
+            "section": "2",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602",
+            "teacher": "Esteban Álvarez"
           }
         },
         {
           "node": {
             "code": "CII1001",
-            "section": "1"
+            "section": "1",
+            "course": "TEORÍA ORGANIZACIÓNAL",
+            "place": "V432.3.AU",
+            "teacher": "Carolina Busco"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "5"
+            "section": "5",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.4.S403",
+            "teacher": "Jaime Contreras"
           }
         },
         {
           "node": {
             "code": "CII2403",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTOS ENERGÉTICOS",
+            "place": "V432.3.AU",
+            "teacher": "Cristóbal Sarmiento"
           }
         },
         {
           "node": {
             "code": "COC2305",
-            "section": "1"
+            "section": "1",
+            "course": "SEMINARIO CS. INGENIERÍA",
+            "place": "SIM",
+            "teacher": "Thomas Madler"
           }
         },
         {
           "node": {
             "code": "CII2504",
-            "section": "1"
+            "section": "1",
+            "course": "DATA SCIENCE",
+            "place": "E441.4.L.U",
+            "teacher": "Ítalo Vidal"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "5"
+            "section": "5",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CII3708",
-            "section": "1"
+            "section": "1",
+            "course": "INNOVACIÓN TECNOLOGÍCA E INDUSTRIA 4.0",
+            "place": "E441.3.S304",
+            "teacher": "Domingo Gallardo"
           }
         },
         {
           "node": {
             "code": "CIT3345",
-            "section": "1"
+            "section": "1",
+            "course": "PROCESOS ÁGILES",
+            "place": "V432.3.S314",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "5"
+            "section": "5",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CII2254",
-            "section": "3"
+            "section": "3",
+            "course": "LOGÍSTICA",
+            "place": "V432.3.AU",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CII2250",
-            "section": "3"
+            "section": "3",
+            "course": "ESTÁTICA",
+            "place": "E441.2.S207",
+            "teacher": "Leonardo Gallo"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "6"
+            "section": "6",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S313",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "9"
+            "section": "9",
+            "course": "MECÁNICA",
+            "place": "V432.3.S313",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CII2004",
-            "section": "1"
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "V432.3.S315",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "2"
+            "section": "2",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "V432.4.S412",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "10"
+            "section": "10",
+            "course": "MECÁNICA",
+            "place": "V432.4.S413",
+            "teacher": "Alejandra León"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "6"
+            "section": "6",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S313",
+            "teacher": "Carlos Landero"
           }
         },
         {
           "node": {
             "code": "CII3603",
-            "section": "1"
+            "section": "1",
+            "course": "ORGANIZACIÓN INDUSTRIAL",
+            "place": "V432.3.S312",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CIT2112",
-            "section": "2"
+            "section": "2",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "V432.4.S414",
+            "teacher": "Luis Venegas"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "9"
+            "section": "9",
+            "course": "MECÁNICA",
+            "place": "V432.3.S313",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CII3710",
-            "section": "1"
+            "section": "1",
+            "course": "FINTECH",
+            "place": "V432.5.S513",
+            "teacher": "Hernán Alvarado"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "15"
+            "section": "15",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CIT2107",
-            "section": "4"
+            "section": "4",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "Lab. Telemática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "3"
+            "section": "3",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CII2403",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTOS ENERGÉTICOS",
+            "place": "V432.3.AU",
+            "teacher": "Cristóbal Sarmiento"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "2"
+            "section": "2",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "V432.3.S313",
+            "teacher": "Rosa San Martín"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "5"
+            "section": "5",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "V275.-1.L10",
+            "teacher": "Abel Sierra"
           }
         },
         {
           "node": {
             "code": "CII2003",
-            "section": "2"
+            "section": "2",
+            "course": "FINANZAS",
+            "place": "V432.3.S313",
+            "teacher": "Guillermo Olivares"
           }
         },
         {
           "node": {
             "code": "CII3624",
-            "section": "1"
+            "section": "1",
+            "course": "EVALUACIÓN SOCIAL DE PROYECTOS",
+            "place": "V432.3.AU",
+            "teacher": "Alexa Von Loebenstein"
           }
         },
         {
           "node": {
             "code": "CIT3340",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN ESTRATÉGICA PARA INFORMÁTICA",
+            "place": "V432.3.S314",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CIT2112",
-            "section": "1"
+            "section": "1",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "Lab. Telemática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT3435",
-            "section": "1"
+            "section": "1",
+            "course": "ALGORITMOS DE RUTEO Y REDES RESILIENTES",
+            "place": "V432.5.S514",
+            "teacher": "Nicolás Boettcher"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "3"
+            "section": "3",
+            "course": "CÁLCULO III",
+            "place": "V432.4.S413",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "2"
+            "section": "2",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L602",
+            "teacher": "Esteban Álvarez"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "6"
+            "section": "6",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "V432.3.S313",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CIT2011",
-            "section": "1"
+            "section": "1",
+            "course": "SISTEMAS DISTRIBUIDOS",
+            "place": "V432.3.S315",
+            "teacher": "Nicolás Hidalgo"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "10"
+            "section": "10",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L602",
+            "teacher": "Jonathan Frez"
           }
         },
         {
           "node": {
             "code": "COC2305",
-            "section": "1"
+            "section": "1",
+            "course": "SEMINARIO CS. INGENIERÍA",
+            "place": "SIM",
+            "teacher": "Thomas Madler"
           }
         },
         {
           "node": {
             "code": "CII2254",
-            "section": "3"
+            "section": "3",
+            "course": "LOGÍSTICA",
+            "place": "V432.3.AU",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "8"
+            "section": "8",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "teacher": "Marcos Fantoval"
           }
         },
         {
           "node": {
             "code": "COC3001",
-            "section": "1"
+            "section": "1",
+            "course": "DISEÑO DE CAMINOS",
+            "place": "V432.4.S415",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "15"
+            "section": "15",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CII2002",
-            "section": "3"
+            "section": "3",
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "V432.3.AU",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "6"
+            "section": "6",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S313",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "1"
+            "section": "1",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S106",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "2"
+            "section": "2",
+            "course": "CÁLCULO II",
+            "place": "E441.1.S101",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "6"
+            "section": "6",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "SIM",
+            "teacher": "Leandro Llanza"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "5"
+            "section": "5",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "E441.4.S402",
+            "teacher": "Rosa San Martín"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "3"
+            "section": "3",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S202",
+            "teacher": "Rosa Rivero"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "13"
+            "section": "13",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CII3615",
-            "section": "1"
+            "section": "1",
+            "course": "MICROECONOMETRÍA",
+            "place": "V432.3.S315",
+            "teacher": "Louis de Grange"
           }
         },
         {
           "node": {
             "code": "CIT3433",
-            "section": "1"
+            "section": "1",
+            "course": "INTEROPERABILIDAD Y SIST DE TELEC",
+            "place": "V432.3.S314",
+            "teacher": "Luciano Ahumada"
           }
         },
         {
           "node": {
             "code": "CII3615",
-            "section": "1"
+            "section": "1",
+            "course": "MICROECONOMETRÍA",
+            "place": "V432.3.S315",
+            "teacher": "Louis de Grange"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "4"
+            "section": "4",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "V432.4.S412",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "5"
+            "section": "5",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CII3101",
-            "section": "1"
+            "section": "1",
+            "course": "LIDERAZGO Y EMPRENDIMIENTO",
+            "place": "V432.3.AU",
+            "teacher": "Luz María Vivanco"
           }
         },
         {
           "node": {
             "code": "CII3603",
-            "section": "1"
+            "section": "1",
+            "course": "ORGANIZACIÓN INDUSTRIAL",
+            "place": "V432.3.S312",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "8"
+            "section": "8",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "6"
+            "section": "6",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S313",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CII2250",
-            "section": "4"
+            "section": "4",
+            "course": "ESTÁTICA",
+            "place": "E441.2.S204",
+            "teacher": "Natalia Osorio"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "6"
+            "section": "6",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "V432.3.S313",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "COC3518",
-            "section": "1"
+            "section": "1",
+            "course": "SISTEMAS DE CONTENCIÓN DE TALUDES",
+            "place": "V432.3.S314",
+            "teacher": "Víctor Contreras"
           }
         },
         {
           "node": {
             "code": "CIT3433",
-            "section": "1"
+            "section": "1",
+            "course": "INTEROPERABILIDAD Y SIST DE TELEC",
+            "place": "V432.3.S314",
+            "teacher": "Luciano Ahumada"
           }
         },
         {
           "node": {
             "code": "CIT3353",
-            "section": "1"
+            "section": "1",
+            "course": "SIMULACIÓN Y BIOLOGÍA PROGRAMABLE",
+            "place": "V432.3.S315",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CII3101",
-            "section": "2"
+            "section": "2",
+            "course": "LIDERAZGO Y EMPRENDIMIENTO",
+            "place": "E441.2.S201",
+            "teacher": "Luz María Vivanco"
           }
         },
         {
           "node": {
             "code": "CIT2114",
-            "section": "1"
+            "section": "1",
+            "course": "REDES DE DATOS",
+            "place": "E441.2.S203",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CII3600",
-            "section": "1"
+            "section": "1",
+            "course": "TÓPICOS EN FINANZAS",
+            "place": "E441.2.S205",
+            "teacher": "Roberto Ortiz"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "1"
+            "section": "1",
+            "course": "CÁLCULO I",
+            "place": "V432.4.S413",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "7"
+            "section": "7",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S206",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "6"
+            "section": "6",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "V432.3.S312",
+            "teacher": "Guillermo Olivares"
           }
         },
         {
           "node": {
             "code": "CII2401",
-            "section": "2"
+            "section": "2",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "V432.3.S313",
+            "teacher": "Esteban Zamora"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "4"
+            "section": "4",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "V432.4.S412",
+            "teacher": "Emilio Marti"
           }
         },
         {
           "node": {
             "code": "CIT2207",
-            "section": "2"
+            "section": "2",
+            "course": "EVALUACIÓN DE PROYECTOS TIC",
+            "place": "E441.4.L.U",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "4"
+            "section": "4",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.3.AU",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "6"
+            "section": "6",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.2.S207",
+            "teacher": "Sidney Villagrán"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "14"
+            "section": "14",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Bruno Aguiló"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "14"
+            "section": "14",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Bruno Aguiló"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "6"
+            "section": "6",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "V432.3.S313",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CII2402",
-            "section": "1"
+            "section": "1",
+            "course": "TERMODINÁMICA",
+            "place": "V432.4.S412",
+            "teacher": "Nicolás Gajardo"
           }
         },
         {
           "node": {
             "code": "CII1000",
-            "section": "2"
+            "section": "2",
+            "course": "CONTABILIDAD Y COSTOS",
+            "place": "V432.3.S313",
+            "teacher": "Rosa San Martín"
           }
         },
         {
           "node": {
             "code": "CII2003",
-            "section": "2"
+            "section": "2",
+            "course": "FINANZAS",
+            "place": "V432.3.S313",
+            "teacher": "Guillermo Olivares"
           }
         },
         {
           "node": {
             "code": "CIT3340",
-            "section": "1"
+            "section": "1",
+            "course": "GESTIÓN ESTRATÉGICA PARA INFORMÁTICA",
+            "place": "V432.3.S314",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CIT2205",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.3.S302",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CII3628",
-            "section": "1"
+            "section": "1",
+            "course": "NANOCIENCIA Y NANOTECNOLOGÍA EN LA IND.",
+            "place": "V432.3.S314",
+            "teacher": "Roberto Lavín"
           }
         },
         {
           "node": {
             "code": "CIT2205",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTO EN TICS I",
+            "place": "E441.3.S303",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CII2755",
-            "section": "3"
+            "section": "3",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "E441.-1.AU",
+            "teacher": "Renny Márquez"
           }
         },
         {
           "node": {
             "code": "COC2006",
-            "section": "1"
+            "section": "1",
+            "course": "TOPOGRAFÍA",
+            "place": "V432.3.S314",
+            "teacher": "Carolina Montorio"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "2"
+            "section": "2",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "V432.4.S413",
+            "teacher": "Jorge Rozas"
           }
         },
         {
           "node": {
             "code": "CIT3354",
-            "section": "1"
+            "section": "1",
+            "course": "SISTEMAS DE PROCESAMIENTO PARA BIG DATA",
+            "place": "V432.3.S315",
+            "teacher": "Nicolás Hidalgo"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "11"
+            "section": "11",
+            "course": "MECÁNICA",
+            "place": "E441.2.S203",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "1"
+            "section": "1",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "V432.3.S314",
+            "teacher": "René Guerrero"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "8"
+            "section": "8",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.4.S412",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "2"
+            "section": "2",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.4.S402",
+            "teacher": "Hugo Carrillo"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "6"
+            "section": "6",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S402",
+            "teacher": "Juan Muñoz"
           }
         },
         {
           "node": {
             "code": "CIT2008",
-            "section": "1"
+            "section": "1",
+            "course": "DESARROLLO WEB Y MÓVIL",
+            "place": "E441.4.L.D",
+            "teacher": "Javier Carrión"
           }
         },
         {
           "node": {
             "code": "CIT2013",
-            "section": "1"
+            "section": "1",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.3.S315",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S402",
+            "teacher": "Juan Muñoz"
           }
         },
         {
           "node": {
             "code": "COC2107",
-            "section": "1"
+            "section": "1",
+            "course": "DISEÑO EN ACERO",
+            "place": "V432.3.S315",
+            "teacher": "Gaspar Auad"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "5"
+            "section": "5",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.4.S403",
+            "teacher": "Jaime Contreras"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "3"
+            "section": "3",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "Lab. Telemática",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CIT2011",
-            "section": "1"
+            "section": "1",
+            "course": "SISTEMAS DISTRIBUIDOS",
+            "place": "V432.3.S315",
+            "teacher": "Nicolás Hidalgo"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "5"
+            "section": "5",
+            "course": "OPTIMIZACIÓN",
+            "place": "E441.4.S402",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "2"
+            "section": "2",
+            "course": "CÁLCULO I",
+            "place": "SIM",
+            "teacher": "Tomás Neira"
           }
         },
         {
           "node": {
             "code": "CII2004",
-            "section": "1"
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS",
+            "place": "V432.3.S315",
+            "teacher": "Álvaro Zúñiga"
           }
         },
         {
           "node": {
             "code": "CII2402",
-            "section": "1"
+            "section": "1",
+            "course": "TERMODINÁMICA",
+            "place": "V432.4.S412",
+            "teacher": "Nicolás Gajardo"
           }
         },
         {
           "node": {
             "code": "CIT2013",
-            "section": "2"
+            "section": "2",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.4.S413",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CIT1000",
-            "section": "4"
+            "section": "4",
+            "course": "PROGRAMACIÓN",
+            "place": "M253A.6.L601",
+            "teacher": "Patricio Huichulef"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "10"
+            "section": "10",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L602",
+            "teacher": "Jonathan Frez"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "5"
+            "section": "5",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "V432.4.S412",
+            "teacher": "Guillermo Olivares"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "5"
+            "section": "5",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "V432.4.S412",
+            "teacher": "Guillermo Olivares"
           }
         },
         {
           "node": {
             "code": "CII2002",
-            "section": "3"
+            "section": "3",
+            "course": "INGENIERIA ECONÓMICA",
+            "place": "V432.3.AU",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "11"
+            "section": "11",
+            "course": "MECÁNICA",
+            "place": "E441.2.S203",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "1"
+            "section": "1",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "Lab. Telemática",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "12"
+            "section": "12",
+            "course": "MECÁNICA",
+            "place": "E441.2.S207",
+            "teacher": "Vitalie Eremeev"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "6"
+            "section": "6",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.3.S304",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "CII3628",
-            "section": "1"
+            "section": "1",
+            "course": "NANOCIENCIA Y NANOTECNOLOGÍA EN LA IND.",
+            "place": "V432.3.S314",
+            "teacher": "Roberto Lavín"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "12"
+            "section": "12",
+            "course": "MECÁNICA",
+            "place": "E441.2.S207",
+            "teacher": "Vitalie Eremeev"
           }
         },
         {
           "node": {
             "code": "CIT3354",
-            "section": "1"
+            "section": "1",
+            "course": "SISTEMAS DE PROCESAMIENTO PARA BIG DATA",
+            "place": "V432.3.S315",
+            "teacher": "Nicolás Hidalgo"
           }
         },
         {
           "node": {
             "code": "CII2254",
-            "section": "1"
+            "section": "1",
+            "course": "LOGÍSTICA",
+            "place": "V432.4.S412",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "3"
+            "section": "3",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "V432.3.S315",
+            "teacher": "Jaime Pérez-Kallens"
           }
         },
         {
           "node": {
             "code": "COC2207",
-            "section": "1"
+            "section": "1",
+            "course": "HIDRÁULICA",
+            "place": "V432.5.S515",
+            "teacher": "Christian González"
           }
         },
         {
           "node": {
             "code": "CBE2000",
-            "section": "3"
+            "section": "3",
+            "course": "PROBABILIDADES Y ESTADÍSTICA",
+            "place": "V432.3.S315",
+            "teacher": "Jaime Pérez-Kallens"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "8"
+            "section": "8",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.4.S412",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO I",
+            "place": "V432.4.S413",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "3"
+            "section": "3",
+            "course": "CALOR Y ONDAS",
+            "place": "V432.3.S313",
+            "teacher": "Marco Olivares"
           }
         },
         {
           "node": {
             "code": "CII2100",
-            "section": "2"
+            "section": "2",
+            "course": "INTRODUCCIÓN A LA ECONOMÍA",
+            "place": "V432.4.S412",
+            "teacher": "Jaime Calcagno"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "7"
+            "section": "7",
+            "course": "MECÁNICA",
+            "place": "V432.4.S413",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "COC3531",
-            "section": "1"
+            "section": "1",
+            "course": "MODELACIÓN NUMÉRICA DE ESTRUCTURA",
+            "place": "LOC",
+            "teacher": "Asdrubal Ayestarán"
           }
         },
         {
           "node": {
             "code": "CIT2111",
-            "section": "1"
+            "section": "1",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "V432.4.S414",
+            "teacher": "Diego Dujovne"
           }
         },
         {
           "node": {
             "code": "CIT3349",
-            "section": "1"
+            "section": "1",
+            "course": "GRAFOS Y ALGORITMOS",
+            "place": "V432.4.S415",
+            "teacher": "Karol Suchan"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO I",
+            "place": "V432.4.S413",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CIT2011",
-            "section": "2"
+            "section": "2",
+            "course": "SISTEMAS DISTRIBUIDOS",
+            "place": "V432.3.S315",
+            "teacher": "Nicolás Hidalgo"
           }
         },
         {
           "node": {
             "code": "CIT3203",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTO EN TICS II",
+            "place": "V432.3.S313",
+            "teacher": "Cristian Osorio"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "13"
+            "section": "13",
+            "course": "MECÁNICA",
+            "place": "V432.4.S413",
+            "teacher": "Leonardo Bartolo"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "9"
+            "section": "9",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.5.S513",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CIT2111",
-            "section": "2"
+            "section": "2",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "V432.4.S412"
           }
         },
         {
           "node": {
             "code": "CIT3203",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTO EN TICS II",
+            "place": "E441.4.S403",
+            "teacher": "Leandro Llanza"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "14"
+            "section": "14",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Bruno Aguiló"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "2"
+            "section": "2",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "V432.4.S415",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "8"
+            "section": "8",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.4.S412",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CII2751",
-            "section": "2"
+            "section": "2",
+            "course": "INFERENCIA ESTADÍSTICA",
+            "place": "V432.4.S415",
+            "teacher": "Sebastián Vera"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "6"
+            "section": "6",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.4.S412",
+            "teacher": "Pablo Rojas"
           }
         },
         {
           "node": {
             "code": "CIT2110",
-            "section": "2"
+            "section": "2",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "V432.4.S415",
+            "teacher": "Rodrigo Muñoz"
           }
         },
         {
           "node": {
             "code": "CIT3433",
-            "section": "1"
+            "section": "1",
+            "course": "INTEROPERABILIDAD Y SIST DE TELEC",
+            "place": "V432.5.S514",
+            "teacher": "Luciano Ahumada"
           }
         },
         {
           "node": {
             "code": "COC3518",
-            "section": "1"
+            "section": "1",
+            "course": "SISTEMAS DE CONTENCIÓN DE TALUDES",
+            "place": "V432.5.S515",
+            "teacher": "Víctor Contreras"
           }
         },
         {
           "node": {
             "code": "COC2206",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "V432.4.S414",
+            "teacher": "Christian González"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "9"
+            "section": "9",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.5.S513",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "COC2204",
-            "section": "1"
+            "section": "1",
+            "course": "HIDROLOGÍA",
+            "place": "V432.5.S514",
+            "teacher": "Alonso Pizarro"
           }
         },
         {
           "node": {
             "code": "CII3723",
-            "section": "1"
+            "section": "1",
+            "course": "TÓPICOS DE INVESTIGACIÓN OPERATIVA",
+            "place": "V432.5.S514",
+            "teacher": "Francisco Jara"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "11"
+            "section": "11",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.1.S101",
+            "teacher": "Gabriela López"
           }
         },
         {
           "node": {
             "code": "CIT3416",
-            "section": "1"
+            "section": "1",
+            "course": "PROCESAMIENTO DIGITAL DE SEÑALES",
+            "place": "Lab. Informática",
+            "teacher": "Diego Dujovne"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "9"
+            "section": "9",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2110",
-            "section": "4"
+            "section": "4",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "Lab. Informática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT2107",
-            "section": "1"
+            "section": "1",
+            "course": "ELECTRÓNICA Y ELECTROTECNIA",
+            "place": "Lab. Telemática",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "6"
+            "section": "6",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "SIM",
+            "teacher": "Leandro Llanza"
           }
         },
         {
           "node": {
             "code": "COC2206",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA DE FLUIDOS",
+            "place": "V432.4.S414",
+            "teacher": "Christian González"
           }
         },
         {
           "node": {
             "code": "COC2109",
-            "section": "1"
+            "section": "1",
+            "course": "MECÁNICA DE SÓLIDOS",
+            "place": "LOC",
+            "teacher": "Pablo González"
           }
         },
         {
           "node": {
             "code": "COC2001",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA EN MATERIALES",
+            "place": "V432.4.S415",
+            "teacher": "Sandra Acosta"
           }
         },
         {
           "node": {
             "code": "CIT3100",
-            "section": "1"
+            "section": "1",
+            "course": "ARQUITECTURAS EMERGENTES",
+            "place": "E441.1.S106",
+            "teacher": "Carlos García"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "4"
+            "section": "4",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "V275.3.L301",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CBM1000",
-            "section": "3"
+            "section": "3",
+            "course": "ÁLGEBRA Y GEOMETRÍA",
+            "place": "E441.2.S202",
+            "teacher": "Sebastián Vera"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "6"
+            "section": "6",
+            "course": "CALOR Y ONDAS",
+            "place": "E441.3.S304",
+            "teacher": "Daniela Paredes"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "4"
+            "section": "4",
+            "course": "CÁLCULO I",
+            "place": "V432.4.S413",
+            "teacher": "Andrea Casado"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "12"
+            "section": "12",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S205",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "COC3000",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA DE COSTOS",
+            "place": "E441.2.S206",
+            "teacher": "Juan Acuña"
           }
         },
         {
           "node": {
             "code": "CII2403",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTOS ENERGÉTICOS",
+            "place": "V432.4.S415",
+            "teacher": "Rodrigo Cáceres"
           }
         },
         {
           "node": {
             "code": "CII2403",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTOS ENERGÉTICOS",
+            "place": "V432.4.S415",
+            "teacher": "Rodrigo Cáceres"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "13"
+            "section": "13",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S207",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "COC2108",
-            "section": "1"
+            "section": "1",
+            "course": "ESTÁTICA",
+            "place": "V432.4.S415",
+            "teacher": "José Colombo"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "14"
+            "section": "14",
+            "course": "MECÁNICA",
+            "place": "E441.2.S203",
+            "teacher": "Paloma Vildoso"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "8"
+            "section": "8",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.4.S412",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "1"
+            "section": "1",
+            "course": "CÁLCULO I",
+            "place": "V432.4.S413",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "6"
+            "section": "6",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.4.S412",
+            "teacher": "Pablo Rojas"
           }
         },
         {
           "node": {
             "code": "CII3703",
-            "section": "1"
+            "section": "1",
+            "course": "ENERGÍA SOLAR",
+            "place": "V432.4.S414",
+            "teacher": "Cristóbal Sarmiento"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "14"
+            "section": "14",
+            "course": "MECÁNICA",
+            "place": "M253B.4.S404",
+            "teacher": "Paloma Vildoso"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "13"
+            "section": "13",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "COC2001",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA EN MATERIALES",
+            "place": "V432.4.S415",
+            "teacher": "Sandra Acosta"
           }
         },
         {
           "node": {
             "code": "CBF1002",
-            "section": "7"
+            "section": "7",
+            "course": "ELECTRICIDAD Y MAGNETISMO",
+            "place": "E441.3.S304",
+            "teacher": "Leonardo Bartolo"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "10"
+            "section": "10",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.3.S313",
+            "teacher": "Jaime Contreras"
           }
         },
         {
           "node": {
             "code": "CIT2112",
-            "section": "2"
+            "section": "2",
+            "course": "TECNOLOGÍAS INALÁMBRICAS",
+            "place": "V432.4.S414",
+            "teacher": "Luis Venegas"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "15"
+            "section": "15",
+            "course": "MECÁNICA",
+            "place": "V432.5.S513",
+            "teacher": "Ricardo Rivera"
           }
         },
         {
           "node": {
             "code": "CBM1001",
-            "section": "1"
+            "section": "1",
+            "course": "CÁLCULO I",
+            "place": "V432.4.S413",
+            "teacher": "Carlos Landeros"
           }
         },
         {
           "node": {
             "code": "CII2250",
-            "section": "2"
+            "section": "2",
+            "course": "ESTÁTICA",
+            "place": "V432.4.S414",
+            "teacher": "Juan Ulloa"
           }
         },
         {
           "node": {
             "code": "COC2108",
-            "section": "1"
+            "section": "1",
+            "course": "ESTÁTICA",
+            "place": "V432.4.S415",
+            "teacher": "José Colombo"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "4"
+            "section": "4",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CII3708",
-            "section": "1"
+            "section": "1",
+            "course": "INNOVACIÓN TECNOLOGÍCA E INDUSTRIA 4.0",
+            "place": "E441.3.S304",
+            "teacher": "Domingo Gallardo"
           }
         },
         {
           "node": {
             "code": "CIT2111",
-            "section": "1"
+            "section": "1",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "V432.4.S414",
+            "teacher": "Diego Dujovne"
           }
         },
         {
           "node": {
             "code": "CIT2111",
-            "section": "1"
+            "section": "1",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "V432.4.S414",
+            "teacher": "Diego Dujovne"
           }
         },
         {
           "node": {
             "code": "COC3001",
-            "section": "1"
+            "section": "1",
+            "course": "DISEÑO DE CAMINOS",
+            "place": "V432.4.S415",
+            "teacher": "Nicolás Tapia"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "3"
+            "section": "3",
+            "course": "BASES DE DATOS",
+            "place": "E441.4.L.D",
+            "teacher": "Víctor Reyes"
           }
         },
         {
           "node": {
             "code": "CIT2012",
-            "section": "2"
+            "section": "2",
+            "course": "INGENIERÍA DE SOFTWARE",
+            "place": "V432.5.S515",
+            "teacher": "Matías Rojas"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "9"
+            "section": "9",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT3349",
-            "section": "1"
+            "section": "1",
+            "course": "GRAFOS Y ALGORITMOS",
+            "place": "V432.4.S415",
+            "teacher": "Karol Suchan"
           }
         },
         {
           "node": {
             "code": "CII2751",
-            "section": "2"
+            "section": "2",
+            "course": "INFERENCIA ESTADÍSTICA",
+            "place": "V432.4.S415",
+            "teacher": "Sebastián Vera"
           }
         },
         {
           "node": {
             "code": "CIT3416",
-            "section": "1"
+            "section": "1",
+            "course": "PROCESAMIENTO DIGITAL DE SEÑALES",
+            "place": "Lab. Informática",
+            "teacher": "Diego Dujovne"
           }
         },
         {
           "node": {
             "code": "CBM1006",
-            "section": "6"
+            "section": "6",
+            "course": "CÁLCULO III",
+            "place": "E441.4.S402",
+            "teacher": "Juan Muñoz"
           }
         },
         {
           "node": {
             "code": "CIT2114",
-            "section": "2"
+            "section": "2",
+            "course": "REDES DE DATOS",
+            "place": "V432.3.S313",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT2110",
-            "section": "2"
+            "section": "2",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "V432.4.S415",
+            "teacher": "Rodrigo Muñoz"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "4"
+            "section": "4",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CBF1001",
-            "section": "5"
+            "section": "5",
+            "course": "CALOR Y ONDAS",
+            "place": "V432.5.S513",
+            "teacher": "Roberto Lavín"
           }
         },
         {
           "node": {
             "code": "COC2106",
-            "section": "1"
+            "section": "1",
+            "course": "FUNDACIONES",
+            "place": "V432.5.S513",
+            "teacher": "Pablo González"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "2"
+            "section": "2",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CIT2007",
-            "section": "2"
+            "section": "2",
+            "course": "BASES DE DATOS",
+            "place": "SIM",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CII2755",
-            "section": "4"
+            "section": "4",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "V432.3.AU",
+            "teacher": "Luis Yáñez"
           }
         },
         {
           "node": {
             "code": "CII2755",
-            "section": "4"
+            "section": "4",
+            "course": "MODELOS ESTOCÁSTICOS",
+            "place": "V432.3.AU",
+            "teacher": "Luis Yáñez"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "9"
+            "section": "9",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.5.S513",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "10"
+            "section": "10",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.3.S313",
+            "teacher": "Jaime Contreras"
           }
         },
         {
           "node": {
             "code": "CIT2110",
-            "section": "1"
+            "section": "1",
+            "course": "SEÑALES Y SISTEMAS",
+            "place": "V432.3.AU",
+            "teacher": "Luis Venegas"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "13"
+            "section": "13",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "9"
+            "section": "9",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.5.S513",
+            "teacher": "Juan Rossel"
           }
         },
         {
           "node": {
             "code": "CIT3434",
-            "section": "1"
+            "section": "1",
+            "course": "COMUNIC POR LUZ VISIBLE PARA IND INTELIG",
+            "place": "V432.4.S415",
+            "teacher": "Pablo Palacios"
           }
         },
         {
           "node": {
             "code": "CIT2207",
-            "section": "1"
+            "section": "1",
+            "course": "EVALUACIÓN DE PROYECTOS TIC",
+            "place": "V432.3.S315",
+            "teacher": "Eduardo Faivovich"
           }
         },
         {
           "node": {
             "code": "CII3406",
-            "section": "1"
+            "section": "1",
+            "course": "ENERGÍAS RENOVABLES Y SUSTENTABILIDAD",
+            "place": "V432.5.S513",
+            "teacher": "Masoud Behzad"
           }
         },
         {
           "node": {
             "code": "CIT2012",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA DE SOFTWARE",
+            "place": "V432.5.S515",
+            "teacher": "Matías Rojas"
           }
         },
         {
           "node": {
             "code": "CBQ1000",
-            "section": "4"
+            "section": "4",
+            "course": "QUÍMICA",
+            "place": "V432.5.S513",
+            "teacher": "Rommina Contenla"
           }
         },
         {
           "node": {
             "code": "COC2106",
-            "section": "1"
+            "section": "1",
+            "course": "FUNDACIONES",
+            "place": "V432.5.S513",
+            "teacher": "Pablo González"
           }
         },
         {
           "node": {
             "code": "CII2103",
-            "section": "3"
+            "section": "3",
+            "course": "GESTIÓN ESTRATÉGICA",
+            "place": "E441.1.S106",
+            "teacher": "Álex Morales"
           }
         },
         {
           "node": {
             "code": "CIT3203",
-            "section": "1"
+            "section": "1",
+            "course": "PROYECTO EN TICS II",
+            "place": "V432.3.S314",
+            "teacher": "Cristian Osorio"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "5"
+            "section": "5",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S202",
+            "teacher": "Jaime Contreras"
           }
         },
         {
           "node": {
             "code": "CIT2011",
-            "section": "2"
+            "section": "2",
+            "course": "SISTEMAS DISTRIBUIDOS",
+            "place": "V432.3.S315",
+            "teacher": "Nicolás Hidalgo"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "6"
+            "section": "6",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "E441.2.S205",
+            "teacher": "Ignacio Saavedra"
           }
         },
         {
           "node": {
             "code": "CII3710",
-            "section": "1"
+            "section": "1",
+            "course": "FINTECH",
+            "place": "V432.5.S513",
+            "teacher": "Hernán Alvarado"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "2"
+            "section": "2",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "V432.3.S312",
+            "teacher": "Omar Henríquez"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "13"
+            "section": "13",
+            "course": "CÁLCULO II",
+            "place": "V432.3.S312",
+            "teacher": "Boris Brayovic"
           }
         },
         {
           "node": {
             "code": "COC3300",
-            "section": "1"
+            "section": "1",
+            "course": "TALLER DE PROYECTOS",
+            "place": "E441.2.S207",
+            "teacher": "Gabriel Silva"
           }
         },
         {
           "node": {
             "code": "CIT3203",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTO EN TICS II",
+            "place": "V432.3.S315",
+            "teacher": "Leandro Llanza"
           }
         },
         {
           "node": {
             "code": "CII2750",
-            "section": "3"
+            "section": "3",
+            "course": "OPTIMIZACIÓN",
+            "place": "V432.4.S412",
+            "teacher": "Jessica Arismedi"
           }
         },
         {
           "node": {
             "code": "COC3413",
-            "section": "1"
+            "section": "1",
+            "course": "TRANSPORTE DE SEDIMENTOS",
+            "place": "V432.5.S514",
+            "teacher": "Hernán Alcayaga"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "8"
+            "section": "8",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "E441.4.L.D",
+            "teacher": "Marcos Fantoval"
           }
         },
         {
           "node": {
             "code": "CBM1002",
-            "section": "10"
+            "section": "10",
+            "course": "ÁLGEBRA LINEAL",
+            "place": "V432.3.S313",
+            "teacher": "Jaime Contreras"
           }
         },
         {
           "node": {
             "code": "CII3406",
-            "section": "1"
+            "section": "1",
+            "course": "ENERGÍAS RENOVABLES Y SUSTENTABILIDAD",
+            "place": "V432.5.S513",
+            "teacher": "Masoud Behzad"
           }
         },
         {
           "node": {
             "code": "CIT2114",
-            "section": "2"
+            "section": "2",
+            "course": "REDES DE DATOS",
+            "place": "V432.3.S315",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CBM1005",
-            "section": "2"
+            "section": "2",
+            "course": "ECUACIONES DIFERENCIALES",
+            "place": "E441.4.S402",
+            "teacher": "Hugo Carrillo"
           }
         },
         {
           "node": {
             "code": "COC2007",
-            "section": "1"
+            "section": "1",
+            "course": "ADM DE PROYECTOS CIVILES",
+            "place": "V432.4.S412",
+            "teacher": "Alexander Dulovits"
           }
         },
         {
           "node": {
             "code": "CBM1003",
-            "section": "9"
+            "section": "9",
+            "course": "CÁLCULO II",
+            "place": "E441.2.S201",
+            "teacher": "Juan Muñoz"
           }
         },
         {
           "node": {
             "code": "CIT2012",
-            "section": "1"
+            "section": "1",
+            "course": "INGENIERÍA DE SOFTWARE",
+            "place": "V432.5.S515",
+            "teacher": "Matías Rojas"
           }
         },
         {
           "node": {
             "code": "CIT2111",
-            "section": "2"
+            "section": "2",
+            "course": "COMUNICACIONES DIGITALES",
+            "place": "V432.4.S412"
           }
         },
         {
           "node": {
             "code": "COC3518",
-            "section": "1"
+            "section": "1",
+            "course": "SISTEMAS DE CONTENCIÓN DE TALUDES",
+            "place": "V432.5.S515",
+            "teacher": "Víctor Contreras"
           }
         },
         {
           "node": {
             "code": "CIT1010",
-            "section": "9"
+            "section": "9",
+            "course": "PROGRAMACIÓN AVANZADA",
+            "place": "M253A.6.L601",
+            "teacher": "Juan Duarte"
           }
         },
         {
           "node": {
             "code": "CIT2207",
-            "section": "2"
+            "section": "2",
+            "course": "EVALUACIÓN DE PROYECTOS TIC",
+            "place": "V432.5.S514",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CIT3434",
-            "section": "1"
+            "section": "1",
+            "course": "COMUNIC POR LUZ VISIBLE PARA IND INTELIG",
+            "place": "V432.4.S415",
+            "teacher": "Pablo Palacios"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "15"
+            "section": "15",
+            "course": "MECÁNICA",
+            "place": "V432.5.S513",
+            "teacher": "Ricardo Rivera"
           }
         },
         {
           "node": {
             "code": "COC3410",
-            "section": "1"
+            "section": "1",
+            "course": "TECNOLOGÍA DEL ASFALTO",
+            "place": "V432.5.S513",
+            "teacher": "Sergio Valverde"
           }
         },
         {
           "node": {
             "code": "CIT2009",
-            "section": "1"
+            "section": "1",
+            "course": "BASES DE DATOS AVANZADAS",
+            "place": "V432.5.S515",
+            "teacher": "Juan Giadach"
           }
         },
         {
           "node": {
             "code": "CIT2113",
-            "section": "2"
+            "section": "2",
+            "course": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+            "place": "V432.3.S312",
+            "teacher": "Omar Henríquez"
           }
         },
         {
           "node": {
             "code": "CIT3435",
-            "section": "1"
+            "section": "1",
+            "course": "ALGORITMOS DE RUTEO Y REDES RESILIENTES",
+            "place": "V432.5.S514",
+            "teacher": "Nicolás Boettcher"
           }
         },
         {
           "node": {
             "code": "COC2102",
-            "section": "1"
+            "section": "1",
+            "course": "ANÁLISIS ESTRUCTURAL",
+            "place": "V432.5.S515",
+            "teacher": "José Colombo"
           }
         },
         {
           "node": {
             "code": "CIT2207",
-            "section": "2"
+            "section": "2",
+            "course": "EVALUACIÓN DE PROYECTOS TIC",
+            "place": "V432.5.S514",
+            "teacher": "Jorge Elliott"
           }
         },
         {
           "node": {
             "code": "CII3723",
-            "section": "1"
+            "section": "1",
+            "course": "TÓPICOS DE INVESTIGACIÓN OPERATIVA",
+            "place": "V432.5.S514",
+            "teacher": "Francisco Jara"
           }
         },
         {
           "node": {
             "code": "COC2204",
-            "section": "1"
+            "section": "1",
+            "course": "HIDROLOGÍA",
+            "place": "V432.5.S514",
+            "teacher": "Alonso Pizarro"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "2"
+            "section": "2",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "V432.5.S515",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CIT3203",
-            "section": "2"
+            "section": "2",
+            "course": "PROYECTO EN TICS II",
+            "place": "V432.3.S315",
+            "teacher": "Leandro Llanza"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "10"
+            "section": "10",
+            "course": "MECÁNICA",
+            "place": "V432.5.S515",
+            "teacher": "Alejandra León"
           }
         },
         {
           "node": {
             "code": "COC2003",
-            "section": "1"
+            "section": "1",
+            "course": "TECNOLOGÍA DEL HORMIGÓN",
+            "place": "V432.5.S515",
+            "teacher": "Cristián Narváez"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "2"
+            "section": "2",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "V432.5.S515",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "CIT2114",
-            "section": "2"
+            "section": "2",
+            "course": "REDES DE DATOS",
+            "place": "V432.3.S315",
+            "teacher": "por definir"
           }
         },
         {
           "node": {
             "code": "CIT2012",
-            "section": "2"
+            "section": "2",
+            "course": "INGENIERÍA DE SOFTWARE",
+            "place": "V432.5.S515",
+            "teacher": "Matías Rojas"
           }
         },
         {
           "node": {
             "code": "CIT2013",
-            "section": "1"
+            "section": "1",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.5.S515",
+            "teacher": "Martín Gutierrez"
           }
         },
         {
           "node": {
             "code": "CBF1000",
-            "section": "16"
+            "section": "16",
+            "course": "MECÁNICA",
+            "place": "E441.2.S207",
+            "teacher": "Sergio Godoy"
           }
         },
         {
           "node": {
             "code": "CIT2109",
-            "section": "4"
+            "section": "4",
+            "course": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+            "place": "Lab. Telemática",
+            "teacher": "Pablo Sánchez"
           }
         },
         {
           "node": {
             "code": "COC3410",
-            "section": "1"
+            "section": "1",
+            "course": "TECNOLOGÍA DEL ASFALTO",
+            "place": "V432.5.S513",
+            "teacher": "Sergio Valverde"
           }
         },
         {
           "node": {
             "code": "CIT2009",
-            "section": "1"
+            "section": "1",
+            "course": "BASES DE DATOS AVANZADAS",
+            "place": "V432.5.S515",
+            "teacher": "Juan Giadach"
           }
         },
         {
           "node": {
             "code": "COC2008",
-            "section": "1"
+            "section": "1",
+            "course": "PLANIFICACIÓN DE PROYECTOS",
+            "place": "V432.5.S515",
+            "teacher": "Teodosio Cayo"
           }
         },
         {
           "node": {
             "code": "CIT2013",
-            "section": "1"
+            "section": "1",
+            "course": "INTELIGENCIA ARTIFICIAL",
+            "place": "V432.5.S515",
+            "teacher": "Martín Gutierrez"
           }
         }
       ]
