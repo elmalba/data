@@ -3799,7 +3799,7 @@
             "code": "CII2755",
             "section": "1",
             "course": "MODELOS ESTOCÁSTICOS",
-            "place": "E441.-1.AU",
+            "place": "V432.3.AU",
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "4",
@@ -4699,11 +4699,11 @@
             "code": "COC3531",
             "section": "1",
             "course": "MODELACIÓN NUMÉRICA DE ESTRUCTURA",
-            "place": "E441.2.S206",
+            "place": "E441.4.L.U",
             "start": "16:00:00",
             "finish": "17:20:00",
             "day": "1",
-            "teacher": "Asdrubal Ayestarán"
+            "teacher": "William Carrión"
           }
         },
         {
@@ -5119,7 +5119,7 @@
             "code": "CBE2000",
             "section": "5",
             "course": "PROBABILIDADES Y ESTADÍSTICA",
-            "place": "E441.4.L.U",
+            "place": "E441.4.S402",
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "4",
@@ -5395,7 +5395,7 @@
             "code": "CII2254",
             "section": "3",
             "course": "LOGÍSTICA",
-            "place": "V432.3.AU",
+            "place": "V432.4.S412",
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "4",
@@ -6151,7 +6151,7 @@
             "code": "CIT2207",
             "section": "2",
             "course": "EVALUACIÓN DE PROYECTOS TIC",
-            "place": "E441.4.L.U",
+            "place": "E441.5.L.E50",
             "start": "16:00:00",
             "finish": "17:20:00",
             "day": "1",
@@ -10692,6 +10692,18 @@
             "finish": "18:45:00",
             "day": "3",
             "teacher": "Víctor Reyes"
+          }
+        },
+        {
+          "node": {
+            "code": "CII3503",
+            "section": "1",
+            "course": "ENERGIA RENOVABLE Y SUSTENTABILIDAD",
+            "place": "E441.-1.AU",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "3",
+            "teacher": "Masoud Behzad"
           }
         }
       ]
