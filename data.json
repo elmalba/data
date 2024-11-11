@@ -10705,6 +10705,18 @@
             "day": "3",
             "teacher": "Masoud Behzad"
           }
+        },
+        {
+          "node": {
+            "code": "",
+            "section": "1",
+            "course": "Hidrología",
+            "place": "E441.5.EE.50",
+            "start": "13:00:00",
+            "finish": "14:20:00",
+            "day": "2",
+            "teacher": ""
+          }
         }
       ]
     }
