@@ -10709,13 +10709,13 @@
         {
           "node": {
             "code": "COC2204",
-            "section": "1",
+            "section": "2",
             "course": "HIDROLOGÍA",
             "place": "E441.5.EE.50",
             "start": "13:00:00",
             "finish": "14:20:00",
             "day": "2",
-            "teacher": ""
+            "teacher": "Matías Moreno"
           }
         }
       ]
